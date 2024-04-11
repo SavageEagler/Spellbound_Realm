@@ -1,0 +1,4 @@
+bind
+explosivearrow:352
+help
+list

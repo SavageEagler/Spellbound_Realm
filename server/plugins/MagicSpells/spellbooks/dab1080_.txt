@@ -1,0 +1,6 @@
+bind
+help
+list
+scroll
+spellbook
+teach

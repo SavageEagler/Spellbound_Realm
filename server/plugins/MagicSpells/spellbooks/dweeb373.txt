@@ -1,0 +1,4 @@
+bind
+help
+list
+poison

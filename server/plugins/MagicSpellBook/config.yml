@@ -1,11 +1,23 @@
 Config:
-  MaxMana: 200
+  MaxMana: 999999
   ManaPotion: 100
   switch_to_Invetory_after_Spell_used: false
 Player:
   Void:
-    Mana: 170
+    Mana: 185
   SavageEagler_:
-    Mana: 105
+    Mana: 120
   DomoPlanet:
-    Mana: 160
+    Mana: 185
+  maroon6:
+    Mana: 9999
+  Dab1080_:
+    Mana: 140
+  SavageEagler:
+    Mana: 60
+  Dweeb373:
+    Mana: 100
+  ADMIN_maroon5:
+    Mana: 45
+  maroon5:
+    Mana: 15099
