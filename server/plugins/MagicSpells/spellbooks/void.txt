@@ -1,4 +1,4 @@
-confusion
 bind
+confusion
 help
 list

@@ -728,3 +728,193 @@ Caused by: java.util.ConcurrentModificationException
 [16:14:08] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:50998] logged in with entity id 5543 at ([world]386.0, 70.0, -180.0)
 [16:14:09] [Thread-25/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
 [16:14:09] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:51002] logged in with entity id 5587 at ([world]386.0, 70.0, -180.0)
+[16:14:51] [Server thread/INFO]: SavageEagler_ issued server command: /cast list
+[16:14:59] [Server thread/INFO]: SavageEagler_ issued server command: /cast known
+[16:15:05] [Server thread/INFO]: SavageEagler_ issued server command: /cast armour
+[16:15:06] [Server thread/INFO]: Void issued server command: /ClearLag
+[16:15:53] [Async Chat Thread - #3/INFO]: <Void> who all is on[m
+
+[16:16:03] [Async Chat Thread - #3/INFO]: <SavageEagler_> me u and will[m
+
+[16:16:06] [Async Chat Thread - #3/INFO]: <SavageEagler_> duncan[m
+
+[16:16:08] [Async Chat Thread - #3/INFO]: <Void> ok[m
+
+[16:16:18] [Async Chat Thread - #3/INFO]: <SavageEagler_> i can make spellbooks that teach u magic[m
+
+[16:16:32] [Async Chat Thread - #3/INFO]: <Void> ok[m
+
+[16:16:36] [Server thread/INFO]: That person already knows that spell.[m
+
+[16:16:43] [Server thread/INFO]: That person already knows that spell.[m
+
+[16:17:15] [Server thread/INFO]: SavageEagler_ issued server command: /cast spellbook fireball
+[16:17:26] [Async Chat Thread - #3/INFO]: <Void> gonna wait here[m
+
+[16:17:28] [Server thread/INFO]: SavageEagler_ issued server command: /cast spellbook fireball
+[16:17:32] [Server thread/INFO]: SavageEagler_ issued server command: /cast spellbook fireball
+[16:17:38] [Server thread/INFO]: SavageEagler_ issued server command: /cast spellbook fireball
+[16:18:00] [Server thread/INFO]: SavageEagler_ issued server command: /cast spellbook disarm
+[16:18:01] [Server thread/INFO]: maroon5 has just earned the achievement [Time to Mine!]
+[16:18:16] [Server thread/INFO]: maroon5 has just earned the achievement [Time to Strike!]
+[16:18:24] [Server thread/INFO]: SavageEagler_ issued server command: /cast spellbook disarm
+[16:18:26] [Async Chat Thread - #3/INFO]: <Void> also are we gonna get our old loot back or justt get it back ourself[m
+
+[16:18:34] [Async Chat Thread - #3/INFO]: <SavageEagler_> get it back urself[m
+
+[16:18:38] [Async Chat Thread - #3/INFO]: <Void> ok[m
+
+[16:19:01] [Server thread/INFO]: maroon5 has just earned the achievement [Getting an Upgrade]
+[16:19:09] [Server thread/INFO]: SavageEagler_ issued server command: /w
+[16:19:17] [Async Chat Thread - #3/INFO]: <Void> i dont know how to crouch[m
+
+[16:19:23] [Async Chat Thread - #3/INFO]: <SavageEagler_> shift[m
+
+[16:19:36] [Async Chat Thread - #3/INFO]: <SavageEagler_> tp Void[m
+
+[16:19:51] [Server thread/INFO]: SavageEagler_ issued server command: /cast spellbook disarm
+[16:20:10] [Server thread/INFO]: maroon5 has just earned the achievement [Hot Topic]
+[16:20:17] [Server thread/INFO]: SavageEagler_ issued server command: /tpa maroon5
+[16:20:22] [Server thread/INFO]: Void issued server command: /tp <SavageEagler>
+[16:20:32] [Async Chat Thread - #3/INFO]: <Void> dont have permission[m
+
+[16:20:57] [Async Chat Thread - #3/INFO]: <SavageEagler_> do /tpa SavageEagler_[m
+
+[16:20:58] [Server thread/INFO]: maroon5 has just earned the achievement [Acquire Hardware]
+[16:21:18] [Server thread/INFO]: Void issued server command: /tpa SavageEagler_
+[16:21:19] [Server thread/INFO]: SavageEagler_ issued server command: /tpyes
+[16:21:35] [Server thread/INFO]: SavageEagler_ issued server command: /cast spellbook disarm 1
+[16:21:42] [Async Chat Thread - #3/INFO]: <SavageEagler_> hit the bookshelf[m
+
+[16:21:48] [Async Chat Thread - #3/INFO]: <Void> did[m
+
+[16:21:53] [Async Chat Thread - #3/INFO]: <SavageEagler_> right cklick[m
+
+[16:21:55] [Async Chat Thread - #3/INFO]: <SavageEagler_> click[m
+
+[16:22:00] [Async Chat Thread - #3/INFO]: <Void> i have it[m
+
+[16:22:04] [Async Chat Thread - #3/INFO]: <SavageEagler_> the spell[m
+
+[16:22:20] [Server thread/INFO]: Void issued server command: /cast <disarm>
+[16:22:26] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:22:41] [Server thread/INFO]: Void issued server command: /Cast spell <disarm>
+[16:22:43] [Server thread/INFO]: SavageEagler_ issued server command: /cast forget Void disarm
+[16:22:58] [Async Chat Thread - #3/INFO]: <SavageEagler_> alr ima make the first dungeon[m
+
+[16:23:01] [Async Chat Thread - #3/INFO]: <Void> ok[m
+
+[16:23:30] [Server thread/INFO]: maroon5 has just earned the achievement [Cow Tipper]
+[16:23:48] [Server thread/INFO]: Void has just earned the achievement [Getting Wood]
+[16:25:43] [Server thread/INFO]: SavageEagler_ issued server command: /butcher
+[16:26:00] [Server thread/INFO]: maroon5 has just earned the achievement [Monster Hunter]
+[16:26:23] [Thread-26/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[16:26:23] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:46446] logged in with entity id 8973 at ([world]376.16985069420963, 58.18284828255778, -198.67225161164896)
+[16:26:26] [Server thread/INFO]: DomoPlanet issued server command: /
+[16:27:33] [Server thread/INFO]: SavageEagler_ issued server command: //fill stone 100
+[16:28:17] [Async Chat Thread - #4/INFO]: <DomoPlanet> how do i tp to someone[m
+
+[16:28:25] [Async Chat Thread - #4/INFO]: <SavageEagler_> ./tpa[m
+
+[16:28:32] [Server thread/INFO]: DomoPlanet issued server command: /tpa void
+[16:28:41] [Server thread/INFO]: Void issued server command: /tpdeny
+[16:28:44] [Async Chat Thread - #4/INFO]: <DomoPlanet> how do i get spells[m
+
+[16:28:52] [Server thread/INFO]: DomoPlanet issued server command: /tpa savageealger
+[16:29:00] [Async Chat Thread - #4/INFO]: <Void> why do you want to tp to me[m
+
+[16:29:08] [Async Chat Thread - #4/INFO]: <DomoPlanet> help[m
+
+[16:29:37] [Async Chat Thread - #4/INFO]: <Void> ill help in a minute but need to get my bearings[m
+
+[16:29:41] [Async Chat Thread - #4/INFO]: <DomoPlanet> please[m
+
+[16:30:07] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[16:30:07] [Server thread/INFO]: DomoPlanet left the game.
+[16:30:10] [Thread-27/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[16:30:10] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:49474] logged in with entity id 9705 at ([world]386.0, 70.0, -180.0)
+[16:30:21] [Async Chat Thread - #4/INFO]: <Void> ok tp to me now[m
+
+[16:30:35] [Server thread/INFO]: DomoPlanet issued server command: /tpa void
+[16:30:41] [Server thread/INFO]: Void issued server command: /tpaccept
+[16:30:56] [Async Chat Thread - #4/INFO]: <DomoPlanet> redo[m
+
+[16:31:01] [Async Chat Thread - #4/INFO]: <Void> ok[m
+
+[16:31:05] [Server thread/INFO]: DomoPlanet issued server command: /tpa void
+[16:31:08] [Server thread/INFO]: Void issued server command: /tpaccept
+[16:31:15] [Async Chat Thread - #4/INFO]: <DomoPlanet> BRU[m
+
+[16:31:18] [Server thread/INFO]: DomoPlanet issued server command: /tpa void
+[16:31:20] [Async Chat Thread - #4/INFO]: <Void> what[m
+
+[16:31:23] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:211) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:8) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 26 more
+[16:31:23] [Server thread/INFO]: DomoPlanet drowned
+[16:31:51] [Async Chat Thread - #4/INFO]: <SavageEagler_> did u kill gregg[m
+
+[16:31:57] [Async Chat Thread - #4/INFO]: <Void> no[m
+
+[16:31:58] [Async Chat Thread - #4/INFO]: <DomoPlanet> no i drowned[m
+
+[16:32:32] [Async Chat Thread - #4/INFO]: <Void> hey[m
+
+[16:32:36] [Async Chat Thread - #4/INFO]: <DomoPlanet> hayyy[m
+
+[16:32:49] [Async Chat Thread - #4/INFO]: <Void> gtg in a sec to change classes[m
+
+[16:32:49] [Async Chat Thread - #4/INFO]: <DomoPlanet> i gotta go[m
+
+[16:32:51] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[16:32:51] [Server thread/INFO]: DomoPlanet left the game.
+[16:33:33] [Async Chat Thread - #4/INFO]: <Void> need bind spell btw[m
+
+[16:33:51] [Server thread/INFO]: SavageEagler_ issued server command: /give SavageEagler_ 52
+[16:33:51] [Server thread/INFO]: [SavageEagler_: There is no such item with name minecraft:52]
+[16:33:54] [Server thread/INFO]: Void lost connection: Disconnected
+[16:33:54] [Server thread/INFO]: Void left the game.
+[16:33:58] [Server thread/INFO]: SavageEagler_ issued server command: /give SavageEagler_ spawner 1
+[16:33:58] [Server thread/INFO]: [SavageEagler_: There is no such item with name minecraft:spawner]
+[16:34:07] [Server thread/INFO]: SavageEagler_ issued server command: /give SavageEagler_ mob_spawner 1
+[16:34:07] [Server thread/INFO]: [SavageEagler_: Given [Monster Spawner] * 1 to SavageEagler_]
+[16:34:10] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[16:34:10] [Server thread/INFO]: maroon5 left the game.
+[16:36:10] [Server thread/INFO]: SavageEagler_ issued server command: /cast spellbook shadowstep 1
+[16:36:14] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
+[16:36:14] [Server thread/INFO]: SavageEagler_ left the game.
