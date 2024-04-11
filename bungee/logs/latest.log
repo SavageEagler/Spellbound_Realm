@@ -54,3 +54,11 @@
 [15:33:25] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45594]: Logged in as 'SavageEagler'
 [15:33:25] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45594|SavageEagler] -> UpstreamBridge has connected
 [15:33:25] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:45594] <-> ServerConnector [lobby] has connected
+[15:36:59] [Netty Worker IO Thread #2/INFO]: [SavageEagler] disconnected with: Server closed
+[15:36:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45594|SavageEagler] -> UpstreamBridge has disconnected
+[15:36:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45594|SavageEagler] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:37:08] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56206]: Connected via websocket
+[15:37:08] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56206]: Origin header is http://localhost:8081
+[15:37:08] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56206]: Logged in as 'SavageEagler'
+[15:37:08] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:56206|SavageEagler] -> UpstreamBridge has connected
+[15:37:08] [Netty Worker IO Thread #0/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:56206] <-> ServerConnector [lobby] has connected
