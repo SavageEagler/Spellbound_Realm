@@ -2,3 +2,6 @@ Config:
   MaxMana: 200
   ManaPotion: 100
   switch_to_Invetory_after_Spell_used: false
+Player:
+  Void:
+    Mana: 90

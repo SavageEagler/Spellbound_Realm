@@ -360,3 +360,176 @@ java.io.FileNotFoundException: plugins/MyWarp/config.yml (Is a directory)
 
 [15:51:07] [Server thread/INFO]: Unknown spell.[m
 
+[15:51:28] [Server thread/INFO]: Set SavageEagler's game mode to Creative Mode
+[15:51:35] [Server thread/INFO]: SavageEagler issued server command: /setworldspawn
+[15:51:40] [Server thread/INFO]: Opped SavageEagler
+[15:51:42] [Server thread/INFO]: SavageEagler issued server command: /setworldspawn
+[15:51:42] [Server thread/INFO]: [SavageEagler: Set the world spawn point to (386, 70, -180)]
+[15:51:48] [Server thread/INFO]: De-opped SavageEagler
+[15:51:52] [Server thread/INFO]: Set SavageEagler's game mode to Survival Mode
+[15:51:56] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[15:51:56] [Server thread/INFO]: SavageEagler left the game.
+[15:54:12] [Thread-10/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[15:54:13] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:59284] logged in with entity id 1589 at ([world]386.0, 70.0, -180.0)
+[15:54:13] [Craft Scheduler Thread - 4/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[15:54:13] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:54:43] [Server thread/INFO]: Void lost connection: Login timed out!
+[15:54:43] [Server thread/INFO]: Void left the game.
+[15:54:43] [Server thread/WARN]: handleDisconnection() called twice
+[15:54:47] [Thread-11/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[15:54:47] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:56788] logged in with entity id 1596 at ([world]386.0, 70.0, -180.0)
+[15:54:47] [Craft Scheduler Thread - 4/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[15:54:47] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:55:14] [Server thread/INFO]: Void has just earned the achievement [Taking Inventory]
+[15:55:18] [Server thread/INFO]: Void lost connection: Login timed out!
+[15:55:18] [Server thread/INFO]: Void left the game.
+[15:55:18] [Server thread/WARN]: handleDisconnection() called twice
+[15:55:28] [Thread-12/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[15:55:29] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:48586] logged in with entity id 1611 at ([world]386.0, 70.0, -180.0)
+[15:55:29] [Craft Scheduler Thread - 4/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[15:55:29] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:55:59] [Server thread/INFO]: Void lost connection: Login timed out!
+[15:55:59] [Server thread/INFO]: Void left the game.
+[15:55:59] [Server thread/WARN]: handleDisconnection() called twice
+[15:56:48] [Thread-13/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[15:56:48] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:39518] logged in with entity id 1614 at ([world]386.0, 70.0, -180.0)
+[15:56:48] [Craft Scheduler Thread - 5/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[15:56:48] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:57:04] [Thread-14/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[15:57:04] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:53880] logged in with entity id 1616 at ([world]386.0, 70.0, -180.0)
+[15:57:04] [Craft Scheduler Thread - 5/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[15:57:04] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:57:16] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:211) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 26 more
+[15:57:16] [Server thread/INFO]: Void drowned
+[15:57:23] [Server thread/INFO]: maroon5 has just earned the achievement [Taking Inventory]
+[15:57:51] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.attack(EntityHuman.java:1002) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.attack(EntityPlayer.java:1086) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1382) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:11) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 23 more
+[15:57:51] [Server thread/INFO]: Void was slain by maroon5
+[15:58:02] [Async Chat Thread - #0/INFO]: <Void> whats going on[m
+
+[15:58:17] [Thread-15/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[15:58:17] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:42082] logged in with entity id 1740 at ([world]386.0, 70.0, -180.0)
+[15:58:17] [Craft Scheduler Thread - 6/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[15:58:17] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
