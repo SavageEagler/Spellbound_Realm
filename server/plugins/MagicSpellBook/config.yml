@@ -4,4 +4,6 @@ Config:
   switch_to_Invetory_after_Spell_used: false
 Player:
   Void:
-    Mana: 90
+    Mana: 170
+  SavageEagler_:
+    Mana: 105

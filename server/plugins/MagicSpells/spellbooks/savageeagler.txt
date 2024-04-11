@@ -1,4 +1,4 @@
-
 bind
+disarm
 help
 list

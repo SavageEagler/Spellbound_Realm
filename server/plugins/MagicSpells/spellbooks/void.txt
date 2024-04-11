@@ -1,2 +1,4 @@
+confusion
+bind
 help
 list

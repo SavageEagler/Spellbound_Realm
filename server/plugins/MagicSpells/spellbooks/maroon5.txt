@@ -1,2 +1,4 @@
+bind
+fireball
 help
 list

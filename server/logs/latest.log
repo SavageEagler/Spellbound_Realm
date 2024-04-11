@@ -533,3 +533,198 @@ java.sql.SQLException: Failed set location id in profile
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:58:23] [Async Chat Thread - #0/INFO]: <maroon5> u died is whats going on[m
+
+[15:58:24] [Server thread/INFO]: Void issued server command: /help
+[15:58:52] [Server thread/INFO]: maroon5 was slain by Spider
+[15:58:55] [Async Chat Thread - #0/INFO]: <DomoPlanet> ahaah[m
+
+[15:59:09] [Server thread/INFO]: Void issued server command: /MagicSpellBook
+[15:59:18] [Server thread/INFO]: Void issued server command: /help
+[15:59:23] [Server thread/INFO]: maroon5 was slain by Spider
+[15:59:36] [Server thread/INFO]: Void issued server command: /MagicSpells
+[15:59:51] [Server thread/INFO]: maroon5 issued server command: /cast fireball
+[15:59:56] [Server thread/INFO]: Void issued server command: /help MagicSpellBook
+[16:00:22] [Server thread/INFO]: Void issued server command: /help MagicSpells
+[16:00:28] [Server thread/INFO]: DomoPlanet has just earned the achievement [Taking Inventory]
+[16:00:53] [Server thread/INFO]: DomoPlanet has just earned the achievement [Getting Wood]
+[16:00:55] [Async Chat Thread - #1/INFO]: <Void> how do i see what spells i have[m
+
+[16:01:11] [Async Chat Thread - #1/INFO]: <maroon5> we dont got our spells yet[m
+
+[16:01:13] [Server thread/INFO]: Void issued server command: /sb
+[16:01:15] [Async Chat Thread - #1/INFO]: <DomoPlanet> i just figured it out[m
+
+[16:01:17] [Server thread/INFO]: You have taught Void the confusion spell.[m
+
+[16:01:19] [Async Chat Thread - #1/INFO]: <DomoPlanet> i gotta go in a sec[m
+
+[16:01:26] [Server thread/INFO]: You have taught maroon5 the fireball spell.[m
+
+[16:01:31] [Async Chat Thread - #1/INFO]: <DomoPlanet> we'll get the spells later when lcuas codes it in[m
+
+[16:01:41] [Async Chat Thread - #1/INFO]: <Void> gtg[m
+
+[16:01:43] [Server thread/INFO]: Void lost connection: Disconnected
+[16:01:43] [Server thread/INFO]: Void left the game.
+[16:02:06] [Server thread/INFO]: maroon5 issued server command: /cast fireball
+[16:02:08] [Thread-16/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[16:02:08] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:47990] logged in with entity id 2462 at ([world]386.0, 70.0, -180.0)
+[16:02:46] [Server thread/INFO]: You have taught SavageEagler the disarm spell.[m
+
+[16:02:51] [Async Chat Thread - #2/INFO]: <maroon5> e[m
+
+[16:03:22] [Async Chat Thread - #2/INFO]: <DomoPlanet> dayum you got diamon[m
+
+[16:03:28] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[16:03:28] [Server thread/INFO]: DomoPlanet left the game.
+[16:03:31] [Async Chat Thread - #2/INFO]: <SavageEagler> ive been on longer[m
+
+[16:03:52] [Async Chat Thread - #2/INFO]: <maroon5> e[m
+
+[16:04:06] [Server thread/INFO]: Could not de-op SavageEagler
+[16:04:41] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[16:04:41] [Server thread/INFO]: maroon5 left the game.
+[16:04:42] [Thread-17/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[16:04:42] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:57072] logged in with entity id 3424 at ([world]275.69999998807907, 64.0, -530.045243558152)
+[16:05:41] [Server thread/INFO]: maroon5 has just earned the achievement [Getting Wood]
+[16:06:17] [Server thread/INFO]: SavageEagler has just earned the achievement [Getting Wood]
+[16:06:26] [Server thread/INFO]: SavageEagler has just earned the achievement [Benchmarking]
+[16:06:35] [Server thread/INFO]: maroon5 has just earned the achievement [Benchmarking]
+[16:07:50] [Server thread/INFO]: You have taught maroon5 the bind spell.[m
+
+[16:07:51] [Server thread/INFO]: maroon5 issued server command: /sethome e
+[16:08:10] [Server thread/INFO]: You have taught SavageEagler the bind spell.[m
+
+[16:09:18] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[16:09:18] [Server thread/INFO]: SavageEagler left the game.
+[16:09:23] [Thread-18/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[16:09:24] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:57312] logged in with entity id 4135 at ([world]386.0, 70.0, -180.0)
+[16:09:24] [Craft Scheduler Thread - 14/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[16:09:24] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[16:09:31] [Server thread/INFO]: SavageEagler_ has just earned the achievement [Taking Inventory]
+[16:09:36] [Server thread/INFO]: Opped SavageEagler_
+[16:09:43] [Server thread/INFO]: SavageEagler_ issued server command: /cast list
+[16:09:52] [Server thread/INFO]: SavageEagler_ issued server command: /gamemode 1
+[16:09:52] [Server thread/INFO]: [SavageEagler_: Set own game mode to Creative Mode]
+[16:09:55] [Server thread/INFO]: SavageEagler_ issued server command: /gamemode 0
+[16:09:55] [Server thread/INFO]: [SavageEagler_: Set own game mode to Survival Mode]
+[16:09:59] [Server thread/INFO]: SavageEagler_ issued server command: /cast list
+[16:10:22] [Server thread/INFO]: SavageEagler_ issued server command: /gamemode 1
+[16:10:22] [Server thread/INFO]: [SavageEagler_: Set own game mode to Creative Mode]
+[16:10:26] [Server thread/INFO]: SavageEagler_ issued server command: /cast list
+[16:10:35] [Server thread/INFO]: SavageEagler_ issued server command: /cast teach
+[16:10:49] [Server thread/INFO]: De-opped SavageEagler_
+[16:10:55] [Server thread/INFO]: SavageEagler_ issued server command: /cast list
+[16:10:59] [Server thread/INFO]: Opped SavageEagler_
+[16:11:01] [Server thread/INFO]: SavageEagler_ issued server command: /cast list
+[16:11:06] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
+[16:11:06] [Server thread/INFO]: SavageEagler_ left the game.
+[16:11:08] [Thread-19/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[16:11:08] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:43364] logged in with entity id 4308 at ([world]388.7249210009824, 71.0, -174.9918939726606)
+[16:11:59] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Explosion.a(Explosion.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.createExplosion(World.java:1916) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.createExplosion(WorldServer.java:1053) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityCreeper.cr(EntityCreeper.java:216) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityCreeper.t_(EntityCreeper.java:103) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 23 more
+[16:11:59] [Server thread/INFO]: maroon5 was blown up by Creeper
+[16:12:04] [Server thread/INFO]: maroon5 issued server command: /back
+[16:12:12] [Server thread/INFO]: maroon5 issued server command: /back
+[16:12:23] [Server thread/INFO]: SavageEagler_ issued server command: /cast list
+[16:12:32] [Server thread/INFO]: maroon5 issued server command: /back
+[16:12:41] [Thread-21/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[16:12:41] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:34384] logged in with entity id 5097 at ([world]385.7970523747306, 70.0, -183.69999998807907)
+[16:13:12] [Server thread/INFO]: Void issued server command: //login <deadpool>
+[16:13:12] [Server thread/INFO]: Void lost connection: Login timed out!
+[16:13:12] [Server thread/INFO]: Void left the game.
+[16:13:12] [Server thread/WARN]: handleDisconnection() called twice
+[16:13:15] [Thread-22/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[16:13:15] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:54596] logged in with entity id 5288 at ([world]385.7970523747306, 33.0, -183.69999998807907)
+[16:13:34] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[16:13:34] [Server thread/INFO]: maroon5 left the game.
+[16:13:35] [Thread-23/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[16:13:35] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:41638] logged in with entity id 5317 at ([world]386.0, 70.0, -180.0)
+[16:13:47] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:211) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 26 more
+[16:13:47] [Server thread/INFO]: Void drowned
+[16:14:01] [Server thread/INFO]: Void lost connection: Disconnected
+[16:14:01] [Server thread/INFO]: Void left the game.
+[16:14:06] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
+[16:14:06] [Server thread/INFO]: SavageEagler_ left the game.
+[16:14:08] [Thread-24/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[16:14:08] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:50998] logged in with entity id 5543 at ([world]386.0, 70.0, -180.0)
+[16:14:09] [Thread-25/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[16:14:09] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:51002] logged in with entity id 5587 at ([world]386.0, 70.0, -180.0)
