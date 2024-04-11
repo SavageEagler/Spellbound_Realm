@@ -49,3 +49,8 @@
 [15:27:05] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [15:27:05] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [15:31:44] [Netty Worker IO Thread #0/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/Spellbound_Realm/bungee/server-icon.png
+[15:33:25] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45594]: Connected via websocket
+[15:33:25] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45594]: Origin header is http://localhost:8081
+[15:33:25] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45594]: Logged in as 'SavageEagler'
+[15:33:25] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45594|SavageEagler] -> UpstreamBridge has connected
+[15:33:25] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:45594] <-> ServerConnector [lobby] has connected

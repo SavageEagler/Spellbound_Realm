@@ -263,3 +263,76 @@
 
 [15:27:21] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 5.2.0 (Running 5.1.0). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
 
+[15:33:25] [Thread-10/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[15:33:25] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:44298] logged in with entity id 2007 at ([world]198.0, 64.0, -299.0)
+[15:33:25] [Craft Scheduler Thread - 1/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[15:33:25] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:33:41] [Server thread/INFO]: SavageEagler issued server command: /install magicspells
+[15:33:48] [Server thread/INFO]: SavageEagler issued server command: /plist
+[15:33:56] [Server thread/INFO]: [0;32;1mHere is a list of available plugins in the database:[m
+
+[15:33:56] [Server thread/INFO]: 1. AdminFun             8. ChestMaster[m
+
+[15:33:56] [Server thread/INFO]: 2. AntiSwear            9. Citizens[m
+
+[15:33:56] [Server thread/INFO]: 3. AuthMe               10. ClearLag[m
+
+[15:33:56] [Server thread/INFO]: 4. AyunCord             11. CommandNPC[m
+
+[15:33:56] [Server thread/INFO]: 5. BattleArena          12. ComZombies[m
+
+[15:33:56] [Server thread/INFO]: 6. BitchFilter          13. CoreProtect[m
+
+[15:33:56] [Server thread/INFO]: 7. BloodMoon            14. CrackShot[m
+
+[15:33:56] [Server thread/INFO]:              Page 1 of 6[m
+
+[15:33:56] [Server thread/INFO]: Note: You do not need to have proper[m
+
+[15:33:56] [Server thread/INFO]: capitalization when using the install command[m
+
+[15:34:01] [Server thread/INFO]: [0;32;1mHere is a list of available plugins in the database:[m
+
+[15:34:01] [Server thread/INFO]: 15. CraftBook            22. EssentialsSpawn[m
+
+[15:34:01] [Server thread/INFO]: 16. DupePatch            23. Factions[m
+
+[15:34:01] [Server thread/INFO]: 17. DynMap               24. FakePlayersOnline[m
+
+[15:34:01] [Server thread/INFO]: 18. Essentials           25. LortinsRPGMobs[m
+
+[15:34:01] [Server thread/INFO]: 19. EssentialsAntiBuild  26. MagicSpellBook[m
+
+[15:34:01] [Server thread/INFO]: 20. EssentialsChat       27. MagicSpells[m
+
+[15:34:01] [Server thread/INFO]: 21. EssentialsProtect    28. MarriageMaster[m
+
+[15:34:01] [Server thread/INFO]:              Page 2 of 6[m
+
+[15:34:01] [Server thread/INFO]: Note: You do not need to have proper[m
+
+[15:34:01] [Server thread/INFO]: capitalization when using the install command[m
+
+[15:34:12] [Server thread/INFO]: You have successfully installed the [0;32;1mMAGICSPELLS[0;37;1m plugin![m
+
+[15:34:20] [Server thread/INFO]: You have successfully installed the [0;32;1mMAGICSPELLBOOK[0;37;1m plugin![m
+
+[15:34:29] [Server thread/INFO]: You have successfully installed the [0;32;1mMYWARP[0;37;1m plugin![m
+
+[15:34:31] [Server thread/INFO]: Opped SavageEagler
+[15:34:35] [Server thread/INFO]: SavageEagler issued server command: /setwarp
+[15:34:41] [Server thread/INFO]: SavageEagler issued server command: /plugins
+[15:34:55] [Server thread/INFO]: SavageEagler has just earned the achievement [Taking Inventory]
+[15:35:01] [Server thread/INFO]: SavageEagler issued server command: /gamemode 1
+[15:35:01] [Server thread/INFO]: [SavageEagler: Set own game mode to Creative Mode]
+[15:35:12] [Server thread/INFO]: SavageEagler issued server command: /give SavageEagler command_block 1
+[15:35:12] [Server thread/INFO]: [SavageEagler: Given [Command Block] * 1 to SavageEagler]
