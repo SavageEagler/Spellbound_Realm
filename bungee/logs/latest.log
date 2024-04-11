@@ -50,3 +50,10 @@
 [19:32:23] [Netty Boss IO Thread #0/WARN]: Could not bind to host /127.0.0.1:25577
 io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
 [19:32:24] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/Spellbound_Realm/bungee/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+[19:43:52] [Shutdown Thread/INFO]: Closing pending connections
+[19:43:52] [Shutdown Thread/INFO]: Disconnecting 0 connections
+[19:43:52] [Shutdown Thread/INFO]: Disabling plugins
+[19:43:52] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[19:43:52] [Shutdown Thread/INFO] [EaglercraftXBungee]: Stopping skin cache HTTP client...
+[19:43:54] [Shutdown Thread/INFO]: Closing IO threads
+[19:43:56] [Shutdown Thread/INFO]: Thank you and goodbye
