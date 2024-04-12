@@ -5773,3 +5773,238 @@ Caused by: java.util.ConcurrentModificationException
 [18:38:06] [Server thread/INFO]: Dab1080_ issued server command: /cast bind cripple
 [18:38:13] [Server thread/INFO]: Dab1080_ lost connection: Disconnected
 [18:38:13] [Server thread/INFO]: Dab1080_ left the game.
+[18:41:11] [Thread-141/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[18:41:11] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:51248] logged in with entity id 175988 at ([world]386.0, 70.0, -180.0)
+[18:41:11] [Thread-142/INFO]: UUID of player SmgShane is 29e7477b-5ec1-3ad0-9395-b1a1f26d57e2
+[18:41:11] [Server thread/INFO]: SmgShane[/[0:0:0:0:0:0:0:1]:51258] logged in with entity id 175992 at ([world]386.0, 70.0, -180.0)
+[18:41:12] [Thread-143/INFO]: UUID of player Dweeb373 is a8b75ddd-a143-324b-a193-53bc7b022c78
+[18:41:12] [Server thread/INFO]: Dweeb373[/[0:0:0:0:0:0:0:1]:51266] logged in with entity id 176010 at ([world]386.0, 70.0, -180.0)
+[18:41:53] [Thread-144/INFO]: UUID of player Dab1080_ is 00165dc4-ac24-3713-af5f-2b9e886ad18c
+[18:41:53] [Server thread/INFO]: Dab1080_[/[0:0:0:0:0:0:0:1]:56944] logged in with entity id 176512 at ([world]386.0, 70.0, -180.0)
+[18:43:05] [Server thread/INFO]: Dab1080_ issued server command: /cast cripple
+[18:43:15] [Server thread/INFO]: Dab1080_ issued server command: /cast cripple
+[18:44:30] [Thread-146/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[18:44:30] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:34394] logged in with entity id 177005 at ([world]386.0, 70.0, -180.0)
+[18:44:32] [Server thread/INFO]: Dweeb373 issued server command: /wb
+[18:44:35] [Server thread/INFO]: Dweeb373 issued server command: /help
+[18:44:43] [Async Chat Thread - #59/INFO]: <SmgShane> y[m
+
+[18:44:46] [Async Chat Thread - #59/INFO]: <Dab1080_> cause[m
+
+[18:44:49] [Async Chat Thread - #59/INFO]: <SavageEagler> lag[m
+
+[18:44:51] [Async Chat Thread - #59/INFO]: <DomoPlanet> we finna fuck in the barhtoom rn??????[m
+
+[18:44:53] [Async Chat Thread - #59/INFO]: <DomoPlanet> we finna fuck in the barhtoom rn??????[m
+
+[18:44:54] [Async Chat Thread - #59/INFO]: <DomoPlanet> we finna fuck in the barhtoom rn??????[m
+
+[18:44:55] [Async Chat Thread - #59/INFO]: <DomoPlanet> we finna fuck in the barhtoom rn??????[m
+
+[18:44:56] [Async Chat Thread - #59/INFO]: <DomoPlanet> we finna fuck in the barhtoom rn??????[m
+
+[18:44:56] [Async Chat Thread - #59/INFO]: <DomoPlanet> we finna fuck in the barhtoom rn??????[m
+
+[18:44:57] [Async Chat Thread - #59/INFO]: <DomoPlanet> we finna fuck in the barhtoom rn??????[m
+
+[18:44:59] [Server thread/INFO]: Dweeb373 issued server command: /Minecraft
+[18:45:00] [Async Chat Thread - #59/INFO]: <Dab1080_> YES[m
+
+[18:45:06] [Server thread/INFO]: Dweeb373 issued server command: /magicspells
+[18:45:14] [Server thread/INFO]: Dweeb373 issued server command: /MagicSpells
+[18:46:29] [Server thread/INFO]: Dweeb373 issued server command: /list
+[18:46:39] [Server thread/INFO]: Dweeb373 issued server command: /cast list
+[18:46:52] [Server thread/INFO]: Dab1080_ lost connection: Disconnected
+[18:46:52] [Server thread/INFO]: Dab1080_ left the game.
+[18:46:57] [Server thread/INFO]: SavageEagler issued server command: /cast list
+[18:47:03] [Server thread/INFO]: SavageEagler issued server command: /cast list DomoPlanet
+[18:47:05] [Server thread/INFO]: Dweeb373 issued server command: /cast list DomoPlanet
+[18:47:29] [Server thread/INFO]: DomoPlanet issued server command: /cast list firenova Dweeb373
+[18:47:32] [Server thread/INFO]: SmgShane lost connection: Disconnected
+[18:47:32] [Server thread/INFO]: SmgShane left the game.
+[18:47:46] [Server thread/INFO]: DomoPlanet issued server command: /cast firevona Dweeb373
+[18:47:55] [Async Chat Thread - #60/INFO]: <Dweeb373> digger[m
+
+[18:47:58] [Server thread/INFO]: Dweeb373 issued server command: /bigger
+[18:48:00] [Server thread/INFO]: Dweeb373 issued server command: /trigger
+[18:48:01] [Server thread/INFO]: DomoPlanet issued server command: /cast Dweeb373 firevona
+[18:48:11] [Async Chat Thread - #60/INFO]: <Dweeb373> trigger[m
+
+[18:48:12] [Server thread/INFO]: Enchanting succeeded
+[18:48:15] [Async Chat Thread - #60/INFO]: <DomoPlanet> n..[m
+
+[18:48:17] [Async Chat Thread - #60/INFO]: <DomoPlanet> i[m
+
+[18:48:19] [Async Chat Thread - #60/INFO]: <DomoPlanet> g[m
+
+[18:48:20] [Async Chat Thread - #60/INFO]: <DomoPlanet> g[m
+
+[18:48:21] [Async Chat Thread - #60/INFO]: <DomoPlanet> r[m
+
+[18:48:22] [Server thread/INFO]: Enchanting succeeded
+[18:48:27] [Async Chat Thread - #60/INFO]: <Dweeb373> forgot the e[m
+
+[18:48:30] [Server thread/INFO]: Enchanting succeeded
+[18:48:33] [Async Chat Thread - #60/INFO]: <Dweeb373> n[m
+
+[18:48:35] [Async Chat Thread - #60/INFO]: <Dweeb373> i[m
+
+[18:48:36] [Server thread/INFO]: Enchanting succeeded
+[18:48:37] [Async Chat Thread - #60/INFO]: <Dweeb373> g[m
+
+[18:48:39] [Async Chat Thread - #60/INFO]: <Dweeb373> g[m
+
+[18:48:41] [Async Chat Thread - #60/INFO]: <Dweeb373> e[m
+
+[18:48:41] [Async Chat Thread - #60/INFO]: <DomoPlanet> e[m
+
+[18:48:42] [Async Chat Thread - #60/INFO]: <DomoPlanet> r[m
+
+[18:48:42] [Server thread/INFO]: Dweeb373 issued server command: /r
+[18:48:43] [Server thread/INFO]: Enchanting succeeded
+[18:48:52] [Async Chat Thread - #60/INFO]: <Dweeb373> eat a dick[m
+
+[18:48:54] [Server thread/INFO]: Enchanting succeeded
+[18:48:58] [Server thread/INFO]: Enchanting succeeded
+[18:49:01] [Server thread/INFO]: Enchanting succeeded
+[18:49:10] [Server thread/INFO]: Enchanting succeeded
+[18:49:15] [Server thread/INFO]: Enchanting succeeded
+[18:49:18] [Server thread/INFO]: Enchanting succeeded
+[18:49:21] [Server thread/INFO]: Enchanting succeeded
+[18:49:26] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler can you give me a sigma lvl bow???
+[18:49:29] [Server thread/INFO]: Enchanting succeeded
+[18:49:50] [Server thread/INFO]: The number you have entered (5) is too big, it must be at most 3
+[18:49:51] [Server thread/INFO]: The number you have entered (4) is too big, it must be at most 3
+[18:49:53] [Server thread/INFO]: Enchanting succeeded
+[18:50:09] [Server thread/INFO]: Set SavageEagler's game mode to Creative Mode
+[18:50:30] [Server thread/INFO]: Dweeb373 issued server command: /help
+[18:50:41] [Server thread/INFO]: Dweeb373 issued server command: /Aliases
+[18:51:17] [Server thread/INFO]: Set SavageEagler's game mode to Survival Mode
+[18:51:42] [Server thread/INFO]: Set SavageEagler's game mode to Creative Mode
+[18:52:08] [Server thread/INFO]: Set SavageEagler's game mode to Survival Mode
+[18:52:14] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler i need 1 more unbreaking III book
+[18:52:40] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler also we need to start the mob grinder
+[18:52:42] [Server thread/WARN]: SavageEagler moved wrongly!
+[18:53:24] [Server thread/INFO]: Set SavageEagler's game mode to Survival Mode
+[18:53:26] [Server thread/INFO]: Set SavageEagler's game mode to Creative Mode
+[18:53:37] [Server thread/INFO]: Set SavageEagler's game mode to Survival Mode
+[18:54:47] [Server thread/INFO]: Given [Hopper] * 32 to SavageEagler
+[18:55:16] [Server thread/INFO]: Given [Chest] * 32 to SavageEagler
+[18:55:16] [Server thread/INFO]: DomoPlanet issued server command: /cast reach
+[18:55:20] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[18:56:36] [Server thread/INFO]: Dweeb373 issued server command: /wb
+[18:56:39] [Async Chat Thread - #61/INFO]: <Dweeb373> e[m
+
+[18:56:45] [Server thread/INFO]: Given [Stone Slab] * 4 to SavageEagler
+[18:58:36] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[18:58:36] [Server thread/INFO]: SavageEagler left the game.
+[18:58:54] [Thread-147/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[18:58:54] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:47000] logged in with entity id 179230 at ([world]386.0, 70.0, -180.0)
+[18:59:11] [Async Chat Thread - #62/INFO]: <Dweeb373> hurry up and get your cobblestone[m
+
+[18:59:12] [Server thread/WARN]: SavageEagler moved wrongly!
+[18:59:17] [Server thread/WARN]: SavageEagler moved wrongly!
+[18:59:38] [Server thread/INFO]: Dweeb373 issued server command: /tp SavageEagler
+[18:59:49] [Server thread/INFO]: SavageEagler issued server command: /tpahere Dweeb373
+[18:59:51] [Server thread/INFO]: Dweeb373 issued server command: /tpaccept
+[19:00:05] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[19:01:48] [Server thread/INFO]: Dweeb373 issued server command: /cast poison
+[19:03:08] [Server thread/INFO]: Dweeb373 issued server command: /cast bind poison
+[19:03:35] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[19:05:41] [Server thread/INFO]: Dweeb373 issued server command: /cast list
+[19:05:54] [Server thread/INFO]: Dweeb373 issued server command: /cast bind poison
+[19:06:27] [Server thread/INFO]: DomoPlanet issued server command: /tpa savage
+[19:06:39] [Server thread/INFO]: SavageEagler issued server command: /tpyes
+[19:06:44] [Server thread/INFO]: Dweeb373 issued server command: /cast list
+[19:06:51] [Server thread/INFO]: Dweeb373 issued server command: /cast help
+[19:07:01] [Server thread/INFO]: Dweeb373 issued server command: /cast help poison
+[19:07:08] [Server thread/INFO]: Dweeb373 issued server command: /cast help reach
+[19:07:33] [Server thread/INFO]: Dweeb373 issued server command: /cast help bind
+[19:08:24] [Server thread/WARN]: Dweeb373 moved wrongly!
+[19:08:54] [Server thread/INFO]: DomoPlanet issued server command: /w
+[19:09:48] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[19:10:02] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[19:10:17] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[19:10:20] [Server thread/INFO]: SavageEagler issued server command: /tpa DomoPlanet
+[19:10:23] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[19:10:27] [Server thread/INFO]: SavageEagler issued server command: /cast disarm
+[19:10:45] [Server thread/INFO]: Dweeb373 issued server command: /tp Domoplanet
+[19:10:54] [Server thread/INFO]: Dweeb373 issued server command: /tpa domoplanet
+[19:10:58] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[19:11:49] [Server thread/INFO]: SavageEagler issued server command: /tpa DomoPlanet
+[19:11:52] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[19:12:06] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[19:12:08] [Server thread/INFO]: SavageEagler issued server command: /tpa DomoPlanet
+[19:12:10] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[19:12:46] [Server thread/INFO]: DomoPlanet issued server command: /tpa Dweeb373
+[19:12:53] [Server thread/INFO]: Dweeb373 issued server command: /tpa
+[19:12:58] [Server thread/INFO]: Dweeb373 issued server command: /tpas
+[19:13:00] [Server thread/INFO]: Dweeb373 issued server command: /tps
+[19:13:15] [Server thread/INFO]: Dweeb373 issued server command: /tpyes
+[19:15:13] [Server thread/INFO]: DomoPlanet issued server command: /tpa dweeb
+[19:15:20] [Server thread/INFO]: Dweeb373 issued server command: /tpa domoplanet
+[19:15:28] [Server thread/INFO]: DomoPlanet issued server command: /tpye
+[19:15:29] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[19:15:36] [Server thread/INFO]: Dweeb373 issued server command: /tpyes
+[19:15:40] [Server thread/INFO]: There is no such item with name minecraft:oak_trapdoor
+[19:15:51] [Server thread/INFO]: Given [Wooden Trapdoor] * 32 to SavageEagler
+[19:16:36] [Server thread/INFO]: Given [Wooden Trapdoor] * 32 to SavageEagler
+[19:20:22] [Server thread/INFO]: DomoPlanet issued server command: /tpa savage
+[19:20:29] [Server thread/INFO]: SavageEagler issued server command: /tpyes
+[19:24:22] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:22] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:23] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:23] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:23] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:23] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:23] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:24] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:24] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:24] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:24] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:24] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:24] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:25] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:25] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:25] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:25] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:25] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:26] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:26] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:26] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:26] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:26] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:27] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:27] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:27] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:27] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:27] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:28] [Server thread/INFO]: Given [Cobblestone] * 64 to SavageEagler
+[19:24:29] [Server thread/INFO]: Dweeb373 issued server command: /mana
+[19:24:33] [Server thread/INFO]: There is no such item with name minecraft:cobblestone_slab
+[19:24:40] [Server thread/INFO]: '' is not a valid number
+[19:24:44] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:47] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:47] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:47] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:47] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:47] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:47] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:48] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:48] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:48] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:48] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:48] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:49] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:49] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:49] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:49] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:51] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[19:24:54] [Async Chat Thread - #63/INFO]: <DomoPlanet> t[m
+
+[19:25:25] [Server thread/INFO]: Dweeb373 lost connection: Disconnected
+[19:25:25] [Server thread/INFO]: Dweeb373 left the game.
+[19:26:00] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[19:26:00] [Server thread/INFO]: SavageEagler left the game.
+[19:26:03] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[19:26:03] [Server thread/INFO]: DomoPlanet left the game.

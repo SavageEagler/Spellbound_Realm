@@ -1,5 +1,5 @@
 bind
 help
 list
-poison
+poison:280
 reach
