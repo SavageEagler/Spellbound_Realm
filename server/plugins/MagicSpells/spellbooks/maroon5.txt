@@ -1,10 +1,11 @@
 armor
 bind
-cripple
-fireball
+cripple:352,267:40
+fireball:352,267:40
 firenova
-freeze
+freeze:352
 help
 list
-poison
+poison:352
+reach
 shadowstep
