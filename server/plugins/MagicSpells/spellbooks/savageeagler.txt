@@ -1,10 +1,10 @@
 bind
-blink:369|WAND
-disarm:369|WAND,280
-firenova
+blink:276:1,369|WAND
+disarm:276,369|WAND,280
+firenova:369|WAND
 help
 list
 reach
 repair
-shadowstep
+shadowstep:276,369|WAND
 storm:280
