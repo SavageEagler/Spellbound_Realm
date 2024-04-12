@@ -245,3 +245,15 @@ io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already
 [14:21:11] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49524|Void] -> UpstreamBridge has disconnected
 [14:21:11] [Netty Worker IO Thread #3/INFO]: [Void] disconnected with: Proxy lost connection to server.
 [14:21:11] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49524|Void] <-> DownstreamBridge <-> [lobby] has disconnected
+[14:26:05] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:50990|SmgShane] -> UpstreamBridge has disconnected
+[14:26:05] [Netty Worker IO Thread #2/INFO]: [SmgShane] disconnected with: Proxy lost connection to server.
+[14:26:05] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:50990|SmgShane] <-> DownstreamBridge <-> [lobby] has disconnected
+[14:28:44] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:47812|DomoPlanet] -> UpstreamBridge has disconnected
+[14:28:44] [Netty Worker IO Thread #0/INFO]: [DomoPlanet] disconnected with: Proxy lost connection to server.
+[14:28:44] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:47812|DomoPlanet] <-> DownstreamBridge <-> [lobby] has disconnected
+[14:29:18] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:40304|Dab1080] -> UpstreamBridge has disconnected
+[14:29:18] [Netty Worker IO Thread #2/INFO]: [Dab1080] disconnected with: Proxy lost connection to server.
+[14:29:18] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:40304|Dab1080] <-> DownstreamBridge <-> [lobby] has disconnected
+[14:30:14] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41482|Dab1080_] -> UpstreamBridge has disconnected
+[14:30:14] [Netty Worker IO Thread #0/INFO]: [Dab1080_] disconnected with: Proxy lost connection to server.
+[14:30:14] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41482|Dab1080_] <-> DownstreamBridge <-> [lobby] has disconnected

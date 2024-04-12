@@ -1,5 +1,8 @@
-world:-329:11:228:firenova:2
+world:-329:11:228:firenova:1
 world:-331:16:260:cripple:-1
 world:-331:16:258:freeze:-1
 world:-332:14:226:poison:-1
 world:-329:14:227:armor:-1
+world:-58:1:358:frostwalk:-1
+world:-129:4:357:storm:-1
+world:-67:9:409:blink:-1
