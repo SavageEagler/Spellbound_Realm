@@ -1,4 +1,5 @@
 bind
 cripple:280
+firenova
 help
 list

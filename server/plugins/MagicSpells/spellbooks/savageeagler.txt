@@ -1,4 +1,10 @@
 bind
-disarm
+blink:369|WAND
+disarm:369|WAND
+firenova
 help
 list
+reach
+repair
+shadowstep
+storm
