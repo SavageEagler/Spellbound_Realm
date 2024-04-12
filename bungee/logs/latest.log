@@ -586,3 +586,29 @@ io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already
 [17:00:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47902|Void] -> UpstreamBridge has disconnected
 [17:00:04] [Netty Worker IO Thread #2/INFO]: [Void] disconnected with: Proxy lost connection to server.
 [17:00:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47902|Void] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:11:51] [main/INFO]: Command not found
+[17:11:54] [main/INFO]: Command not found
+[17:11:57] [main/INFO]: Command not found
+[17:12:17] [Shutdown Thread/INFO]: Closing pending connections
+[17:12:17] [Shutdown Thread/INFO]: Disconnecting 5 connections
+[17:12:17] [Shutdown Thread/INFO]: [SmgShane] disconnected with: The proxy server is restarting
+[17:12:17] [Shutdown Thread/INFO]: [Ender_Assassin] disconnected with: The proxy server is restarting
+[17:12:17] [Shutdown Thread/INFO]: [DomoPlanet] disconnected with: The proxy server is restarting
+[17:12:17] [Shutdown Thread/INFO]: [maroon5] disconnected with: The proxy server is restarting
+[17:12:17] [Shutdown Thread/INFO]: [Dab1080_] disconnected with: The proxy server is restarting
+[17:12:17] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:60988|SmgShane] -> UpstreamBridge has disconnected
+[17:12:17] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:60988|SmgShane] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:12:17] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49808|Ender_Assassin] -> UpstreamBridge has disconnected
+[17:12:17] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36820|maroon5] -> UpstreamBridge has disconnected
+[17:12:17] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36820|maroon5] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:12:17] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49808|Ender_Assassin] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:12:17] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:44360|DomoPlanet] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:12:17] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:34644|Dab1080_] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:12:17] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:44360|DomoPlanet] -> UpstreamBridge has disconnected
+[17:12:17] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:34644|Dab1080_] -> UpstreamBridge has disconnected
+[17:12:18] [Shutdown Thread/INFO]: Disabling plugins
+[17:12:18] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /0.0.0.0:8081
+[17:12:18] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[17:12:18] [Shutdown Thread/INFO] [EaglercraftXBungee]: Stopping skin cache HTTP client...
+[17:12:20] [Shutdown Thread/INFO]: Closing IO threads
+[17:12:22] [Shutdown Thread/INFO]: Thank you and goodbye
