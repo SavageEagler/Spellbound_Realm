@@ -1,5 +1,5 @@
 bind
-blink:331
+blink:331,280
 help
 list
 reach:280,263

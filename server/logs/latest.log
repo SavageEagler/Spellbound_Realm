@@ -4788,3 +4788,347 @@ Caused by: java.util.ConcurrentModificationException
 [17:12:17] [Server thread/INFO]: DomoPlanet left the game.
 [17:12:17] [Server thread/INFO]: maroon5 lost connection: Disconnected
 [17:12:17] [Server thread/INFO]: maroon5 left the game.
+[17:12:43] [Thread-86/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[17:12:43] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:43434] logged in with entity id 143990 at ([world]386.0, 70.0, -180.0)
+[17:12:43] [Thread-87/INFO]: UUID of player Ender_Assassin is e37d0331-1f34-341c-9a6b-d3db340fc0c6
+[17:12:43] [Server thread/INFO]: Ender_Assassin[/[0:0:0:0:0:0:0:1]:43438] logged in with entity id 144007 at ([world]386.0, 70.0, -180.0)
+[17:12:56] [Thread-88/INFO]: UUID of player Dab1080_ is 00165dc4-ac24-3713-af5f-2b9e886ad18c
+[17:12:56] [Server thread/INFO]: Dab1080_[/[0:0:0:0:0:0:0:1]:38062] logged in with entity id 144256 at ([world]386.0, 70.0, -180.0)
+[17:13:35] [Server thread/INFO]: Ender_Assassin issued server command: /tell Dab1080_ why did he kill me though? he took everything
+[17:13:47] [Thread-89/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[17:13:47] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:39392] logged in with entity id 144563 at ([world]386.0, 70.0, -180.0)
+[17:13:55] [Server thread/INFO]: Dab1080_ issued server command: /whisper
+[17:14:00] [Async Chat Thread - #42/INFO]: <DomoPlanet> lucas[m
+
+[17:14:03] [Server thread/INFO]: maroon5 issued server command: /cast list Ender_Assassin
+[17:14:07] [Async Chat Thread - #42/INFO]: <DomoPlanet> LUCAS[m
+
+[17:14:16] [Server thread/INFO]: Dab1080_ issued server command: /tell
+[17:14:35] [Server thread/INFO]: Ender_Assassin issued server command: /cast bind blink
+[17:14:36] [Async Chat Thread - #42/INFO]: <Dab1080_> WHAT!!!!!!!!!![m
+
+[17:14:41] [Async Chat Thread - #42/INFO]: <maroon5> what[m
+
+[17:14:50] [Async Chat Thread - #42/INFO]: <maroon5> what happend[m
+
+[17:14:53] [Async Chat Thread - #42/INFO]: <Ender_Assassin> what are we whating[m
+
+[17:14:53] [Server thread/INFO]: Dab1080_ issued server command: /sethome a
+[17:14:57] [Server thread/INFO]: Dab1080_ issued server command: /plugins
+[17:15:14] [Server thread/INFO]: Dab1080_ issued server command: /help anvilcolors
+[17:15:21] [Server thread/INFO]: Dab1080_ issued server command: /addlore
+[17:15:36] [Server thread/INFO]: Dab1080_ issued server command: /addlore The sword of a god droped from the heavens
+[17:15:49] [Server thread/INFO]: Dab1080_ issued server command: /setwarp
+[17:15:54] [Server thread/INFO]: Dab1080_ issued server command: /help mywarp
+[17:15:57] [Server thread/INFO]: Dab1080_ issued server command: /warp
+[17:16:03] [Server thread/INFO]: Dab1080_ issued server command: /warp help
+[17:16:06] [Async Chat Thread - #43/INFO]: <DomoPlanet> LUCAS[m
+
+[17:16:07] [Async Chat Thread - #43/INFO]: <DomoPlanet> LUCAS[m
+
+[17:16:08] [Async Chat Thread - #43/INFO]: <DomoPlanet> LUCAS[m
+
+[17:16:11] [Async Chat Thread - #43/INFO]: <Dab1080_> WHAT[m
+
+[17:16:13] [Async Chat Thread - #43/INFO]: <DomoPlanet> tp to me NOW[m
+
+[17:16:16] [Async Chat Thread - #43/INFO]: <maroon5> WHATS GOING ON[m
+
+[17:16:30] [Server thread/INFO]: Dab1080_ issued server command: /tp DomoPlanet
+[17:16:30] [Server thread/INFO]: [Dab1080_: Teleported Dab1080_ to DomoPlanet]
+[17:16:47] [Server thread/INFO]: Dab1080_ issued server command: /tell DomoPlanet do /tell Dab1080_ (message
+[17:16:53] [Async Chat Thread - #43/INFO]: <maroon5> cmon guys[m
+
+[17:16:53] [Async Chat Thread - #43/INFO]: <Ender_Assassin> gtg[m
+
+[17:16:57] [Async Chat Thread - #43/INFO]: <maroon5> we need to sleep[m
+
+[17:16:57] [Server thread/INFO]: Ender_Assassin lost connection: Disconnected
+[17:16:57] [Server thread/INFO]: Ender_Assassin left the game.
+[17:16:57] [Server thread/INFO]: Dab1080_ issued server command: /tell DomoPlanet its private msging
+[17:17:03] [Server thread/INFO]: DomoPlanet issued server command: /tell Dab1080_ change me back into survivial
+[17:17:12] [Server thread/INFO]: DomoPlanet issued server command: /tell Dab1080_ you put me into creative
+[17:17:25] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 0 DomoPlanet
+[17:17:25] [Server thread/INFO]: [Dab1080_: Set DomoPlanet's game mode to Survival Mode]
+[17:17:28] [Async Chat Thread - #43/INFO]: <Dab1080_> there[m
+
+[17:17:37] [Async Chat Thread - #43/INFO]: <maroon5> whats going on[m
+
+[17:17:42] [Async Chat Thread - #43/INFO]: <DomoPlanet> thx[m
+
+[17:17:56] [Async Chat Thread - #43/INFO]: <maroon5> gregg[m
+
+[17:17:58] [Async Chat Thread - #43/INFO]: <maroon5> what happended[m
+
+[17:18:14] [Async Chat Thread - #43/INFO]: <Dab1080_> he fell in a hole and found a 6 vien of dims[m
+
+[17:18:20] [Async Chat Thread - #43/INFO]: <maroon5> oh[m
+
+[17:18:23] [Async Chat Thread - #43/INFO]: <Dab1080_> lol[m
+
+[17:18:25] [Server thread/INFO]: Dab1080_ lost connection: Disconnected
+[17:18:25] [Server thread/INFO]: Dab1080_ left the game.
+[17:18:38] [Thread-90/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[17:18:38] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:56420] logged in with entity id 145773 at ([world]386.0, 70.0, -180.0)
+[17:18:46] [Async Chat Thread - #43/INFO]: <maroon5> i stole sams reach book[m
+
+[17:20:34] [Server thread/INFO]: SavageEagler_ issued server command: //set air
+[17:21:01] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[17:21:01] [Server thread/INFO]: maroon5 left the game.
+[17:21:05] [Server thread/INFO]: DomoPlanet issued server command: /msg savage i need foooooood
+[17:21:11] [Server thread/INFO]: SavageEagler_ issued server command: //set stone
+[17:21:14] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[17:21:14] [Server thread/INFO]: DomoPlanet left the game.
+[17:21:25] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
+[17:21:25] [Server thread/INFO]: SavageEagler_ left the game.
+[17:24:54] [Thread-91/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[17:24:54] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:48532] logged in with entity id 146121 at ([world]386.0, 70.0, -180.0)
+[17:25:09] [Server thread/INFO]: Void lost connection: Disconnected
+[17:25:09] [Server thread/INFO]: Void left the game.
+[17:26:23] [Thread-92/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[17:26:23] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:42062] logged in with entity id 146333 at ([world]386.0, 70.0, -180.0)
+[17:26:38] [Server thread/INFO]: Void lost connection: Disconnected
+[17:26:38] [Server thread/INFO]: Void left the game.
+[17:26:49] [Thread-93/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[17:26:49] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:52354] logged in with entity id 146339 at ([world]386.0, 70.0, -180.0)
+[17:26:53] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
+[17:26:53] [Server thread/INFO]: SavageEagler_ left the game.
+[17:26:56] [Thread-94/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[17:26:56] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:52356] logged in with entity id 146340 at ([world]386.0, 70.0, -180.0)
+[17:27:03] [Thread-95/INFO]: UUID of player Dab1080_ is 00165dc4-ac24-3713-af5f-2b9e886ad18c
+[17:27:03] [Server thread/INFO]: Dab1080_[/[0:0:0:0:0:0:0:1]:57428] logged in with entity id 146341 at ([world]386.0, 70.0, -180.0)
+[17:27:14] [Server thread/WARN]: DomoPlanet moved wrongly!
+[17:27:22] [Thread-96/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[17:27:22] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:60272] logged in with entity id 146602 at ([world]386.0, 70.0, -180.0)
+[17:27:26] [Server thread/INFO]: DomoPlanet issued server command: /cast firenova
+[17:27:37] [Server thread/INFO]: Void lost connection: Disconnected
+[17:27:37] [Server thread/INFO]: Void left the game.
+[17:27:48] [Server thread/INFO]: DomoPlanet issued server command: /cast firenova
+[17:28:02] [Thread-97/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[17:28:02] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:36338] logged in with entity id 146647 at ([world]386.98505268400896, 60.963443539551626, -179.014947315991)
+[17:28:06] [Server thread/INFO]: DomoPlanet issued server command: /cast firenova
+[17:28:09] [Server thread/INFO]: Void issued server command: /ogin <deadpool>
+[17:28:14] [Server thread/INFO]: Dab1080_ issued server command: /kill domoplanet
+[17:28:14] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.G(EntityLiving.java:106) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.CommandKill.execute(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.command.VanillaCommandWrapper.dispatchVanillaCommand(VanillaCommandWrapper.java:123) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:146) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:666) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1189) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1001) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 28 more
+[17:28:14] [Server thread/INFO]: DomoPlanet fell out of the world
+[17:28:14] [Server thread/INFO]: [Dab1080_: Killed DomoPlanet]
+[17:28:31] [Server thread/INFO]: DomoPlanet issued server command: /tpa Dab1080_
+[17:28:32] [Server thread/INFO]: Void lost connection: Login timed out!
+[17:28:32] [Server thread/INFO]: Void left the game.
+[17:28:32] [Server thread/WARN]: handleDisconnection() called twice
+[17:28:36] [Thread-98/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[17:28:36] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:48784] logged in with entity id 146893 at ([world]386.98505268400896, 32.0, -179.014947315991)
+[17:28:57] [Server thread/INFO]: Void issued server command: /cast list maroon5
+[17:29:24] [Server thread/INFO]: DomoPlanet issued server command: /cast
+[17:29:28] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[17:29:29] [Server thread/INFO]: Dab1080_ issued server command: /cast firenova
+[17:29:34] [Server thread/INFO]: DomoPlanet issued server command: /
+[17:29:42] [Server thread/INFO]: Void issued server command: /cast list DomoPlanet
+[17:29:44] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[17:29:45] [Server thread/INFO]: Dab1080_ issued server command: /tp DomoPlanet
+[17:29:45] [Server thread/INFO]: [Dab1080_: Teleported Dab1080_ to DomoPlanet]
+[17:29:46] [Server thread/INFO]: DomoPlanet issued server command: /c
+[17:29:51] [Server thread/INFO]: DomoPlanet issued server command: /
+[17:29:56] [Server thread/INFO]: Void issued server command: /cast list DomoPlanet
+[17:29:57] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[17:30:02] [Server thread/INFO]: Dab1080_ issued server command: /tp DomoPlanet Dab1080_
+[17:30:02] [Server thread/INFO]: [Dab1080_: Teleported DomoPlanet to Dab1080_]
+[17:30:02] [Server thread/INFO]: Dab1080_ issued server command: /tp DomoPlanet Dab1080_
+[17:30:02] [Server thread/INFO]: [Dab1080_: Teleported DomoPlanet to Dab1080_]
+[17:30:03] [Server thread/INFO]: Dab1080_ issued server command: /tp DomoPlanet Dab1080_
+[17:30:03] [Server thread/INFO]: [Dab1080_: Teleported DomoPlanet to Dab1080_]
+[17:30:04] [Server thread/INFO]: Dab1080_ issued server command: /tp DomoPlanet Dab1080_
+[17:30:04] [Server thread/INFO]: [Dab1080_: Teleported DomoPlanet to Dab1080_]
+[17:30:04] [Server thread/INFO]: Dab1080_ issued server command: /tp DomoPlanet Dab1080_
+[17:30:04] [Server thread/INFO]: [Dab1080_: Teleported DomoPlanet to Dab1080_]
+[17:30:05] [Server thread/INFO]: Dab1080_ issued server command: /tp DomoPlanet Dab1080_
+[17:30:05] [Server thread/INFO]: [Dab1080_: Teleported DomoPlanet to Dab1080_]
+[17:30:06] [Server thread/INFO]: Dab1080_ issued server command: /tp DomoPlanet Dab1080_
+[17:30:06] [Server thread/INFO]: [Dab1080_: Teleported DomoPlanet to Dab1080_]
+[17:30:07] [Server thread/INFO]: Dab1080_ issued server command: /tp DomoPlanet Dab1080_
+[17:30:07] [Server thread/INFO]: [Dab1080_: Teleported DomoPlanet to Dab1080_]
+[17:30:12] [Thread-99/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[17:30:12] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:37218] logged in with entity id 147384 at ([world]386.0, 70.0, -180.0)
+[17:30:36] [Server thread/INFO]: maroon5 issued server command: /cast list
+[17:31:43] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[17:31:45] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[17:31:46] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[17:31:47] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[17:31:48] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[17:31:48] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[17:31:50] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[17:31:51] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[17:31:51] [Server thread/INFO]: maroon5 left the game.
+[17:31:57] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[17:31:59] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[17:32:35] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:32:37] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:32:46] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:07] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:08] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:09] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:10] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:11] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:12] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:12] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:13] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:14] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:15] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:16] [Server thread/INFO]: Dab1080_ issued server command: /cast blind
+[17:33:51] [Server thread/INFO]: Dab1080_ issued server command: /cast list
+[17:33:54] [Server thread/INFO]: Dab1080_ issued server command: /cast list Dab1080
+[17:34:11] [Server thread/INFO]: Dab1080_ lost connection: Disconnected
+[17:34:11] [Server thread/INFO]: Dab1080_ left the game.
+[17:35:16] [Thread-100/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[17:35:16] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:45498] logged in with entity id 151307 at ([world]386.0, 70.0, -180.0)
+[17:35:25] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.e(EntityLiving.java:949) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.e(EntityHuman.java:1451) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Block.fallOn(Block.java:650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.a(Entity.java:845) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.a(EntityLiving.java:165) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:638) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:459) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 27 more
+[17:35:25] [Server thread/INFO]: maroon5 fell from a high place
+[17:35:30] [Server thread/INFO]: maroon5 issued server command: /back
+[17:35:33] [Thread-101/INFO]: UUID of player SmgShane is 29e7477b-5ec1-3ad0-9395-b1a1f26d57e2
+[17:35:34] [Server thread/INFO]: SmgShane[/[0:0:0:0:0:0:0:1]:44800] logged in with entity id 151493 at ([world]386.0, 70.0, -180.0)
+[17:35:58] [Thread-102/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[17:35:58] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:37710] logged in with entity id 151830 at ([world]386.0, 70.0, -180.0)
+[17:36:10] [Server thread/INFO]: Dab1080 issued server command: /cast list
+[17:36:13] [Server thread/INFO]: SmgShane issued server command: /cast reach
+[17:36:17] [Server thread/INFO]: Dab1080 issued server command: /cast reach
+[17:37:19] [Server thread/INFO]: Given [Bed] * 1 to Dab1080
+[17:37:56] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.e(EntityLiving.java:949) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.e(EntityHuman.java:1451) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Block.fallOn(Block.java:650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.a(Entity.java:845) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.a(EntityLiving.java:165) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:638) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:459) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 27 more
+[17:37:56] [Server thread/INFO]: Void fell from a high place
+[17:38:02] [Server thread/INFO]: Void issued server command: /back
+[17:38:23] [Server thread/INFO]: Dab1080 issued server command: /tpa SmgShane
+[17:38:37] [Server thread/INFO]: SmgShane issued server command: /tpaccept
+[17:39:16] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[17:39:16] [Server thread/INFO]: Dab1080 left the game.
+[17:39:17] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[17:39:17] [Server thread/INFO]: maroon5 left the game.
+[17:39:18] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[17:39:18] [Server thread/INFO]: DomoPlanet left the game.
+[17:39:18] [Server thread/INFO]: Void lost connection: Disconnected
+[17:39:18] [Server thread/INFO]: Void left the game.
+[17:39:18] [Server thread/INFO]: SmgShane lost connection: Disconnected
+[17:39:18] [Server thread/INFO]: SmgShane left the game.
+[17:39:28] [Thread-103/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[17:39:28] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:57116] logged in with entity id 153429 at ([world]386.0, 70.0, -180.0)
+[17:39:31] [Thread-104/INFO]: UUID of player SmgShane is 29e7477b-5ec1-3ad0-9395-b1a1f26d57e2
+[17:39:31] [Server thread/INFO]: SmgShane[/[0:0:0:0:0:0:0:1]:57124] logged in with entity id 153467 at ([world]386.0, 70.0, -180.0)
+[17:39:33] [Thread-105/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[17:39:33] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:57140] logged in with entity id 153496 at ([world]386.0, 70.0, -180.0)
+[17:39:39] [Thread-106/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[17:39:39] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:44376] logged in with entity id 153546 at ([world]386.0, 70.0, -180.0)
+[17:39:45] [Thread-107/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[17:39:46] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:44384] logged in with entity id 153954 at ([world]386.0, 70.0, -180.0)
+[17:39:46] [Server thread/INFO]: maroon5 issued server command: /cast fireball
+[17:40:44] [Server thread/INFO]: Void issued server command: /tpa maroon5
+[17:40:51] [Server thread/INFO]: maroon5 issued server command: /tpno

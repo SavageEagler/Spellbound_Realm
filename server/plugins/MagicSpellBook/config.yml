@@ -4,15 +4,15 @@ Config:
   switch_to_Invetory_after_Spell_used: false
 Player:
   Void:
-    Mana: 9635
+    Mana: 10350
   SavageEagler_:
-    Mana: 3370
+    Mana: 3540
   DomoPlanet:
-    Mana: 12335
+    Mana: 13520
   maroon6:
     Mana: 9999
   Dab1080_:
-    Mana: 9435
+    Mana: 10195
   SavageEagler:
     Mana: 3550
   Dweeb373:
@@ -20,12 +20,12 @@ Player:
   ADMIN_maroon5:
     Mana: 45
   maroon5:
-    Mana: 23004
+    Mana: 23844
   Ender_Assassin:
-    Mana: 6515
+    Mana: 6770
   Dab1080:
-    Mana: 5605
+    Mana: 5805
   SmgShane:
-    Mana: 4765
+    Mana: 4990
   kevinthegaint:
     Mana: 285
