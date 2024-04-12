@@ -1,9 +1,9 @@
-[20:03:41] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[20:03:41] [Server thread/INFO]: Loading properties
-[20:03:41] [Server thread/INFO]: Default game type: SURVIVAL
-[20:03:41] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[20:03:41] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
-[20:03:41] [Server thread/WARN]: Couldn't load server icon
+[20:05:54] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[20:05:54] [Server thread/INFO]: Loading properties
+[20:05:54] [Server thread/INFO]: Default game type: SURVIVAL
+[20:05:54] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:05:54] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[20:05:54] [Server thread/WARN]: Couldn't load server icon
 java.lang.IllegalArgumentException: Must be 64 pixels wide
 	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadServerIcon0(CraftServer.java:1741) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -15,37 +15,37 @@ java.lang.IllegalArgumentException: Must be 64 pixels wide
 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:176) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[20:03:42] [Server thread/INFO]: Debug logging is disabled
-[20:03:42] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[20:03:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:05:54] [Server thread/INFO]: Debug logging is disabled
+[20:05:54] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[20:05:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[20:03:42] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:03:42] [Server thread/INFO]: Data value allowed items: 
-[20:03:42] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+[20:05:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:05:54] [Server thread/INFO]: Data value allowed items: 
+[20:05:54] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
 
-[20:03:42] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[20:05:54] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
 
-[20:03:42] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+[20:05:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
 
-[20:03:42] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[20:05:54] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 
-[20:03:42] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[20:05:54] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 
-[20:03:42] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+[20:05:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
 
-[20:03:42] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+[20:05:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
 
-[20:03:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+[20:05:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
 
-[20:03:42] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[20:05:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
 
-[20:03:42] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[20:05:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[20:03:42] [Server thread/INFO]: Generating keypair
-[20:03:42] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[20:03:42] [Server thread/INFO]: Using default channel type
-[20:03:42] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[20:03:42] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use
-[20:03:42] [Server thread/WARN]: Perhaps a server is already running on that port?
-[20:03:42] [Server thread/INFO]: Stopping server
-[20:03:42] [Server thread/INFO]: Saving players
+[20:05:54] [Server thread/INFO]: Generating keypair
+[20:05:55] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[20:05:55] [Server thread/INFO]: Using default channel type
+[20:05:55] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[20:05:55] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use
+[20:05:55] [Server thread/WARN]: Perhaps a server is already running on that port?
+[20:05:55] [Server thread/INFO]: Stopping server
+[20:05:55] [Server thread/INFO]: Saving players

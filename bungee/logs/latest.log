@@ -211,3 +211,20 @@
 [20:05:26] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:44540] <-> ServerConnector [lobby] has connected
 [20:05:26] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:44540] <-> ServerConnector [lobby] has disconnected
 [20:05:31] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:47068|Void] -> UpstreamBridge has disconnected
+[20:05:41] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44540|DomoPlanet] -> UpstreamBridge has disconnected
+[20:05:46] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49992]: Connected via websocket
+[20:05:46] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49992]: Origin header is http://localhost:8081
+[20:05:47] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49992]: Logged in as 'DomoPlanet'
+[20:05:47] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49992|DomoPlanet] -> UpstreamBridge has connected
+[20:05:47] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:49992] <-> ServerConnector [lobby] has connected
+[20:05:47] [Netty Worker IO Thread #1/WARN]: [/127.0.0.1:53026] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
+[20:05:47] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:49992] <-> ServerConnector [lobby] has disconnected
+[20:06:02] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49992|DomoPlanet] -> UpstreamBridge has disconnected
+[20:06:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47662]: Connected via websocket
+[20:06:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47662]: Origin header is http://localhost:8081
+[20:06:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47662]: Logged in as 'DomoPlanet'
+[20:06:11] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47662|DomoPlanet] -> UpstreamBridge has connected
+[20:06:11] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:47662] <-> ServerConnector [lobby] has connected
+[20:06:11] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:47794] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
+[20:06:11] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:47662] <-> ServerConnector [lobby] has disconnected
+[20:06:13] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47662|DomoPlanet] -> UpstreamBridge has disconnected
