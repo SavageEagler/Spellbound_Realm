@@ -1,10 +1,10 @@
 bind
 blink:369|WAND
-disarm:369|WAND
+disarm:369|WAND,280
 firenova
 help
 list
 reach
 repair
 shadowstep
-storm
+storm:280
