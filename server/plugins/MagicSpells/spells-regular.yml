@@ -63,7 +63,7 @@ blink:
     description: Teleport a short distance.
     cast-item: stick
     cooldown: 8
-    range: 25
+    range: 50
     pass-through-ceiling: false
     smoke-trail: true
     effects:
@@ -1064,12 +1064,12 @@ shadowstep:
     effects:
         - caster spawner
         - target spawner
-    target-players: false
+    target-players: true
     obey-los: true
-    range: 15
+    range: 20
     cost:
-        - mana 10
-    str-cost: 10 mana
+        - mana 20
+    str-cost: 20 mana
     str-no-target: No target found.
     str-no-landing-spot: Cannot shadowstep there.
 silence:

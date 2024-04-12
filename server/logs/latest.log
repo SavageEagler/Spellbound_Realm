@@ -1,233 +1,234 @@
-[12:27:45] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[12:27:45] [Server thread/INFO]: Loading properties
-[12:27:45] [Server thread/INFO]: Default game type: SURVIVAL
-[12:27:45] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[12:27:45] [Server thread/INFO]: Debug logging is disabled
-[12:27:45] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[12:27:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:37:36] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[12:37:36] [Server thread/INFO]: Loading properties
+[12:37:36] [Server thread/INFO]: Default game type: SURVIVAL
+[12:37:36] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[12:37:36] [Server thread/INFO]: Debug logging is disabled
+[12:37:36] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[12:37:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[12:27:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:27:45] [Server thread/INFO]: Data value allowed items: 
-[12:27:45] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+[12:37:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:37:36] [Server thread/INFO]: Data value allowed items: 
+[12:37:36] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
 
-[12:27:45] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[12:37:36] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
 
-[12:27:45] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+[12:37:36] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
 
-[12:27:45] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[12:37:36] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 
-[12:27:45] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[12:37:36] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 
-[12:27:45] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+[12:37:36] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
 
-[12:27:45] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+[12:37:36] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
 
-[12:27:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+[12:37:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
 
-[12:27:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[12:37:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
 
-[12:27:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:37:36] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[12:27:45] [Server thread/INFO]: Generating keypair
-[12:27:46] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[12:27:46] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
-[12:27:46] [Server thread/INFO]: Using default channel type
-[12:27:46] [Server thread/ERROR]: Ambiguous plugin name `EaglerPluginInstaller' for files `plugins/EaglerPluginInstaller.jar' and `plugins/EaglerPluginInstaller-1.1.5.jar' in `plugins'
-[12:27:46] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[12:27:46] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
-[12:27:46] [Server thread/INFO]: [[EaglerPluginInstaller]] Loading EaglerPluginInstaller v1.1.4
-[12:27:46] [Server thread/INFO]: [MyWarp] Loading MyWarp v2.6.1
-[12:27:46] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[12:27:46] [Server thread/INFO]: [AnvilColors] Loading AnvilColors v1.3.1
-[12:27:46] [Server thread/INFO]: [[EaglerPluginUpdater]] Loading EaglerPluginUpdater v1.1.2
-[12:27:46] [Server thread/INFO]: [MagicSpellBook] Loading MagicSpellBook v0.3
-[12:27:46] [Server thread/INFO]: [MagicSpells] Loading MagicSpells v2.15
-[12:27:46] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
-[12:27:47] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
-[12:27:47] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
-[12:27:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:27:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:27:47] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[12:27:47] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[12:27:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:27:47] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[12:27:47] [Server thread/INFO]: Preparing level "world"
-[12:27:47] [Server thread/INFO]: -------- World Settings For [world] --------
-[12:27:47] [Server thread/INFO]: Max TNT Explosions: 100
-[12:27:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:27:47] [Server thread/INFO]: Mob Spawn Range: 4
-[12:27:47] [Server thread/INFO]: Anti X-Ray: true
-[12:27:47] [Server thread/INFO]: 	Engine Mode: 1
-[12:27:47] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[12:27:47] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[12:27:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:27:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[12:27:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:27:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[12:27:47] [Server thread/INFO]: Random Lighting Updates: false
-[12:27:47] [Server thread/INFO]: Structure Info Saving: true
-[12:27:47] [Server thread/INFO]: Sending up to 10 chunks per packet
-[12:27:47] [Server thread/INFO]: Max Entity Collisions: 8
-[12:27:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[12:27:47] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:27:47] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:27:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[12:27:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:27:47] [Server thread/INFO]: View Distance: 4
-[12:27:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:27:47] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[12:27:47] [Server thread/INFO]: Clear tick list: false
-[12:27:47] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:27:47] [Server thread/INFO]: -------- World Settings For [world] --------
-[12:27:47] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[12:27:47] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[12:27:47] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[12:27:47] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[12:27:47] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[12:27:47] [Server thread/INFO]: Water over lava flow speed: 5
-[12:27:47] [Server thread/INFO]: Fix TNT cannons: false
-[12:27:47] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[12:27:47] [Server thread/INFO]: Keep spawn chunk loaded: true
-[12:27:47] [Server thread/INFO]: World async lighting: false
-[12:27:47] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[12:27:47] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[12:27:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[12:27:47] [Server thread/INFO]: Max TNT Explosions: 100
-[12:27:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:27:47] [Server thread/INFO]: Mob Spawn Range: 4
-[12:27:47] [Server thread/INFO]: Anti X-Ray: true
-[12:27:47] [Server thread/INFO]: 	Engine Mode: 1
-[12:27:47] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[12:27:47] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[12:27:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:27:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[12:27:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:27:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[12:27:47] [Server thread/INFO]: Random Lighting Updates: false
-[12:27:47] [Server thread/INFO]: Structure Info Saving: true
-[12:27:47] [Server thread/INFO]: Sending up to 10 chunks per packet
-[12:27:47] [Server thread/INFO]: Max Entity Collisions: 8
-[12:27:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[12:27:47] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:27:47] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:27:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[12:27:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:27:47] [Server thread/INFO]: View Distance: 4
-[12:27:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:27:47] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[12:27:47] [Server thread/INFO]: Clear tick list: false
-[12:27:47] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:27:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[12:27:47] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[12:27:47] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[12:27:47] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[12:27:47] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[12:27:47] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[12:27:47] [Server thread/INFO]: Water over lava flow speed: 5
-[12:27:47] [Server thread/INFO]: Fix TNT cannons: false
-[12:27:47] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[12:27:47] [Server thread/INFO]: Keep spawn chunk loaded: true
-[12:27:47] [Server thread/INFO]: World async lighting: false
-[12:27:47] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[12:27:47] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[12:27:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[12:27:47] [Server thread/INFO]: Max TNT Explosions: 100
-[12:27:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:27:47] [Server thread/INFO]: Mob Spawn Range: 4
-[12:27:47] [Server thread/INFO]: Anti X-Ray: true
-[12:27:47] [Server thread/INFO]: 	Engine Mode: 1
-[12:27:47] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[12:27:47] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[12:27:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:27:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:27:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[12:27:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:27:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[12:27:47] [Server thread/INFO]: Random Lighting Updates: false
-[12:27:47] [Server thread/INFO]: Structure Info Saving: true
-[12:27:47] [Server thread/INFO]: Sending up to 10 chunks per packet
-[12:27:47] [Server thread/INFO]: Max Entity Collisions: 8
-[12:27:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[12:27:47] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:27:47] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:27:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[12:27:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:27:47] [Server thread/INFO]: View Distance: 4
-[12:27:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:27:47] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[12:27:47] [Server thread/INFO]: Clear tick list: false
-[12:27:47] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:27:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[12:27:47] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[12:27:47] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[12:27:47] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[12:27:47] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[12:27:47] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[12:27:47] [Server thread/INFO]: Water over lava flow speed: 5
-[12:27:47] [Server thread/INFO]: Fix TNT cannons: false
-[12:27:47] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[12:27:47] [Server thread/INFO]: Keep spawn chunk loaded: true
-[12:27:47] [Server thread/INFO]: World async lighting: false
-[12:27:47] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[12:27:47] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[12:27:47] [Server thread/INFO]: Preparing start region for level 0 (Seed: 24877956)
-[12:27:48] [Server thread/INFO]: Preparing spawn area: 34%
-[12:27:49] [Server thread/INFO]: Preparing start region for level 1 (Seed: 24877956)
-[12:27:50] [Server thread/INFO]: Preparing start region for level 2 (Seed: 24877956)
-[12:27:50] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
-[12:27:50] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[12:37:36] [Server thread/INFO]: Generating keypair
+[12:37:36] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[12:37:36] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[12:37:36] [Server thread/INFO]: Using default channel type
+[12:37:36] [Server thread/ERROR]: Ambiguous plugin name `EaglerPluginInstaller' for files `plugins/EaglerPluginInstaller.jar' and `plugins/EaglerPluginInstaller-1.1.5.jar' in `plugins'
+[12:37:36] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:37:36] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[12:37:36] [Server thread/INFO]: [[EaglerPluginInstaller]] Loading EaglerPluginInstaller v1.1.4
+[12:37:36] [Server thread/INFO]: [MyWarp] Loading MyWarp v2.6.1
+[12:37:36] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[12:37:36] [Server thread/INFO]: [AnvilColors] Loading AnvilColors v1.3.1
+[12:37:36] [Server thread/INFO]: [[EaglerPluginUpdater]] Loading EaglerPluginUpdater v1.1.2
+[12:37:36] [Server thread/INFO]: [MagicSpellBook] Loading MagicSpellBook v0.3
+[12:37:36] [Server thread/INFO]: [MagicSpells] Loading MagicSpells v2.15
+[12:37:36] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
+[12:37:38] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[12:37:38] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[12:37:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:37:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:37:38] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[12:37:38] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[12:37:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:37:38] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:37:38] [Server thread/INFO]: Preparing level "world"
+[12:37:38] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:37:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:37:38] [Server thread/INFO]: Random Lighting Updates: false
+[12:37:38] [Server thread/INFO]: Structure Info Saving: true
+[12:37:38] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:37:38] [Server thread/INFO]: Max Entity Collisions: 8
+[12:37:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:37:38] [Server thread/INFO]: Max TNT Explosions: 100
+[12:37:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:37:38] [Server thread/INFO]: Mob Spawn Range: 4
+[12:37:38] [Server thread/INFO]: Anti X-Ray: true
+[12:37:38] [Server thread/INFO]: 	Engine Mode: 1
+[12:37:38] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:37:38] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:37:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:37:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:37:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:37:38] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:37:38] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:37:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:37:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:37:38] [Server thread/INFO]: View Distance: 4
+[12:37:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:37:38] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:37:38] [Server thread/INFO]: Clear tick list: false
+[12:37:38] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:37:38] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:37:38] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[12:37:38] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[12:37:38] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:37:38] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:37:38] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:37:38] [Server thread/INFO]: Water over lava flow speed: 5
+[12:37:38] [Server thread/INFO]: Fix TNT cannons: false
+[12:37:38] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[12:37:38] [Server thread/INFO]: Keep spawn chunk loaded: true
+[12:37:38] [Server thread/INFO]: World async lighting: false
+[12:37:38] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[12:37:38] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:37:38] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:37:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:37:38] [Server thread/INFO]: Random Lighting Updates: false
+[12:37:38] [Server thread/INFO]: Structure Info Saving: true
+[12:37:38] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:37:38] [Server thread/INFO]: Max Entity Collisions: 8
+[12:37:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:37:38] [Server thread/INFO]: Max TNT Explosions: 100
+[12:37:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:37:38] [Server thread/INFO]: Mob Spawn Range: 4
+[12:37:38] [Server thread/INFO]: Anti X-Ray: true
+[12:37:38] [Server thread/INFO]: 	Engine Mode: 1
+[12:37:38] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:37:38] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:37:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:37:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:37:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:37:38] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:37:38] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:37:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:37:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:37:38] [Server thread/INFO]: View Distance: 4
+[12:37:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:37:38] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:37:38] [Server thread/INFO]: Clear tick list: false
+[12:37:38] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:37:38] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:37:38] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[12:37:38] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[12:37:38] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:37:38] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:37:38] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:37:38] [Server thread/INFO]: Water over lava flow speed: 5
+[12:37:38] [Server thread/INFO]: Fix TNT cannons: false
+[12:37:38] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[12:37:38] [Server thread/INFO]: Keep spawn chunk loaded: true
+[12:37:38] [Server thread/INFO]: World async lighting: false
+[12:37:38] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[12:37:38] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:37:38] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:37:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:37:38] [Server thread/INFO]: Random Lighting Updates: false
+[12:37:38] [Server thread/INFO]: Structure Info Saving: true
+[12:37:38] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:37:38] [Server thread/INFO]: Max Entity Collisions: 8
+[12:37:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:37:38] [Server thread/INFO]: Max TNT Explosions: 100
+[12:37:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:37:38] [Server thread/INFO]: Mob Spawn Range: 4
+[12:37:38] [Server thread/INFO]: Anti X-Ray: true
+[12:37:38] [Server thread/INFO]: 	Engine Mode: 1
+[12:37:38] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:37:38] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:37:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:37:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:37:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:37:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:37:38] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:37:38] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:37:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:37:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:37:38] [Server thread/INFO]: View Distance: 4
+[12:37:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:37:38] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:37:38] [Server thread/INFO]: Clear tick list: false
+[12:37:38] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:37:38] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:37:38] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[12:37:38] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[12:37:38] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[12:37:38] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[12:37:38] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[12:37:38] [Server thread/INFO]: Water over lava flow speed: 5
+[12:37:38] [Server thread/INFO]: Fix TNT cannons: false
+[12:37:38] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[12:37:38] [Server thread/INFO]: Keep spawn chunk loaded: true
+[12:37:38] [Server thread/INFO]: World async lighting: false
+[12:37:38] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[12:37:38] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[12:37:38] [Server thread/INFO]: Preparing start region for level 0 (Seed: 24877956)
+[12:37:39] [Server thread/INFO]: Preparing spawn area: 56%
+[12:37:39] [Server thread/INFO]: Preparing start region for level 1 (Seed: 24877956)
+[12:37:40] [Server thread/INFO]: Preparing spawn area: 73%
+[12:37:41] [Server thread/INFO]: Preparing start region for level 2 (Seed: 24877956)
+[12:37:41] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
+[12:37:41] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
 
-[12:27:50] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
+[12:37:41] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
 
-[12:27:50] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[12:27:50] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
-[12:27:50] [Server thread/INFO]: Check 1 passed
+[12:37:41] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[12:37:41] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
+[12:37:41] [Server thread/INFO]: Check 1 passed
 
-[12:27:51] [Server thread/INFO]: Check 3 passed
+[12:37:41] [Server thread/INFO]: Check 3 passed
 
-[12:27:51] [Server thread/INFO]: --------------------------------------------[m
+[12:37:41] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:51] [Server thread/INFO]: --------------------------------------------[m
+[12:37:41] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:51] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
+[12:37:41] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
 
-[12:27:51] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
+[12:37:41] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
 
-[12:27:51] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
+[12:37:41] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
 
-[12:27:51] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
+[12:37:41] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
 
-[12:27:51] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
+[12:37:41] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
 
-[12:27:51] [Server thread/INFO]: --------------------------------------------[m
+[12:37:41] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:51] [Server thread/INFO]: --------------------------------------------[m
+[12:37:41] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:51] [Server thread/INFO]: [MyWarp] Enabling MyWarp v2.6.1
-[12:27:51] [Server thread/ERROR]: [MyWarp] Failed to create default config.yml , using build-in defaults: 
+[12:37:41] [Server thread/INFO]: [MyWarp] Enabling MyWarp v2.6.1
+[12:37:41] [Server thread/ERROR]: [MyWarp] Failed to create default config.yml , using build-in defaults: 
 java.io.FileNotFoundException: plugins/MyWarp/config.yml (Is a directory)
 	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
 	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
@@ -248,80 +249,2029 @@ java.io.FileNotFoundException: plugins/MyWarp/config.yml (Is a directory)
 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[12:27:51] [Server thread/INFO]: [MyWarp] No supported permissions plugin found, using Superperms fallback for group support
-[12:27:51] [Server thread/INFO]: [MyWarp] 0 warps loaded
-[12:27:51] [Server thread/INFO]: [MyWarp] Using localization: en_US
-[12:27:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[12:27:52] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[12:27:52] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[12:27:52] [Server thread/INFO]: [AnvilColors] Enabling AnvilColors v1.3.1
-[12:27:52] [Server thread/INFO]: [[EaglerPluginUpdater]] Enabling EaglerPluginUpdater v1.1.2
-[12:27:52] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: [MyWarp] No supported permissions plugin found, using Superperms fallback for group support
+[12:37:42] [Server thread/INFO]: [MyWarp] 0 warps loaded
+[12:37:42] [Server thread/INFO]: [MyWarp] Using localization: en_US
+[12:37:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[12:37:42] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:37:42] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[12:37:42] [Server thread/INFO]: [AnvilColors] Enabling AnvilColors v1.3.1
+[12:37:42] [Server thread/INFO]: [[EaglerPluginUpdater]] Enabling EaglerPluginUpdater v1.1.2
+[12:37:42] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m PluginInstaller V1.1.5 is now Disabled! D:[m
+[12:37:42] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m PluginInstaller V1.1.5 is now Disabled! D:[m
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
-[12:27:52] [Server thread/INFO]: Check 1 passed
+[12:37:42] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
+[12:37:42] [Server thread/INFO]: Check 1 passed
 
-[12:27:52] [Server thread/INFO]: Check 3 passed
+[12:37:42] [Server thread/INFO]: Check 3 passed
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
+[12:37:42] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
 
-[12:27:52] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
+[12:37:42] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
 
-[12:27:52] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
+[12:37:42] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
 
-[12:27:52] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
+[12:37:42] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
 
-[12:27:52] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
+[12:37:42] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: [0;32;1m[EaglerPluginUpdater][0;36;1m EaglerPluginUpdater V1.1.2 is now Enabled! :D[m
+[12:37:42] [Server thread/INFO]: [0;32;1m[EaglerPluginUpdater][0;36;1m EaglerPluginUpdater V1.1.2 is now Enabled! :D[m
 
-[12:27:52] [Server thread/INFO]: You do not need to do anything, this plugin will automatically update your PluginUpdater on startup[m
+[12:37:42] [Server thread/INFO]: You do not need to do anything, this plugin will automatically update your PluginUpdater on startup[m
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: --------------------------------------------[m
+[12:37:42] [Server thread/INFO]: --------------------------------------------[m
 
-[12:27:52] [Server thread/INFO]: [MagicSpellBook] Enabling MagicSpellBook v0.3
-[12:27:52] [Server thread/INFO]: Plugin Metrics loaded!
-[12:27:52] [Server thread/INFO]: [MagicSpells] Enabling MagicSpells v2.15
-[12:27:52] [Server thread/WARN]: [MagicSpells] This MagicSpells version is not fully compatible with this server version.
-[12:27:52] [Server thread/WARN]: [MagicSpells] Some features have been disabled.
-[12:27:52] [Server thread/WARN]: [MagicSpells] See http://nisovin.com/magicspells/volatilefeatures for more information.
-[12:27:52] [Server thread/INFO]: [MagicSpells] Spells loaded: 87
-[12:27:52] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[12:27:52] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[12:27:52] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[12:27:52] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[12:27:52] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[12:27:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:27:53] [Server thread/INFO]: Done (5.503s)! For help, type "help" or "?"
-[12:27:53] [Server thread/INFO]: Timings Reset
-[12:27:53] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+[12:37:42] [Server thread/INFO]: [MagicSpellBook] Enabling MagicSpellBook v0.3
+[12:37:42] [Server thread/INFO]: Plugin Metrics loaded!
+[12:37:42] [Server thread/INFO]: [MagicSpells] Enabling MagicSpells v2.15
+[12:37:42] [Server thread/WARN]: [MagicSpells] This MagicSpells version is not fully compatible with this server version.
+[12:37:42] [Server thread/WARN]: [MagicSpells] Some features have been disabled.
+[12:37:42] [Server thread/WARN]: [MagicSpells] See http://nisovin.com/magicspells/volatilefeatures for more information.
+[12:37:43] [Server thread/INFO]: [MagicSpells] Spells loaded: 87
+[12:37:43] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[12:37:43] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[12:37:43] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[12:37:43] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[12:37:43] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[12:37:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:37:43] [Server thread/INFO]: Done (5.036s)! For help, type "help" or "?"
+[12:37:43] [Server thread/INFO]: Timings Reset
+[12:37:43] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
 
-[12:27:53] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+[12:37:43] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
 
-[12:27:53] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+[12:37:43] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
-[12:27:54] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 5.2.0 (Running 5.1.0). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+[12:38:26] [Thread-7/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[12:38:26] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:55294] logged in with entity id 260 at ([world]386.0, 70.0, -180.0)
+[12:40:27] [Server thread/INFO]: Void has just earned the achievement [Monster Hunter]
+[12:40:40] [Server thread/INFO]: Void lost connection: Disconnected
+[12:40:40] [Server thread/INFO]: Void left the game.
+[12:41:20] [Thread-8/INFO]: UUID of player Ender_Assassin is e37d0331-1f34-341c-9a6b-d3db340fc0c6
+[12:41:20] [Server thread/INFO]: Ender_Assassin[/[0:0:0:0:0:0:0:1]:48840] logged in with entity id 2486 at ([world]386.0, 70.0, -180.0)
+[12:41:20] [Craft Scheduler Thread - 3/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[12:41:20] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[12:41:37] [Server thread/INFO]: Ender_Assassin issued server command: /cast
+[12:42:26] [Server thread/INFO]: You have taught Ender_Assassin the bind spell.[m
 
+[12:42:34] [Server thread/INFO]: You have taught Ender_Assassin the blink spell.[m
+
+[12:42:41] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[12:42:45] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[12:42:50] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[12:43:01] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[12:43:05] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[12:43:07] [Server thread/INFO]: Ender_Assassin has just earned the achievement [Taking Inventory]
+[12:43:11] [Server thread/INFO]: Ender_Assassin lost connection: Disconnected
+[12:43:11] [Server thread/INFO]: Ender_Assassin left the game.
+[12:45:18] [Thread-10/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[12:45:18] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:45784] logged in with entity id 3292 at ([world]386.0, 70.0, -180.0)
+[12:47:24] [Server thread/INFO]: Void issued server command: /cast bind shadowstep
+[12:47:55] [Server thread/INFO]: Void lost connection: Disconnected
+[12:47:55] [Server thread/INFO]: Void left the game.
+[12:52:57] [Thread-11/INFO]: UUID of player Ender_Assassin is e37d0331-1f34-341c-9a6b-d3db340fc0c6
+[12:52:57] [Server thread/INFO]: Ender_Assassin[/[0:0:0:0:0:0:0:1]:39924] logged in with entity id 5297 at ([world]354.5, 64.0, -208.5)
+[12:53:24] [Thread-12/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[12:53:24] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:60992] logged in with entity id 5477 at ([world]386.0, 70.0, -180.0)
+[12:53:39] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[12:53:39] [Server thread/INFO]: DomoPlanet left the game.
+[12:53:43] [Thread-13/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[12:53:43] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:46960] logged in with entity id 5555 at ([world]386.0, 70.0, -180.0)
+[12:54:29] [Thread-14/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[12:54:29] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:38608] logged in with entity id 6101 at ([world]386.0, 70.0, -180.0)
+[12:54:50] [Server thread/INFO]: Ender_Assassin issued server command: /
+[12:54:53] [Server thread/INFO]: Ender_Assassin issued server command: /help
+[12:55:29] [Server thread/INFO]: Ender_Assassin issued server command: /cast list
+[12:55:34] [Server thread/INFO]: Ender_Assassin issued server command: /
+[12:55:34] [Server thread/INFO]: DomoPlanet issued server command: /wb
+[12:55:42] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[12:56:18] [Server thread/INFO]: Ender_Assassin was slain by Zombie
+[12:57:59] [Server thread/INFO]: Given [Diamond] * 64 to DomoPlanet
+[12:58:08] [Thread-15/INFO]: UUID of player Dab1080_ is 00165dc4-ac24-3713-af5f-2b9e886ad18c
+[12:58:08] [Server thread/INFO]: Dab1080_[/[0:0:0:0:0:0:0:1]:34334] logged in with entity id 8098 at ([world]386.0, 70.0, -180.0)
+[12:58:17] [pool-4-thread-2/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[12:58:22] [Thread-16/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[12:58:22] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:35996] logged in with entity id 8244 at ([world]386.0, 70.0, -180.0)
+[12:58:28] [pool-4-thread-2/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[12:58:50] [Server thread/INFO]: Dab1080_ lost connection: Disconnected
+[12:58:50] [Server thread/INFO]: Dab1080_ left the game.
+[12:58:58] [Thread-17/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[12:58:58] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:34234] logged in with entity id 8463 at ([world]541.300000011921, 82.0, -273.13897052321306)
+[12:59:28] [Server thread/INFO]: SavageEagler_ issued server command: /plist
+[12:59:35] [Server thread/INFO]: SavageEagler_ issued server command: /plist 2
+[12:59:42] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[12:59:49] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[12:59:53] [Server thread/INFO]: SavageEagler_ issued server command: /install craftbook
+[12:59:56] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink\w
+[12:59:58] [Server thread/INFO]: SavageEagler_ issued server command: /help craftbook
+[13:00:03] [Server thread/INFO]: SavageEagler_ issued server command: /craftbook
+[13:00:13] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[13:00:15] [Server thread/INFO]: Ender_Assassin issued server command: /suicide
+[13:00:26] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
+[13:00:26] [Server thread/INFO]: SavageEagler_ left the game.
+[13:00:29] [Server thread/INFO]: Ender_Assassin issued server command: /suicide
+[13:00:34] [Server thread/INFO]: Ender_Assassin issued server command: /die
+[13:00:35] [Server thread/INFO]: Dab1080 issued server command: /cast list
+[13:00:36] [Thread-18/INFO]: UUID of player Dab1080_ is 00165dc4-ac24-3713-af5f-2b9e886ad18c
+[13:00:36] [Server thread/INFO]: Dab1080_[/[0:0:0:0:0:0:0:1]:47554] logged in with entity id 11132 at ([world]386.0, 70.0, -180.0)
+[13:00:40] [Server thread/INFO]: Ender_Assassin issued server command: /help
+[13:00:46] [pool-4-thread-3/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[13:00:46] [Server thread/INFO]: Ender_Assassin issued server command: /help 2
+[13:00:56] [Async Chat Thread - #0/INFO]: <Dab1080> whos on my mod account?[m
+
+[13:00:57] [Server thread/INFO]: Ender_Assassin issued server command: /spawn
+[13:01:04] [Async Chat Thread - #0/INFO]: <Void> no idea[m
+
+[13:01:11] [Async Chat Thread - #0/INFO]: <DomoPlanet> might be will???[m
+
+[13:01:18] [Async Chat Thread - #0/INFO]: <Dab1080_> its lucas[m
+
+[13:01:19] [Async Chat Thread - #0/INFO]: <Dab1080> will doesnt know my pass[m
+
+[13:01:27] [Async Chat Thread - #0/INFO]: <Dab1080> makes sense :/[m
+
+[13:01:27] [Async Chat Thread - #0/INFO]: <Dab1080_> im doing admin stuff[m
+
+[13:01:31] [Async Chat Thread - #0/INFO]: <Dab1080> alr[m
+
+[13:01:55] [Server thread/INFO]: Dab1080 has just earned the achievement [Getting an Upgrade]
+[13:02:00] [Server thread/INFO]: Ender_Assassin issued server command: /tpr
+[13:02:03] [Server thread/INFO]: Dab1080_ issued server command: //set stone
+[13:02:03] [Server thread/INFO]: Ender_Assassin issued server command: /help
+[13:02:20] [Server thread/INFO]: Dab1080_ issued server command: //set stone
+[13:02:25] [Server thread/INFO]: Ender_Assassin issued server command: /help 3
+[13:02:31] [Server thread/INFO]: Ender_Assassin issued server command: /help 4
+[13:02:32] [Server thread/INFO]: Dab1080_ issued server command: //set stone
+[13:02:38] [Server thread/INFO]: Ender_Assassin issued server command: /help 5
+[13:02:48] [Server thread/INFO]: Ender_Assassin issued server command: /help 6
+[13:03:22] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:03:26] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:03:45] [Server thread/INFO]: Dab1080_ issued server command: //set glass
+[13:04:26] [Server thread/INFO]: Void issued server command: /cast bind confusion
+[13:04:29] [Server thread/INFO]: Ender_Assassin issued server command: /help
+[13:04:39] [Server thread/INFO]: Void issued server command: /cast bind shadowstep
+[13:04:50] [Server thread/INFO]: Ender_Assassin issued server command: /magicspellbook
+[13:04:57] [Server thread/INFO]: Void issued server command: /cast bind confusion
+[13:05:03] [Server thread/INFO]: Ender_Assassin issued server command: /kit
+[13:05:07] [Server thread/INFO]: Ender_Assassin issued server command: /kit food
+[13:05:19] [Async Chat Thread - #1/INFO]: <Void> my bind isnt working properly[m
+
+[13:05:27] [Async Chat Thread - #1/INFO]: <Dab1080> then just make it work :/[m
+
+[13:05:30] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:05:33] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:05:36] [Server thread/INFO]: Void issued server command: /cast bind confusion
+[13:05:43] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:05:52] [Async Chat Thread - #1/INFO]: <Void> im unable to bind confusion back to my stick[m
+
+[13:06:08] [Async Chat Thread - #1/INFO]: <Dab1080> binding confusion to a stcik is wild[m
+
+[13:06:30] [Async Chat Thread - #1/INFO]: <Void> i fixed it but i might have found something cool[m
+
+[13:06:47] [Async Chat Thread - #1/INFO]: <Ender_Assassin> Herrooo[m
+
+[13:06:47] [Server thread/INFO]: Dab1080 has just earned the achievement [Hot Topic]
+[13:07:04] [Async Chat Thread - #1/INFO]: <Dab1080> :D[m
+
+[13:07:18] [Server thread/INFO]: Void issued server command: /cast bind shadowstep
+[13:07:36] [Server thread/INFO]: Ender_Assassin issued server command: /suidide
+[13:07:45] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:07:52] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:07:57] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:08:32] [Async Chat Thread - #2/INFO]: <Void> nevermind but also everyone should probably get the bind spell by defult[m
+
+[13:08:33] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080_ mob_spawner
+[13:08:33] [Server thread/INFO]: [Dab1080_: Given [Monster Spawner] * 1 to Dab1080_]
+[13:08:41] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[13:08:44] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[13:08:48] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[13:08:56] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:09:17] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:09:32] [Async Chat Thread - #2/INFO]: <Ender_Assassin> why cant i break things??[m
+
+[13:09:38] [Server thread/INFO]: Dab1080_ lost connection: Disconnected
+[13:09:38] [Server thread/INFO]: Dab1080_ left the game.
+[13:09:45] [Thread-19/INFO]: UUID of player Dab1080_ is 00165dc4-ac24-3713-af5f-2b9e886ad18c
+[13:09:45] [Server thread/INFO]: Dab1080_[/[0:0:0:0:0:0:0:1]:38188] logged in with entity id 20578 at ([world]386.0, 70.0, -180.0)
+[13:09:49] [pool-4-thread-4/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[13:10:22] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:10:50] [Server thread/INFO]: Dab1080 issued server command: /tpahere Ender_Assassin
+[13:10:56] [Server thread/INFO]: Ender_Assassin issued server command: /tpyes
+[13:11:02] [Async Chat Thread - #3/INFO]: <Void> click the spell book till it says inventory[m
+
+[13:11:03] [Server thread/INFO]: Dab1080_ issued server command: /cast spellbook shadowstep
+[13:11:09] [Server thread/INFO]: Dab1080 issued server command: /tpahere Ender_Assassin
+[13:11:12] [Server thread/INFO]: Ender_Assassin issued server command: /tpyes
+[13:11:17] [Async Chat Thread - #3/INFO]: <Dab1080> i already told him[m
+
+[13:11:20] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.attack(EntityHuman.java:1002) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.attack(EntityPlayer.java:1086) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1382) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:11) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 23 more
+[13:11:20] [Server thread/INFO]: Ender_Assassin was slain by Dab1080
+[13:11:28] [Server thread/INFO]: Ender_Assassin issued server command: /back
+[13:11:28] [Async Chat Thread - #3/INFO]: <Dab1080> i already told him[m
+
+[13:11:31] [Server thread/INFO]: Dab1080 issued server command: /tpahere Ender_Assassin
+[13:11:54] [Async Chat Thread - #3/INFO]: <Dab1080> lol[m
+
+[13:11:56] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080_ command_block
+[13:11:56] [Server thread/INFO]: [Dab1080_: Given [Command Block] * 1 to Dab1080_]
+[13:12:20] [Server thread/INFO]: DomoPlanet issued server command: /help list
+[13:12:26] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[13:13:04] [Server thread/INFO]: Ender_Assassin issued server command: /craft
+[13:13:19] [Server thread/INFO]: DomoPlanet issued server command: /cast bind Cripple
+[13:13:30] [Server thread/INFO]: Ender_Assassin has just earned the achievement [Getting Wood]
+[13:14:00] [Server thread/INFO]: Ender_Assassin has just earned the achievement [Benchmarking]
+[13:14:15] [Server thread/INFO]: Ender_Assassin has just earned the achievement [Time to Mine!]
+[13:14:15] [Server thread/INFO]: Ender_Assassin has just earned the achievement [Getting an Upgrade]
+[13:15:31] [Server thread/INFO]: [@: Title command successfully executed]
+[13:15:31] [Server thread/INFO]: [@: Title command successfully executed]
+[13:15:31] [Server thread/INFO]: [@: Title command successfully executed]
+[13:15:31] [Server thread/INFO]: [@: Title command successfully executed]
+[13:15:31] [Server thread/INFO]: [@: Title command successfully executed]
+[13:15:31] [Server thread/INFO]: [@: Title command successfully executed]
+[13:15:31] [Server thread/INFO]: [@: Title command successfully executed]
+[13:15:31] [Server thread/INFO]: [@: Title command successfully executed]
+[13:15:31] [Server thread/INFO]: [@: Title command successfully executed]
+[13:15:31] [Server thread/INFO]: [@: Title command successfully executed]
+[13:15:36] [Async Chat Thread - #4/INFO]: <DomoPlanet> WHERE[m
+
+[13:15:41] [Async Chat Thread - #4/INFO]: <Ender_Assassin> where at[m
+
+[13:15:43] [Async Chat Thread - #4/INFO]: <Dab1080_> im testing[m
+
+[13:15:45] [Async Chat Thread - #4/INFO]: <Void> what[m
+
+[13:15:46] [Async Chat Thread - #4/INFO]: <Dab1080> yo lucas, i never spawned with a spell btw[m
+
+[13:16:01] [Server thread/INFO]: Dab1080_ issued server command: /cast teach Dab1080 blind
+[13:16:07] [Server thread/INFO]: Dab1080_ issued server command: /cast teach Dab1080 bind
+[13:16:11] [Async Chat Thread - #4/INFO]: <Dab1080> oh thx pookie[m
+
+[13:16:12] [Server thread/INFO]: Dab1080_ issued server command: /cast teach Dab1080 food
+[13:16:23] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[13:16:28] [Server thread/INFO]: Ender_Assassin issued server command: /sethome a
+[13:16:45] [Async Chat Thread - #4/INFO]: <Void> what spells does everyone have, i have confusion and shadowstep[m
+
+[13:16:51] [Server thread/INFO]: Dab1080 issued server command: /cast bind blind
+[13:17:05] [Async Chat Thread - #4/INFO]: <Dab1080> i got majic[m
+
+[13:17:09] [Server thread/INFO]: Dab1080 has just earned the achievement [Acquire Hardware]
+[13:17:24] [Async Chat Thread - #4/INFO]: <Void> um something happened to my mana[m
+
+[13:17:35] [Async Chat Thread - #4/INFO]: <Dab1080_> ready guys[m
+
+[13:17:35] [Server thread/INFO]: Dab1080 has just earned the achievement [Time to Strike!]
+[13:17:45] [Server thread/INFO]: Dab1080 issued server command: /cast bind blind
+[13:18:05] [Async Chat Thread - #4/INFO]: <Void> lucas if your on my mana currently goes to 999999[m
+
+[13:18:19] [Async Chat Thread - #4/INFO]: <Dab1080_> lol[m
+
+[13:18:28] [Async Chat Thread - #4/INFO]: <Dab1080> he made an oopsies[m
+
+[13:18:35] [Async Chat Thread - #4/INFO]: <Dab1080_> ready guys[m
+
+[13:18:41] [Async Chat Thread - #4/INFO]: <Void> for what[m
+
+[13:18:47] [Async Chat Thread - #4/INFO]: <Dab1080_> im only broadcasting once[m
+
+[13:18:49] [Server thread/INFO]: [@: Title command successfully executed]
+[13:18:49] [Server thread/INFO]: [@: Title command successfully executed]
+[13:18:49] [Server thread/INFO]: [@: Title command successfully executed]
+[13:18:49] [Server thread/INFO]: [@: Title command successfully executed]
+[13:18:49] [Server thread/INFO]: [@: Title command successfully executed]
+[13:18:49] [Server thread/INFO]: [@: Title command successfully executed]
+[13:18:49] [Server thread/INFO]: [@: Title command successfully executed]
+[13:18:49] [Server thread/INFO]: [@: Title command successfully executed]
+[13:18:49] [Server thread/INFO]: [@: Title command successfully executed]
+[13:18:49] [Server thread/INFO]: [@: Title command successfully executed]
+[13:18:55] [Async Chat Thread - #4/INFO]: <Dab1080> 381 18 222[m
+
+[13:18:56] [Server thread/INFO]: Dab1080_ lost connection: Disconnected
+[13:18:56] [Server thread/INFO]: Dab1080_ left the game.
+[13:18:56] [Async Chat Thread - #4/INFO]: <Dab1080> 381 18 222[m
+
+[13:19:02] [Async Chat Thread - #4/INFO]: <DomoPlanet> put queards in chat[m
+
+[13:19:14] [Thread-21/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[13:19:14] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:41050] logged in with entity id 31333 at ([world]386.0, 70.0, -180.0)
+[13:19:31] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[13:19:31] [Server thread/INFO]: maroon5 left the game.
+[13:19:42] [Server thread/INFO]: Dab1080 has just earned the achievement [Monster Hunter]
+[13:19:44] [Thread-22/INFO]: UUID of player Dab1080_ is 00165dc4-ac24-3713-af5f-2b9e886ad18c
+[13:19:44] [Server thread/INFO]: Dab1080_[/[0:0:0:0:0:0:0:1]:47992] logged in with entity id 32477 at ([world]386.0, 70.0, -180.0)
+[13:19:45] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[13:19:46] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[13:19:52] [pool-4-thread-5/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[13:20:00] [Async Chat Thread - #4/INFO]: <Ender_Assassin> \[m
+
+[13:20:03] [Server thread/INFO]: Dab1080 issued server command: /cast bind blind
+[13:20:24] [Server thread/INFO]: Dab1080_ issued server command: /cast spellbook firenova 2
+[13:20:53] [Server thread/INFO]: Dab1080_ issued server command: /cast spellbook cripple
+[13:20:56] [Async Chat Thread - #4/INFO]: <Void> when in water my fps is 2[m
+
+[13:20:58] [Server thread/INFO]: Dab1080_ issued server command: /cast spellbook freeze
+[13:21:10] [Async Chat Thread - #4/INFO]: <Dab1080> pog[m
+
+[13:21:15] [Server thread/INFO]: Dab1080_ issued server command: /cast spellbook poison
+[13:21:31] [Server thread/WARN]: Void moved too quickly! -8.652277208246517,0.06517822158835429,-13.57893450388957 (-8.652277208246517, 0.06517822158835429, -13.57893450388957)
+[13:21:39] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[13:21:39] [Server thread/INFO]: DomoPlanet left the game.
+[13:21:44] [Thread-23/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[13:21:44] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:60758] logged in with entity id 34850 at ([world]386.0, 70.0, -180.0)
+[13:21:58] [Server thread/INFO]: Dab1080_ issued server command: /cast scroll zues 10
+[13:21:59] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[13:21:59] [Server thread/INFO]: DomoPlanet left the game.
+[13:22:03] [Server thread/INFO]: Dab1080_ issued server command: /cast scroll zeus 10
+[13:22:04] [Thread-24/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[13:22:04] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:54192] logged in with entity id 35350 at ([world]386.0, 70.0, -180.0)
+[13:23:08] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080_ mob_spawner
+[13:23:08] [Server thread/INFO]: [Dab1080_: Given [Monster Spawner] * 1 to Dab1080_]
+[13:23:31] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 3
+[13:23:31] [Server thread/INFO]: [Dab1080_: Set own game mode to Spectator Mode]
+[13:23:42] [Server thread/INFO]: Ender_Assassin issued server command: /cast blick
+[13:23:53] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:23:59] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 1
+[13:23:59] [Server thread/INFO]: [Dab1080_: Set own game mode to Creative Mode]
+[13:24:02] [Server thread/INFO]: [@: Title command successfully executed]
+[13:24:02] [Server thread/INFO]: [@: Title command successfully executed]
+[13:24:02] [Server thread/INFO]: [@: Title command successfully executed]
+[13:24:02] [Server thread/INFO]: [@: Title command successfully executed]
+[13:24:02] [Server thread/INFO]: [@: Title command successfully executed]
+[13:24:02] [Server thread/INFO]: [@: Title command successfully executed]
+[13:24:02] [Server thread/INFO]: [@: Title command successfully executed]
+[13:24:02] [Server thread/INFO]: [@: Title command successfully executed]
+[13:24:02] [Server thread/INFO]: [@: Title command successfully executed]
+[13:24:02] [Server thread/INFO]: [@: Title command successfully executed]
+[13:24:08] [Server thread/INFO]: Dab1080_ lost connection: Disconnected
+[13:24:08] [Server thread/INFO]: Dab1080_ left the game.
+[13:24:11] [Thread-25/INFO]: UUID of player Dab1080_ is 00165dc4-ac24-3713-af5f-2b9e886ad18c
+[13:24:11] [Server thread/INFO]: Dab1080_[/[0:0:0:0:0:0:0:1]:49166] logged in with entity id 40421 at ([world]386.0, 70.0, -180.0)
+[13:24:16] [Async Chat Thread - #5/INFO]: <DomoPlanet> t[m
+
+[13:24:22] [pool-4-thread-6/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[13:24:31] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:24:38] [Async Chat Thread - #5/INFO]: <Dab1080_> it me will[m
+
+[13:24:46] [Async Chat Thread - #5/INFO]: <Dab1080_> ima break everything[m
+
+[13:24:52] [Server thread/INFO]: DomoPlanet issued server command: /tpa void
+[13:24:53] [Async Chat Thread - #5/INFO]: <Dab1080_> lucas is in the bathroom[m
+
+[13:24:57] [Server thread/INFO]: Void issued server command: /tpaccept
+[13:25:11] [Async Chat Thread - #5/INFO]: <Dab1080> can go to console and de op you immediately[m
+
+[13:25:16] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:16] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:16] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:16] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:16] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:16] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:16] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:16] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:16] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:16] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:19] [Async Chat Thread - #5/INFO]: <Void> t[m
+
+[13:25:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:25:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:26:12] [Async Chat Thread - #5/INFO]: <Dab1080_> what did will do[m
+
+[13:26:30] [Async Chat Thread - #5/INFO]: <Dab1080> about got deopped[m
+
+[13:27:03] [Server thread/INFO]: [@: Title command successfully executed]
+[13:27:03] [Server thread/INFO]: [@: Title command successfully executed]
+[13:27:03] [Server thread/INFO]: [@: Title command successfully executed]
+[13:27:03] [Server thread/INFO]: [@: Title command successfully executed]
+[13:27:03] [Server thread/INFO]: [@: Title command successfully executed]
+[13:27:03] [Server thread/INFO]: [@: Title command successfully executed]
+[13:27:03] [Server thread/INFO]: [@: Title command successfully executed]
+[13:27:03] [Server thread/INFO]: [@: Title command successfully executed]
+[13:27:03] [Server thread/INFO]: [@: Title command successfully executed]
+[13:27:03] [Server thread/INFO]: [@: Title command successfully executed]
+[13:27:13] [Async Chat Thread - #5/INFO]: <Dab1080_> lol[m
+
+[13:27:19] [Async Chat Thread - #5/INFO]: <Dab1080_> i forgot to logout[m
+
+[13:27:29] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 3
+[13:27:29] [Server thread/INFO]: [Dab1080_: Set own game mode to Spectator Mode]
+[13:27:30] [Async Chat Thread - #5/INFO]: <Dab1080> mbass[m
+
+[13:27:51] [Server thread/INFO]: DomoPlanet issued server command: /tpa void
+[13:27:56] [Server thread/INFO]: Void issued server command: /tpaccept
+[13:28:14] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 1
+[13:28:14] [Server thread/INFO]: [Dab1080_: Set own game mode to Creative Mode]
+[13:28:26] [Server thread/INFO]: Dab1080_ issued server command: /rename
+[13:28:47] [Async Chat Thread - #6/INFO]: <Void> is the dungeon the cave[m
+
+[13:28:48] [Server thread/INFO]: Dab1080_ issued server command: /cast firenova
+[13:28:52] [Server thread/INFO]: Ender_Assassin issued server command: /cast blink
+[13:28:55] [Server thread/INFO]: Dab1080_ issued server command: /cast firenova
+[13:29:03] [Server thread/INFO]: Dab1080_ issued server command: /cast firenova
+[13:29:15] [Async Chat Thread - #6/INFO]: <Dab1080_> yes[m
+
+[13:29:40] [Async Chat Thread - #6/INFO]: <Dab1080> is there negative in the coords?[m
+
+[13:29:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:29:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:29:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:29:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:29:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:29:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:29:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:29:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:29:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:29:52] [Server thread/INFO]: [@: Title command successfully executed]
+[13:30:22] [Async Chat Thread - #6/INFO]: <Dab1080> im right abouve it[m
+
+[13:30:40] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:211) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInLook.a(SourceFile:88) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 26 more
+[13:30:40] [Server thread/INFO]: Dab1080 drowned
+[13:30:44] [Async Chat Thread - #6/INFO]: <Dab1080> oops[m
+
+[13:30:53] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.K(Entity.java:337) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 27 more
+[13:30:53] [Server thread/INFO]: Void burned to death
+[13:30:57] [Server thread/INFO]: Void issued server command: /back
+[13:30:57] [Async Chat Thread - #6/INFO]: <Dab1080> oh no[m
+
+[13:31:00] [Async Chat Thread - #6/INFO]: <Dab1080_> lol[m
+
+[13:31:05] [Server thread/INFO]: Dab1080 issued server command: /back
+[13:31:07] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 3
+[13:31:07] [Server thread/INFO]: [Dab1080_: Set own game mode to Spectator Mode]
+[13:31:30] [Async Chat Thread - #6/INFO]: <Dab1080> IT WONT LET ME PICK UP MY STUFF[m
+
+[13:31:35] [Server thread/INFO]: Dab1080 has just earned the achievement [Cow Tipper]
+[13:31:37] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:211) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:8) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 26 more
+[13:31:37] [Server thread/INFO]: Dab1080 drowned
+[13:31:41] [Server thread/INFO]: Dab1080 issued server command: /back
+[13:31:44] [Async Chat Thread - #6/INFO]: <Dab1080_> get out of spellbook[m
+
+[13:31:59] [Async Chat Thread - #6/INFO]: <Dab1080> i see that now...[m
+
+[13:32:22] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 1
+[13:32:22] [Server thread/INFO]: [Dab1080_: Set own game mode to Creative Mode]
+[13:32:46] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[13:32:46] [Server thread/INFO]: DomoPlanet left the game.
+[13:32:48] [Async Chat Thread - #6/INFO]: <Dab1080_> lag[m
+
+[13:33:16] [Server thread/INFO]: Dab1080_ issued server command: //copy
+[13:33:25] [Server thread/INFO]: Ender_Assassin has just earned the achievement [Hot Topic]
+[13:33:35] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 3
+[13:33:35] [Server thread/INFO]: [Dab1080_: Set own game mode to Spectator Mode]
+[13:33:39] [Async Chat Thread - #6/INFO]: <Dab1080> uh[m
+
+[13:33:52] [Async Chat Thread - #6/INFO]: <Dab1080> you sure you didnt forget a negative?[m
+
+[13:34:27] [Async Chat Thread - #6/INFO]: <Dab1080_> yep my bad[m
+
+[13:34:30] [Async Chat Thread - #6/INFO]: <Dab1080> IDIOT[m
+
+[13:34:34] [Server thread/INFO]: Ender_Assassin has just earned the achievement [Acquire Hardware]
+[13:34:35] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 1
+[13:34:35] [Server thread/INFO]: [Dab1080_: Set own game mode to Creative Mode]
+[13:34:47] [Server thread/INFO]: [@: Title command successfully executed]
+[13:34:47] [Server thread/INFO]: [@: Title command successfully executed]
+[13:34:47] [Server thread/INFO]: [@: Title command successfully executed]
+[13:34:47] [Server thread/INFO]: [@: Title command successfully executed]
+[13:34:47] [Server thread/INFO]: [@: Title command successfully executed]
+[13:34:47] [Server thread/INFO]: [@: Title command successfully executed]
+[13:34:47] [Server thread/INFO]: [@: Title command successfully executed]
+[13:34:47] [Server thread/INFO]: [@: Title command successfully executed]
+[13:34:53] [Async Chat Thread - #6/INFO]: <Dab1080> you mf[m
+
+[13:34:55] [Server thread/INFO]: Ender_Assassin has just earned the achievement [Time to Strike!]
+[13:34:57] [Async Chat Thread - #6/INFO]: <Void> your bullshitting me[m
+
+[13:35:04] [Async Chat Thread - #6/INFO]: <Dab1080> THATS WHAT IM SAYING[m
+
+[13:35:05] [Async Chat Thread - #6/INFO]: <Void> thats where i started[m
+
+[13:35:21] [Async Chat Thread - #6/INFO]: <Void> i am so close to the old cooridinates[m
+
+[13:35:22] [Server thread/INFO]: [@: Title command successfully executed]
+[13:35:22] [Server thread/INFO]: [@: Title command successfully executed]
+[13:35:22] [Server thread/INFO]: [@: Title command successfully executed]
+[13:35:22] [Server thread/INFO]: [@: Title command successfully executed]
+[13:35:22] [Server thread/INFO]: [@: Title command successfully executed]
+[13:35:22] [Server thread/INFO]: [@: Title command successfully executed]
+[13:35:22] [Server thread/INFO]: [@: Title command successfully executed]
+[13:35:22] [Server thread/INFO]: [@: Title command successfully executed]
+[13:35:34] [Async Chat Thread - #6/INFO]: <Dab1080> I GOTTA GO 800 BLOCKS NOW[m
+
+[13:35:36] [Async Chat Thread - #6/INFO]: <Dab1080> FU[m
+
+[13:35:49] [Async Chat Thread - #6/INFO]: <Dab1080> ;p[m
+
+[13:35:56] [Async Chat Thread - #6/INFO]: <Dab1080_> ill tp you uys within like 200 blocks[m
+
+[13:36:00] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 3
+[13:36:00] [Server thread/INFO]: [Dab1080_: Set own game mode to Spectator Mode]
+[13:36:06] [Async Chat Thread - #6/INFO]: <Void> can you at least tp to -41x, thats where i started[m
+
+[13:36:18] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 1
+[13:36:18] [Server thread/INFO]: [Dab1080_: Set own game mode to Creative Mode]
+[13:36:42] [Server thread/INFO]: Dab1080_ issued server command: /tpa here Dab1080
+[13:36:50] [Server thread/INFO]: Dab1080_ issued server command: /tpahere Dab1080
+[13:36:53] [Server thread/INFO]: Dab1080_ issued server command: /tpahere Void
+[13:36:57] [Server thread/INFO]: Void issued server command: /tpaccept
+[13:36:58] [Server thread/INFO]: Dab1080 issued server command: /tpyes
+[13:36:59] [Server thread/INFO]: Dab1080_ issued server command: /tpahere Ender_Assassin
+[13:37:33] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 3
+[13:37:33] [Server thread/INFO]: [Dab1080_: Set own game mode to Spectator Mode]
+[13:37:53] [Server thread/INFO]: Dab1080 issued server command: /cast bind blind
+[13:38:05] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 1
+[13:38:05] [Server thread/INFO]: [Dab1080_: Set own game mode to Creative Mode]
+[13:38:17] [Server thread/INFO]: Dab1080_ issued server command: /cast spellbook armor
+[13:38:36] [Server thread/INFO]: Dab1080_ issued server command: /enchant sharpness 5
+[13:38:36] [Server thread/INFO]: [Dab1080_: That player cannot be found]
+[13:38:40] [Server thread/INFO]: Dab1080_ issued server command: /enchant sharpness 5
+[13:38:40] [Server thread/INFO]: [Dab1080_: That player cannot be found]
+[13:38:48] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.O(EntityLiving.java:1193) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.K(Entity.java:350) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 28 more
+[13:38:48] [Server thread/INFO]: Void fell out of the world
+[13:38:53] [Server thread/INFO]: Void issued server command: /back
+[13:38:58] [Server thread/INFO]: Dab1080_ issued server command: /enchant sharpness_5
+[13:39:00] [Server thread/INFO]: Void fell out of the world
+[13:39:02] [Server thread/INFO]: Ender_Assassin lost connection: Disconnected
+[13:39:02] [Server thread/INFO]: Ender_Assassin left the game.
+[13:39:09] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080_ sharpness 5
+[13:39:09] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:39:16] [Async Chat Thread - #7/INFO]: <Void> i lost everything[m
+
+[13:39:19] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080_ unbreaking 3
+[13:39:19] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:39:25] [Async Chat Thread - #7/INFO]: <Void> there just a big hole[m
+
+[13:39:28] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080_ fire_aspect 2
+[13:39:28] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:39:41] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080_ smite 5
+[13:39:41] [Server thread/INFO]: [Dab1080_: Smite V can't be combined with Sharpness V]
+[13:39:43] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080_ smite 4
+[13:39:43] [Server thread/INFO]: [Dab1080_: Smite IV can't be combined with Sharpness V]
+[13:39:43] [Async Chat Thread - #7/INFO]: <Dab1080> NO[m
+
+[13:39:45] [Async Chat Thread - #7/INFO]: <Dab1080> FUCK[m
+
+[13:39:46] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080_ smite 3
+[13:39:46] [Server thread/INFO]: [Dab1080_: Smite III can't be combined with Sharpness V]
+[13:39:46] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.O(EntityLiving.java:1193) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.K(Entity.java:350) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 28 more
+[13:39:46] [Server thread/INFO]: Dab1080 fell out of the world
+[13:39:50] [Server thread/INFO]: Void lost connection: Disconnected
+[13:39:50] [Server thread/INFO]: Void left the game.
+[13:39:52] [Async Chat Thread - #7/INFO]: <Dab1080> oops[m
+
+[13:39:52] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080_ looting 3
+[13:39:52] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:39:53] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[13:39:53] [Server thread/INFO]: Dab1080 left the game.
+[13:40:24] [Server thread/INFO]: Dab1080_ lost connection: Disconnected
+[13:40:24] [Server thread/INFO]: Dab1080_ left the game.
+[13:42:11] [Thread-26/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[13:42:11] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:54152] logged in with entity id 58436 at ([world]386.0, 70.0, -180.0)
+[13:43:19] [Thread-28/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[13:43:19] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:55358] logged in with entity id 59083 at ([world]386.0, 70.0, -180.0)
+[13:43:28] [Async Chat Thread - #8/INFO]: <Void> will[m
+
+[13:43:35] [Async Chat Thread - #8/INFO]: <Void> screw you[m
+
+[13:43:38] [Async Chat Thread - #8/INFO]: <maroon5> hehehehaw[m
+
+[13:43:42] [Async Chat Thread - #8/INFO]: <Void> just because[m
+
+[13:43:54] [Async Chat Thread - #8/INFO]: <Void> also i lost everything but my spells[m
+
+[13:44:12] [Thread-29/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[13:44:12] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:44300] logged in with entity id 59230 at ([world]386.0, 70.0, -180.0)
+[13:44:26] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[13:44:26] [Server thread/INFO]: Dab1080 left the game.
+[13:44:32] [Thread-30/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[13:44:32] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:51692] logged in with entity id 59356 at ([world]386.0, 70.0, -180.0)
+[13:44:42] [Server thread/INFO]: maroon5 issued server command: /cast fireball
+[13:44:44] [Async Chat Thread - #8/INFO]: <Void> imma call the twin will will and the other will ill call dick[m
+
+[13:44:46] [Server thread/INFO]: Dab1080 issued server command: /cast list
+[13:44:47] [Server thread/INFO]: maroon5 issued server command: /cast fireball
+[13:44:50] [Server thread/INFO]: maroon5 issued server command: /d
+[13:44:52] [Server thread/INFO]: maroon5 issued server command: /
+[13:44:55] [Thread-31/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[13:44:55] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:34392] logged in with entity id 59805 at ([world]386.0, 70.0, -180.0)
+[13:44:57] [Server thread/INFO]: maroon5 issued server command: /
+[13:45:07] [Server thread/INFO]: maroon5 issued server command: /cast fireball
+[13:45:24] [Async Chat Thread - #8/INFO]: <maroon5> fuck off[m
+
+[13:45:29] [Server thread/INFO]: Dab1080 issued server command: /cast blind
+[13:45:33] [Async Chat Thread - #8/INFO]: <Void> e[m
+
+[13:45:49] [Server thread/INFO]: Dab1080 issued server command: /cast blind
+[13:45:59] [Server thread/INFO]: Dab1080 issued server command: /cast blind
+[13:46:09] [Server thread/INFO]: Dab1080 issued server command: /cast blind
+[13:46:20] [Server thread/INFO]: Void was slain by Dab1080
+[13:46:25] [Server thread/INFO]: maroon5 issued server command: /
+[13:46:26] [Async Chat Thread - #8/INFO]: <Dab1080> YES[m
+
+[13:46:42] [Async Chat Thread - #8/INFO]: <Void> eh, lets try again but i get my old gear[m
+
+[13:46:57] [Async Chat Thread - #8/INFO]: <Dab1080> lets try again but i get your old gear[m
+
+[13:47:01] [Async Chat Thread - #8/INFO]: <Void> no[m
+
+[13:47:13] [Async Chat Thread - #8/INFO]: <Void> also are you admin with that account or not[m
+
+[13:47:15] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[13:47:23] [Server thread/INFO]: Void issued server command: /back
+[13:47:53] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[13:48:09] [Server thread/INFO]: DomoPlanet issued server command: /msg void do we have our old base?
+[13:48:48] [Async Chat Thread - #9/INFO]: <Void> because if so i think everyone should get a consolation prize and me and you should get our gear bac[m
+
+[13:48:51] [Thread-32/INFO]: UUID of player Dab1080_ is 00165dc4-ac24-3713-af5f-2b9e886ad18c
+[13:48:51] [Server thread/INFO]: Dab1080_[/[0:0:0:0:0:0:0:1]:56800] logged in with entity id 65405 at ([world]386.0, 70.0, -180.0)
+[13:48:59] [Thread-33/INFO]: UUID of player SmgShane is 29e7477b-5ec1-3ad0-9395-b1a1f26d57e2
+[13:48:59] [Server thread/INFO]: SmgShane[/[0:0:0:0:0:0:0:1]:41330] logged in with entity id 65434 at ([world]280.6612008910993, 54.1526148765003, -120.52890262789893)
+[13:48:59] [pool-4-thread-7/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[13:49:07] [Async Chat Thread - #9/INFO]: <maroon5> i think you two suck ass and need to get gud[m
+
+[13:49:18] [Async Chat Thread - #9/INFO]: <maroon5> ok fuck you[m
+
+[13:49:27] [Async Chat Thread - #9/INFO]: <Void> talk that shit when shadowstep works on players[m
+
+[13:49:31] [Server thread/INFO]: SmgShane issued server command: /tpa maroon5
+[13:49:36] [Async Chat Thread - #9/INFO]: <maroon5> william stop[m
+
+[13:49:53] [Async Chat Thread - #9/INFO]: <Dab1080> at?[m
+
+[13:49:54] [Server thread/INFO]: SmgShane issued server command: /tpa DomoPlanet
+[13:50:00] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[13:50:01] [Async Chat Thread - #9/INFO]: <Dab1080> what?[m
+
+[13:50:06] [Async Chat Thread - #9/INFO]: <maroon5> you and your account are online[m
+
+[13:50:09] [Async Chat Thread - #9/INFO]: <maroon5> fuck off[m
+
+[13:50:16] [Async Chat Thread - #9/INFO]: <maroon5> i know its not lucas[m
+
+[13:50:28] [Async Chat Thread - #9/INFO]: <Dab1080_> it is me lucas im using haydens computer[m
+
+[13:50:37] [Async Chat Thread - #9/INFO]: <Dab1080_> i can tell ur pass if you want[m
+
+[13:50:39] [Async Chat Thread - #9/INFO]: <DomoPlanet> lucas zaddu :D[m
+
+[13:51:03] [Async Chat Thread - #9/INFO]: <Void> lucas, there was a big hole in the spot the dungeon was me and william lost our crap and the spells[m
+
+[13:51:04] [Async Chat Thread - #9/INFO]: <maroon5> what is it[m
+
+[13:51:07] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 diamond_sword
+[13:51:07] [Server thread/INFO]: [Dab1080_: Given [Diamond Sword] * 1 to Dab1080]
+[13:51:12] [Async Chat Thread - #9/INFO]: <Void> werent able to be gotten[m
+
+[13:51:14] [Async Chat Thread - #9/INFO]: <maroon5> there is supposed to be a hole[m
+
+[13:51:21] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080 sharpness 5
+[13:51:21] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:51:28] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080 unbreaking 3
+[13:51:28] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:51:32] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080 looting 3
+[13:51:32] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:51:51] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 diamond_pickaxe
+[13:51:51] [Server thread/INFO]: [Dab1080_: Given [Diamond Pickaxe] * 1 to Dab1080]
+[13:52:07] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080 efficeincy 5
+[13:52:07] [Server thread/INFO]: [Dab1080_: 'efficeincy' is not a valid number]
+[13:52:16] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080 efficiency 5
+[13:52:16] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:52:26] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080 silk_touch 1
+[13:52:26] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:52:35] [Server thread/INFO]: Dab1080_ issued server command: /enchant Dab1080 unbreaking 3
+[13:52:35] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:52:56] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[13:53:02] [Server thread/INFO]: Dab1080 issued server command: /cast bind blind
+[13:53:12] [Async Chat Thread - #10/INFO]: <Void> did you see what i said[m
+
+[13:53:16] [Async Chat Thread - #10/INFO]: <Dab1080> no[m
+
+[13:53:16] [Server thread/INFO]: SmgShane issued server command: /tpa Void
+[13:53:17] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityMonster.r(EntityMonster.java:72) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityZombie.r(EntityZombie.java:225) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PathfinderGoalMeleeAttack.e(SourceFile:122) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PathfinderGoalSelector.a(PathfinderGoalSelector.java:91) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityInsentient.doTick(EntityInsentient.java:480) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.m(EntityLiving.java:1631) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityInsentient.m(EntityInsentient.java:339) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityMonster.m(EntityMonster.java:20) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityZombie.m(EntityZombie.java:163) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1495) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityInsentient.t_(EntityInsentient.java:194) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityMonster.t_(EntityMonster.java:24) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityZombie.t_(EntityZombie.java:221) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 31 more
+[13:53:17] [Server thread/INFO]: maroon5 was slain by Zombie
+[13:53:21] [Server thread/INFO]: Void issued server command: /tpaccept
+[13:53:23] [Server thread/INFO]: maroon5 issued server command: /back
+[13:53:30] [Server thread/INFO]: SmgShane issued server command: /tpa Void
+[13:53:46] [Server thread/INFO]: Void issued server command: /tpaccept
+[13:53:48] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Explosion.a(Explosion.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.createExplosion(World.java:1916) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.createExplosion(WorldServer.java:1053) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityCreeper.cr(EntityCreeper.java:216) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityCreeper.t_(EntityCreeper.java:103) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 23 more
+[13:53:48] [Server thread/INFO]: Void was blown up by Creeper
+[13:53:52] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:211) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 26 more
+[13:53:52] [Server thread/INFO]: SmgShane drowned
+[13:54:01] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:09] [Server thread/INFO]: [@: Title command successfully executed]
+[13:54:16] [Server thread/INFO]: SmgShane issued server command: /tpa DomoPlanet
+[13:54:16] [Server thread/INFO]: Dab1080_ issued server command: /time setday
+[13:54:19] [Async Chat Thread - #11/INFO]: <DomoPlanet> LIAR[m
+
+[13:54:20] [Server thread/INFO]: Dab1080_ issued server command: /time set day
+[13:54:20] [Server thread/INFO]: [Dab1080_: Set the time to 1000]
+[13:54:21] [Async Chat Thread - #11/INFO]: <Void> me and willam died from the void and lost our stuff and spells were impossible to get[m
+
+[13:54:21] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[13:54:40] [Server thread/INFO]: Dab1080_ issued server command: /give void diamond_pickaxe
+[13:54:40] [Server thread/INFO]: [Dab1080_: Given [Diamond Pickaxe] * 1 to Void]
+[13:54:51] [Server thread/INFO]: Dab1080_ issued server command: /enchant void unbreaking 3
+[13:54:51] [Server thread/INFO]: [Dab1080_: Enchanting succeeded]
+[13:54:52] [Server thread/INFO]: maroon5 fell from a high place
+[13:54:56] [Server thread/INFO]: Dab1080_ issued server command: /enchant void unbreaking 3
+[13:54:56] [Server thread/INFO]: [Dab1080_: Unbreaking III can't be combined with Unbreaking III]
+[13:54:58] [Server thread/INFO]: maroon5 issued server command: /back
+[13:55:00] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 3
+[13:55:00] [Server thread/INFO]: [Dab1080_: Set own game mode to Spectator Mode]
+[13:55:03] [Async Chat Thread - #11/INFO]: <maroon5> hehehehaw[m
+
+[13:55:03] [Server thread/INFO]: DomoPlanet issued server command: /msg void are you close to it
+[13:55:06] [Async Chat Thread - #11/INFO]: <DomoPlanet> void[m
+
+[13:55:06] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.O(EntityLiving.java:1193) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.K(Entity.java:350) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 28 more
+[13:55:06] [Server thread/INFO]: Dab1080 fell out of the world
+[13:55:07] [Async Chat Thread - #11/INFO]: <maroon5> shit[m
+
+[13:55:08] [Server thread/INFO]: maroon5 fell out of the world
+[13:55:08] [Async Chat Thread - #11/INFO]: <DomoPlanet> are you close to it[m
+
+[13:55:13] [Async Chat Thread - #11/INFO]: <Dab1080> oops[m
+
+[13:55:14] [Async Chat Thread - #11/INFO]: <maroon5> lucas baby[m
+
+[13:55:21] [Async Chat Thread - #11/INFO]: <maroon5> this is almost impossible[m
+
+[13:55:23] [Async Chat Thread - #11/INFO]: <Void> nope, i lost everything and respawned at start[m
+
+[13:55:25] [Async Chat Thread - #11/INFO]: <Dab1080_> if you make it ill tp you back ok guys[m
+
+[13:55:32] [Server thread/INFO]: Dab1080_ issued server command: /tpahere Dab1080
+[13:55:34] [Server thread/INFO]: Dab1080 issued server command: /cast blind
+[13:55:35] [Server thread/INFO]: SmgShane issued server command: /cast firearrow
+[13:55:40] [Async Chat Thread - #11/INFO]: <Dab1080> yes[m
+
+[13:55:47] [Server thread/INFO]: Dab1080 issued server command: /tpyes
+[13:55:56] [Server thread/INFO]: Void was slain by maroon5
+[13:55:58] [Server thread/INFO]: Dab1080_ issued server command: /kill Dab1080
+[13:55:58] [Server thread/INFO]: Dab1080 fell out of the world
+[13:55:58] [Server thread/INFO]: [Dab1080_: Killed Dab1080]
+[13:56:04] [Server thread/INFO]: Dab1080_ issued server command: /tpahere Dab1080
+[13:56:06] [Server thread/INFO]: Dab1080 issued server command: /tpyes
+[13:56:08] [Async Chat Thread - #11/INFO]: <Dab1080> oops[m
+
+[13:56:12] [Server thread/INFO]: Void lost connection: Disconnected
+[13:56:12] [Server thread/INFO]: Void left the game.
+[13:56:16] [Thread-34/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[13:56:16] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:44050] logged in with entity id 72361 at ([world]386.0, 70.0, -180.0)
+[13:56:26] [Server thread/INFO]: maroon5 drowned
+[13:56:30] [Server thread/INFO]: maroon5 issued server command: /back
+[13:56:37] [Async Chat Thread - #11/INFO]: <Void> when you get in water your basicaly dead[m
+
+[13:56:39] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 diamond_sword
+[13:56:39] [Server thread/INFO]: [Dab1080_: Given [Diamond Sword] * 1 to Dab1080]
+[13:56:45] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 stone 64
+[13:56:45] [Server thread/INFO]: [Dab1080_: Given [Stone] * 64 to Dab1080]
+[13:56:46] [Server thread/INFO]: Dab1080 was killed by Witch using magic
+[13:56:51] [Server thread/INFO]: Dab1080 issued server command: /back
+[13:57:02] [Async Chat Thread - #11/INFO]: <Void> also can someone tp me near it[m
+
+[13:57:11] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 diamond_sword
+[13:57:11] [Server thread/INFO]: [Dab1080_: Given [Diamond Sword] * 1 to Dab1080]
+[13:57:12] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 stone 64
+[13:57:12] [Server thread/INFO]: [Dab1080_: Given [Stone] * 64 to Dab1080]
+[13:57:22] [Async Chat Thread - #11/INFO]: <DomoPlanet> what's the queards again[m
+
+[13:57:33] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 1
+[13:57:33] [Server thread/INFO]: [Dab1080_: Set own game mode to Creative Mode]
+[13:57:34] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.O(EntityLiving.java:1193) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.K(Entity.java:350) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 28 more
+[13:57:34] [Server thread/INFO]: Dab1080 fell out of the world
+[13:57:35] [Async Chat Thread - #11/INFO]: <Void> -381 18 222[m
+
+[13:57:42] [Server thread/INFO]: Dab1080 issued server command: /back
+[13:57:49] [Server thread/INFO]: Dab1080 fell out of the world
+[13:57:59] [Server thread/INFO]: Dab1080_ issued server command: /tpahere Dab1080
+[13:58:00] [Server thread/INFO]: maroon5 issued server command: /cast shadowstep
+[13:58:02] [Server thread/INFO]: Dab1080 issued server command: /tpyes
+[13:58:06] [Server thread/INFO]: Dab1080_ issued server command: /tpahere maroon5
+[13:58:09] [Server thread/INFO]: Dab1080_ issued server command: /tpahere Void
+[13:58:10] [Server thread/INFO]: maroon5 issued server command: /tpyes
+[13:58:14] [Server thread/INFO]: Dab1080_ issued server command: /tpahere DomoPlanet
+[13:58:14] [Server thread/INFO]: Void issued server command: /tpaccept
+[13:58:19] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 stone 64
+[13:58:19] [Server thread/INFO]: [Dab1080_: Given [Stone] * 64 to Dab1080]
+[13:58:21] [Async Chat Thread - #11/INFO]: <maroon5> im in the ocean[m
+
+[13:58:24] [Server thread/INFO]: SmgShane issued server command: /tpa maroon5
+[13:58:26] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 diamond_sword
+[13:58:26] [Server thread/INFO]: [Dab1080_: Given [Diamond Sword] * 1 to Dab1080]
+[13:58:27] [Server thread/INFO]: DomoPlanet issued server command: /tpno
+[13:58:29] [Server thread/INFO]: maroon5 issued server command: /tpa Dab1080
+[13:58:35] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.O(EntityLiving.java:1193) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.K(Entity.java:350) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 28 more
+[13:58:35] [Server thread/INFO]: Void fell out of the world
+[13:58:38] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MobEffectList.applyInstantEffect(MobEffectList.java:139) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPotion.a(EntityPotion.java:118) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityProjectile.t_(EntityProjectile.java:162) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 21 more
+[13:58:38] [Server thread/INFO]: Dab1080 was killed by Witch using magic
+[13:58:40] [Server thread/INFO]: Void issued server command: /back
+[13:58:43] [Server thread/INFO]: SmgShane issued server command: /tpa Dab1080
+[13:58:43] [Server thread/INFO]: Dab1080 issued server command: /back
+[13:58:44] [Server thread/INFO]: maroon5 issued server command: /tpa Dab1080
+[13:58:47] [Async Chat Thread - #11/INFO]: <DomoPlanet> how are you just falling out the map[m
+
+[13:58:47] [Server thread/INFO]: Void fell out of the world
+[13:58:52] [Server thread/INFO]: maroon5 issued server command: /tpa Dab1080_
+[13:58:56] [Server thread/INFO]: maroon5 issued server command: /tpa Dab1080_
+[13:58:57] [Server thread/INFO]: Dab1080_ issued server command: /tpahere DomoPlanet
+[13:59:04] [Server thread/INFO]: SmgShane issued server command: /tpa Dab1080
+[13:59:09] [Server thread/INFO]: maroon5 issued server command: /
+[13:59:10] [Async Chat Thread - #11/INFO]: <Void> this is literaly impossible since i dont have my stuff[m
+
+[13:59:15] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MobEffectList.applyInstantEffect(MobEffectList.java:139) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPotion.a(EntityPotion.java:118) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityProjectile.t_(EntityProjectile.java:162) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 21 more
+[13:59:15] [Server thread/INFO]: Dab1080 was killed by Witch using magic
+[13:59:20] [Server thread/INFO]: Dab1080 issued server command: /back
+[13:59:25] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[13:59:34] [Server thread/INFO]: SmgShane issued server command: /tpa DomoPlanet
+[13:59:36] [Async Chat Thread - #11/INFO]: <maroon5> my only choice is to die with this amazing picax[m
+
+[13:59:40] [Async Chat Thread - #11/INFO]: <maroon5> sad days[m
+
+[13:59:40] [Server thread/INFO]: DomoPlanet issued server command: /t[ues
+[13:59:42] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[13:59:45] [Server thread/INFO]: maroon5 drowned
+[14:00:06] [Async Chat Thread - #11/INFO]: <maroon5> ITTS SO GODDAMN LAGGY[m
+
+[14:00:12] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 3
+[14:00:12] [Server thread/INFO]: [Dab1080_: Set own game mode to Spectator Mode]
+[14:00:17] [Server thread/INFO]: maroon5 issued server command: /cast fireball
+[14:00:17] [Async Chat Thread - #11/INFO]: <Void> tp me to it, i have a plan[m
+
+[14:00:23] [Server thread/INFO]: maroon5 drowned
+[14:00:30] [Server thread/INFO]: maroon5 issued server command: /tpa Void
+[14:00:33] [Server thread/INFO]: Void issued server command: /tpaccept
+[14:00:46] [Async Chat Thread - #11/INFO]: <maroon5> theres more than one spell here[m
+
+[14:00:47] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MobEffectList.applyInstantEffect(MobEffectList.java:139) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPotion.a(EntityPotion.java:118) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityProjectile.t_(EntityProjectile.java:162) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 21 more
+[14:00:47] [Server thread/INFO]: Dab1080 was killed by Witch using magic
+[14:00:53] [Server thread/INFO]: Dab1080 issued server command: /back
+[14:01:00] [Server thread/INFO]: Dab1080 has just earned the achievement [DIAMONDS!]
+[14:01:10] [Async Chat Thread - #11/INFO]: <maroon5> how?[m
+
+[14:01:18] [Server thread/INFO]: Dab1080_ issued server command: /tpahere maroon5
+[14:01:22] [Async Chat Thread - #11/INFO]: <Void> tpa Dab1080[m
+
+[14:01:23] [Server thread/INFO]: Dab1080_ issued server command: /tpahere DomoPlanet
+[14:01:26] [Server thread/INFO]: Dab1080_ issued server command: /tpahere Void
+[14:01:27] [Server thread/INFO]: maroon5 issued server command: /tpyes
+[14:01:30] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:01:30] [Server thread/INFO]: Void issued server command: /tpaccept
+[14:01:37] [Server thread/INFO]: Dab1080_ issued server command: /accept to go todungeon
+[14:01:41] [Async Chat Thread - #11/INFO]: <maroon5> creeper[m
+
+[14:01:41] [Server thread/INFO]: maroon5 fell out of the world
+[14:01:44] [Async Chat Thread - #11/INFO]: <Void> cant see[m
+
+[14:01:46] [Server thread/INFO]: DomoPlanet issued server command: /tpuyes
+[14:01:48] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:01:49] [Async Chat Thread - #11/INFO]: <maroon5> GODDAKKJ(T\w[m
+
+[14:01:50] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 1
+[14:01:50] [Server thread/INFO]: [Dab1080_: Set own game mode to Creative Mode]
+[14:01:51] [Async Chat Thread - #11/INFO]: <Void> at all[m
+
+[14:01:55] [Async Chat Thread - #11/INFO]: <maroon5> a creeper knocked me off[m
+
+[14:01:56] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[14:02:01] [Server thread/INFO]: Dab1080_ issued server command: /tpahere maroon5
+[14:02:03] [Async Chat Thread - #11/INFO]: <Dab1080> this dungeon too hard lol[m
+
+[14:02:09] [Server thread/INFO]: maroon5 issued server command: /tpyes
+[14:02:17] [Async Chat Thread - #11/INFO]: <Void> not if i had my stuff[m
+
+[14:02:38] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 3
+[14:02:38] [Server thread/INFO]: [Dab1080_: Set own game mode to Spectator Mode]
+[14:03:02] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 1
+[14:03:02] [Server thread/INFO]: [Dab1080_: Set own game mode to Creative Mode]
+[14:03:09] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityArrow.t_(EntityArrow.java:250) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[14:03:09] [Server thread/INFO]: Void was shot by Skeleton
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:13] [Server thread/INFO]: [@: Title command successfully executed]
+[14:03:14] [Server thread/INFO]: Void issued server command: /back
+[14:03:22] [Async Chat Thread - #12/INFO]: <maroon5> LES GO[m
+
+[14:03:33] [Server thread/INFO]: Void fell out of the world
+[14:03:40] [Async Chat Thread - #12/INFO]: <Void> add lighting[m
+
+[14:03:42] [Server thread/INFO]: Void issued server command: /back
+[14:03:50] [Server thread/INFO]: Void fell out of the world
+[14:03:50] [Async Chat Thread - #12/INFO]: <Dab1080> too low budget[m
+
+[14:03:57] [Server thread/INFO]: Void issued server command: /back
+[14:04:03] [Async Chat Thread - #12/INFO]: <Void> ill pay for it[m
+
+[14:04:04] [Server thread/INFO]: Void fell out of the world
+[14:04:08] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[14:04:09] [Async Chat Thread - #12/INFO]: <Dab1080> bet[m
+
+[14:04:20] [Server thread/INFO]: Dab1080_ issued server command: /give maroon5 diamond_pickaxe
+[14:04:20] [Server thread/INFO]: [Dab1080_: Given [Diamond Pickaxe] * 1 to maroon5]
+[14:04:24] [Server thread/INFO]: SmgShane issued server command: /tpa DomoPlanet
+[14:04:27] [Server thread/INFO]: DomoPlanet issued server command: /t[ues
+[14:04:28] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:04:30] [Async Chat Thread - #12/INFO]: <Void> can i get iron armor and a sword[m
+
+[14:04:32] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 diamond_pickaxe
+[14:04:32] [Server thread/INFO]: [Dab1080_: Given [Diamond Pickaxe] * 1 to Dab1080]
+[14:04:45] [Async Chat Thread - #12/INFO]: <Void> i had a command block then died[m
+
+[14:05:09] [Server thread/INFO]: maroon5 issued server command: /cast armor
+[14:05:23] [Server thread/INFO]: Dab1080_ issued server command: /butcher
+[14:05:38] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.attack(EntityHuman.java:1002) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.attack(EntityPlayer.java:1086) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1382) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:11) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 23 more
+[14:05:38] [Server thread/INFO]: maroon5 was slain by DomoPlanet using [ORPHAN OBLITERATOR]
+[14:05:41] [Async Chat Thread - #12/INFO]: <Void> tp me[m
+
+[14:05:42] [Server thread/INFO]: maroon5 issued server command: /bacl
+[14:05:44] [Server thread/INFO]: maroon5 issued server command: /back
+[14:05:47] [Async Chat Thread - #12/INFO]: <maroon5> FUCK OFF[m
+
+[14:05:50] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.attack(EntityHuman.java:1002) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.attack(EntityPlayer.java:1086) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1382) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:11) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 23 more
+[14:05:50] [Server thread/INFO]: SmgShane was slain by maroon5
+[14:05:51] [Async Chat Thread - #12/INFO]: <Dab1080_> right click on all the bookshelfs[m
+
+[14:06:05] [Async Chat Thread - #12/INFO]: <Void> i was at the damn books then died[m
+
+[14:06:17] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 3
+[14:06:17] [Server thread/INFO]: [Dab1080_: Set own game mode to Spectator Mode]
+[14:06:25] [Server thread/INFO]: Dab1080_ issued server command: /cast list DomoPlanet
+[14:06:26] [Server thread/INFO]: maroon5 was slain by DomoPlanet using [ORPHAN OBLITERATOR]
+[14:06:30] [Server thread/INFO]: Dab1080_ issued server command: /cast list maroon5
+[14:06:30] [Server thread/INFO]: maroon5 issued server command: /back
+[14:06:36] [Server thread/INFO]: maroon5 issued server command: /cast firenova
+[14:06:53] [Server thread/INFO]: maroon5 issued server command: /cast freeze
+[14:06:55] [Server thread/INFO]: SmgShane lost connection: Disconnected
+[14:06:55] [Server thread/INFO]: SmgShane left the game.
+[14:07:03] [Server thread/INFO]: Dab1080 issued server command: /bind blind
+[14:07:04] [Server thread/INFO]: Dab1080_ issued server command: /gamemode 1
+[14:07:04] [Server thread/INFO]: [Dab1080_: Set own game mode to Creative Mode]
+[14:07:06] [Server thread/INFO]: maroon5 issued server command: /cripple
+[14:07:09] [Server thread/INFO]: Dab1080 issued server command: /cast bind bind
+[14:07:11] [Server thread/INFO]: Void issued server command: /tpa DomoPlanet
+[14:07:12] [Server thread/INFO]: maroon5 issued server command: /cast cripple
+[14:07:12] [Server thread/INFO]: Dab1080 issued server command: /cast bind blind
+[14:07:17] [Server thread/INFO]: DomoPlanet issued server command: /t[ues
+[14:07:22] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:07:25] [Thread-35/INFO]: UUID of player SmgShane is 29e7477b-5ec1-3ad0-9395-b1a1f26d57e2
+[14:07:25] [Server thread/INFO]: SmgShane[/[0:0:0:0:0:0:0:1]:53608] logged in with entity id 80599 at ([world]386.0, 70.0, -180.0)
+[14:07:31] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.attack(EntityHuman.java:1002) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.attack(EntityPlayer.java:1086) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1382) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:11) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 23 more
+[14:07:31] [Server thread/INFO]: Dab1080 was slain by DomoPlanet using [ORPHAN OBLITERATOR]
+[14:07:35] [Server thread/INFO]: Dab1080 issued server command: /back
+[14:07:41] [Async Chat Thread - #13/INFO]: <maroon5> i dont have my night vision anymore[m
+
+[14:07:41] [Async Chat Thread - #13/INFO]: <Void> im basicaly blind[m
+
+[14:07:43] [Async Chat Thread - #13/INFO]: <maroon5> im scared[m
+
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:46] [Server thread/INFO]: [@: Title command successfully executed]
+[14:07:51] [Async Chat Thread - #13/INFO]: <maroon5> NO FUCKING WAY[m
+
+[14:07:53] [Async Chat Thread - #13/INFO]: <Void> how did he win[m
+
+[14:07:55] [Async Chat Thread - #13/INFO]: <maroon5> LES GO[m
+
+[14:07:55] [Async Chat Thread - #13/INFO]: <Dab1080> oh no[m
+
+[14:08:02] [Server thread/INFO]: SmgShane issued server command: /wheres my loot will
+[14:08:05] [Async Chat Thread - #13/INFO]: <Dab1080> help me step-void, im stuck[m
+
+[14:08:07] [Async Chat Thread - #13/INFO]: <Dab1080_> do /cast list maroon5[m
+
+[14:08:13] [Async Chat Thread - #13/INFO]: <SmgShane> wheres my loot will[m
+
+[14:08:18] [Server thread/INFO]: maroon5 issued server command: /cast list
+[14:08:22] [Async Chat Thread - #13/INFO]: <maroon5> idk i got killed[m
+
+[14:08:35] [Async Chat Thread - #13/INFO]: <maroon5> shit[m
+
+[14:08:37] [Server thread/INFO]: maroon5 fell out of the world
+[14:08:44] [Server thread/INFO]: maroon5 issued server command: /tpa SmgShane
+[14:08:49] [Async Chat Thread - #13/INFO]: <maroon5> shane accept[m
+
+[14:08:58] [Async Chat Thread - #13/INFO]: <Void> ok i think we should get something for this seeing as how i lost everything[m
+
+[14:08:59] [Async Chat Thread - #13/INFO]: <Dab1080> help[m
+
+[14:09:04] [Server thread/INFO]: SmgShane issued server command: /tpaccept maroon5
+[14:09:06] [Server thread/INFO]: SmgShane was slain by Dab1080
+[14:09:09] [Async Chat Thread - #13/INFO]: <maroon5> listen[m
+
+[14:09:10] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.O(EntityLiving.java:1193) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.K(Entity.java:350) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.K(EntityLiving.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.t_(Entity.java:263) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1457) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.t_(EntityHuman.java:174) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.l(EntityPlayer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:385) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 28 more
+[14:09:10] [Server thread/INFO]: Void fell out of the world
+[14:09:13] [Async Chat Thread - #13/INFO]: <maroon5> dont be salty[m
+
+[14:09:17] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 diamond_pickaxe
+[14:09:17] [Server thread/INFO]: [Dab1080_: Given [Diamond Pickaxe] * 1 to Dab1080]
+[14:09:18] [Server thread/INFO]: SmgShane issued server command: /back
+[14:09:21] [Server thread/INFO]: Dab1080_ issued server command: /give Dab1080 diamond_sword
+[14:09:21] [Server thread/INFO]: [Dab1080_: Given [Diamond Sword] * 1 to Dab1080]
+[14:09:26] [Server thread/INFO]: Dab1080_ issued server command: /give void diamond_sword
+[14:09:26] [Server thread/INFO]: [Dab1080_: Given [Diamond Sword] * 1 to Void]
+[14:09:31] [Async Chat Thread - #13/INFO]: <Void> im not, i lost everything[m
+
+[14:09:32] [Server thread/INFO]: Dab1080_ issued server command: /give void diamond_pickaxe
+[14:09:32] [Server thread/INFO]: [Dab1080_: Given [Diamond Pickaxe] * 1 to Void]
+[14:09:35] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MobEffectList.applyInstantEffect(MobEffectList.java:139) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPotion.a(EntityPotion.java:118) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityProjectile.t_(EntityProjectile.java:162) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 21 more
+[14:09:35] [Server thread/INFO]: Dab1080 was killed by Witch using magic
+[14:09:39] [Server thread/INFO]: Dab1080 issued server command: /back
+[14:09:43] [Server thread/INFO]: SmgShane fell out of the world
+[14:09:46] [Async Chat Thread - #13/INFO]: <maroon5> thats the point of the event[m
+
+[14:09:52] [Async Chat Thread - #13/INFO]: <Dab1080_> going to make another one[m
+
+[14:09:56] [Server thread/INFO]: SmgShane issued server command: /tpa DomoPlanet
+[14:09:57] [Async Chat Thread - #13/INFO]: <Void> how about a deal will[m
+
+[14:10:01] [Server thread/INFO]: maroon5 issued server command: /tpa Dab1080_
+[14:10:01] [Async Chat Thread - #13/INFO]: <Dab1080_> should i do another dungeon event today[m
+
+[14:10:12] [Async Chat Thread - #13/INFO]: <SmgShane> yes[m
+
+[14:10:13] [Async Chat Thread - #13/INFO]: <Void> also yes you should[m
+
+[14:10:15] [Server thread/INFO]: Dab1080_ issued server command: /cast list
+[14:10:15] [Server thread/INFO]: maroon5 issued server command: /tpa Dab1080_
+[14:10:20] [Server thread/INFO]: maroon5 issued server command: /tpno
+[14:10:23] [Server thread/INFO]: maroon5 issued server command: /tpcancel
+[14:10:29] [Server thread/INFO]: maroon5 issued server command: /tpcancel Dab1080_
+[14:10:31] [Server thread/INFO]: DomoPlanet issued server command: /tpa smg
+[14:10:33] [Server thread/INFO]: maroon5 issued server command: /tpa Dab1080_
+[14:10:33] [Async Chat Thread - #13/INFO]: <Void> is lucas here[m
+
+[14:10:39] [Server thread/INFO]: SmgShane issued server command: /tpaccept DomoPlanet
+[14:10:40] [Async Chat Thread - #13/INFO]: <Dab1080_> not anymore[m
+
+[14:10:46] [Server thread/INFO]: SmgShane issued server command: /tpaccept
+[14:10:54] [Async Chat Thread - #13/INFO]: <Dab1080_> going to make a new dungeon[m
+
+[14:10:57] [Server thread/INFO]: DomoPlanet issued server command: /tpa SmgShane
+[14:10:58] [Async Chat Thread - #13/INFO]: <Void> did he fix the shadowstep code yet[m
+
+[14:11:02] [Server thread/INFO]: maroon5 issued server command: /tpa void
+[14:11:03] [Async Chat Thread - #13/INFO]: <Dab1080_> yep[m
+
+[14:11:05] [Server thread/INFO]: Void issued server command: /tpaccept
+[14:11:08] [Async Chat Thread - #13/INFO]: <maroon5> logan accept[m
+
+[14:11:08] [Server thread/INFO]: SmgShane issued server command: /tpaccept
+[14:11:11] [Server thread/INFO]: Void issued server command: /tpaccept
+[14:11:12] [Async Chat Thread - #13/INFO]: <maroon5> im not here to kill u[m
+
+[14:11:16] [Async Chat Thread - #13/INFO]: <maroon5> damnet[m
+
+[14:11:50] [Async Chat Thread - #13/INFO]: <Dab1080> that was a pretty good dungeon[m
+
+[14:11:58] [Async Chat Thread - #13/INFO]: <maroon5> yea[m
+
+[14:12:06] [Async Chat Thread - #13/INFO]: <Void> if i could see or do anything it would have been[m
+
+[14:12:10] [Async Chat Thread - #13/INFO]: <Dab1080> whats zues and firenova?[m
+
+[14:12:21] [Async Chat Thread - #13/INFO]: <DomoPlanet> d[m
+
+[14:12:22] [Async Chat Thread - #13/INFO]: <maroon5> wanna see me cast firenova?[m
+
+[14:12:26] [Server thread/INFO]: Dab1080_ issued server command: //paste
+[14:12:29] [Async Chat Thread - #13/INFO]: <Dab1080> ill cast firenova at you first[m
+
+[14:12:29] [Server thread/INFO]: SmgShane has just earned the achievement [Getting Wood]
+[14:12:39] [Async Chat Thread - #13/INFO]: <maroon5> u have firenova?[m
+
+[14:12:41] [Async Chat Thread - #13/INFO]: <Dab1080> yep[m
+
+[14:12:46] [Async Chat Thread - #13/INFO]: <Void> william, im challenging will to something[m
+
+[14:12:48] [Server thread/INFO]: maroon5 issued server command: /spell list dab
+[14:12:53] [Server thread/INFO]: maroon5 issued server command: /spell list dab1080
+[14:12:58] [Server thread/INFO]: Dab1080_ issued server command: /kill Dab1080_
+[14:12:58] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.G(EntityLiving.java:106) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.CommandKill.execute(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.command.VanillaCommandWrapper.dispatchVanillaCommand(VanillaCommandWrapper.java:123) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:146) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:666) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1189) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1001) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 28 more
+[14:12:58] [Server thread/INFO]: Dab1080_ fell out of the world
+[14:12:58] [Server thread/INFO]: [Dab1080_: Killed Dab1080_]
+[14:13:00] [Async Chat Thread - #13/INFO]: <maroon5> hwo do i check my spell list?[m
+
+[14:13:02] [Server thread/INFO]: Dab1080_ issued server command: /back
+[14:13:07] [Server thread/INFO]: SmgShane has just earned the achievement [Benchmarking]
+[14:13:19] [Server thread/INFO]: Dab1080_ issued server command: //wand
+[14:13:21] [Async Chat Thread - #13/INFO]: <maroon5> i gtg[m
+
+[14:13:30] [Async Chat Thread - #13/INFO]: <maroon5> i need to do my note[m
+
+[14:13:30] [Async Chat Thread - #13/INFO]: <Dab1080> alr pookie[m
+
+[14:13:31] [Server thread/INFO]: SmgShane has just earned the achievement [Time to Strike!]
+[14:13:40] [Server thread/INFO]: SmgShane has just earned the achievement [Time to Mine!]
+[14:13:47] [Server thread/INFO]: maroon5 issued server command: /cast firenova
+[14:14:08] [Server thread/INFO]: maroon5 issued server command: /cast fireball
+[14:14:12] [Server thread/INFO]: Dab1080 issued server command: /bind blind
+[14:14:16] [Server thread/INFO]: Dab1080 issued server command: /cast bind blind
+[14:14:23] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[14:14:23] [Server thread/INFO]: maroon5 left the game.
+[14:14:25] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[14:14:30] [Async Chat Thread - #13/INFO]: <Void> i wanna test something william, can you make a box full of hostile mobs and tp me into it[m
+
+[14:14:39] [Server thread/INFO]: SmgShane issued server command: /cast explosivearraw
+[14:14:45] [Async Chat Thread - #13/INFO]: <Dab1080> ask lucas, im not on my op[m
+
+[14:14:49] [Async Chat Thread - #13/INFO]: <Void> with a stick[m
+
+[14:15:03] [Server thread/INFO]: Dab1080 issued server command: /cast list Void
+[14:15:17] [Server thread/INFO]: SmgShane has just earned the achievement [Getting an Upgrade]
+[14:15:17] [Async Chat Thread - #13/INFO]: <Void> he isnt on[m
+
+[14:15:23] [Server thread/INFO]: Dab1080_ issued server command: /cast list
+[14:15:26] [Async Chat Thread - #13/INFO]: <Dab1080> hes on my acc with the _[m
+
+[14:15:44] [Server thread/INFO]: Dab1080_ issued server command: /cast scroll wall 10
+[14:15:52] [Async Chat Thread - #13/INFO]: <Void> then lucas can you do that, i wanna test how strong confusion is[m
+
+[14:16:02] [Server thread/INFO]: Dab1080_ issued server command: /cast scroll wall 10
+[14:16:04] [Async Chat Thread - #13/INFO]: <Dab1080> theyll still attack you yk[m
+
+[14:16:08] [Async Chat Thread - #13/INFO]: <Dab1080> youll die[m
+
+[14:16:13] [Async Chat Thread - #13/INFO]: <Void> they dont[m
+
+[14:16:28] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[14:16:29] [Server thread/INFO]: Dab1080_ issued server command: //set stone
+[14:16:32] [Async Chat Thread - #13/INFO]: <Void> not until all other entities are dead[m
+
+[14:16:46] [Server thread/INFO]: SmgShane has just earned the achievement [Monster Hunter]
+[14:16:47] [Server thread/INFO]: Dab1080_ issued server command: //set stone
+[14:17:04] [Server thread/INFO]: Dab1080_ issued server command: //set stone
+[14:17:16] [Server thread/INFO]: Dab1080_ issued server command: //set stone
+[14:17:18] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[14:17:29] [Server thread/INFO]: SmgShane issued server command: /tpa DomoPlanet
+[14:17:44] [Server thread/INFO]: Void issued server command: /tpa DomoPlanet
+[14:18:52] [Async Chat Thread - #14/INFO]: <Dab1080> ez teple[m
+
+[14:18:54] [Async Chat Thread - #14/INFO]: <Dab1080> temple[m
+
+[14:19:00] [Server thread/INFO]: SmgShane issued server command: /tpa DomoPlanet
+[14:19:04] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:19:05] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[14:19:25] [Server thread/INFO]: Void issued server command: /tpa DomoPlanet
+[14:19:28] [Server thread/INFO]: Dab1080_ issued server command: /cast scroll teach
+[14:19:32] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:19:37] [Server thread/INFO]: Dab1080_ issued server command: /cast scroll teach 5
+[14:19:45] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[14:19:53] [Async Chat Thread - #14/INFO]: <Void> sorry[m
+
+[14:19:58] [Async Chat Thread - #14/INFO]: <DomoPlanet> it's fine[m
+
+[14:20:00] [Async Chat Thread - #14/INFO]: <Void> testing shadowstep[m
+
+[14:20:04] [Async Chat Thread - #14/INFO]: <DomoPlanet> look what i got[m
+
+[14:20:10] [Async Chat Thread - #14/INFO]: <DomoPlanet> also im low dont do tha[m
+
+[14:20:15] [Async Chat Thread - #14/INFO]: <Void> ok[m
+
+[14:20:15] [Server thread/INFO]: Dab1080_ issued server command: /cast list maroon5
+[14:20:20] [Server thread/INFO]: Dab1080_ issued server command: /cast list maroon5
+[14:20:21] [Async Chat Thread - #14/INFO]: <DomoPlanet> sorry[m
+
+[14:20:26] [Server thread/INFO]: Dab1080_ issued server command: /cast list DomoPlanet
+[14:20:31] [Server thread/INFO]: SmgShane has just earned the achievement [Hot Topic]
+[14:20:42] [Server thread/INFO]: Dab1080 issued server command: /cast food
+[14:21:11] [Server thread/INFO]: Void lost connection: Disconnected
+[14:21:11] [Server thread/INFO]: Void left the game.
+[14:21:12] [Server thread/INFO]: SmgShane has just earned the achievement [Acquire Hardware]

@@ -1,4 +1,4 @@
 bind
-cripple
+cripple:280
 help
 list

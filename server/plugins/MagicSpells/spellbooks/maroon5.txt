@@ -1,4 +1,10 @@
+armor
 bind
+cripple
 fireball
+firenova
+freeze
 help
 list
+poison
+shadowstep
