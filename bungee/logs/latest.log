@@ -1,406 +1,51 @@
-[20:03:36] [main/INFO]: Using mbed TLS based native cipher.
-[20:03:36] [main/INFO]: Using zlib based native compressor.
-[20:03:36] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
-[20:03:36] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
-[20:03:36] [main/INFO]: Epoll is working, utilising it!
-[20:03:36] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
-[20:03:36] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
-[20:03:36] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
-[20:03:36] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
-[20:03:36] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
-[20:03:36] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
-[20:03:36] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:36] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:36] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:36] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:36] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:36] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:36] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[20:03:36] [main/WARN]: :>  
-[20:03:36] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
-[20:03:36] [main/WARN]: :>  
-[20:03:36] [main/WARN]: :>  This plugin wasn't tested to be 'working'
-[20:03:36] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
-[20:03:36] [main/WARN]: :>  apart from the versions listed below:
-[20:03:36] [main/WARN]: :>  
-[20:03:37] [main/WARN]: :>  - BungeeCord: 1.20-R0.2-SNAPSHOT:231024b:1777
-[20:03:37] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:d85fe36:556
-[20:03:37] [main/WARN]: :>  - FlameCord: 1.1.1
-[20:03:37] [main/WARN]: :>  
-[20:03:37] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
-[20:03:37] [main/WARN]: :>  
-[20:03:37] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
-[20:03:37] [main/WARN]: :>  
-[20:03:37] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[20:03:37] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
-[20:03:39] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
-[20:03:39] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.9 by lax1dude
-[20:03:39] [main/WARN]: Forced host server pvp is not defined
-[20:03:39] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:39] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:39] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:39] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:39] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:39] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
-[20:03:39] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
-[20:03:39] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
-[20:03:39] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[20:03:39] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
-[20:03:39] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25565
-[20:03:41] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39612]: Connected via websocket
-[20:03:41] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39612]: Origin header is http://localhost:8081
-[20:03:41] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39612]: Logged in as 'SavageEagler'
-[20:03:41] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39612|SavageEagler] -> UpstreamBridge has connected
-[20:03:41] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:39612] <-> ServerConnector [lobby] has connected
-[20:03:41] [Netty Worker IO Thread #2/WARN]: [/127.0.0.1:42840] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:03:41] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:39612] <-> ServerConnector [lobby] has disconnected
-[20:03:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39614]: Connected via websocket
-[20:03:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39614]: Origin header is http://localhost:8081
-[20:03:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39614]: Logged in as 'Void'
-[20:03:44] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:39614|Void] -> UpstreamBridge has connected
-[20:03:44] [Netty Worker IO Thread #3/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:39614] <-> ServerConnector [lobby] has connected
-[20:03:44] [Netty Worker IO Thread #0/WARN]: [/127.0.0.1:42844] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:03:44] [Netty Worker IO Thread #3/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:39614] <-> ServerConnector [lobby] has disconnected
-[20:03:47] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39612|SavageEagler] -> UpstreamBridge has disconnected
-[20:03:48] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40978]: Connected via websocket
-[20:03:48] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40978]: Origin header is http://localhost:8081
-[20:03:48] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40978]: Logged in as 'SavageEagler'
-[20:03:48] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:40978|SavageEagler] -> UpstreamBridge has connected
-[20:03:48] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:40978] <-> ServerConnector [lobby] has connected
-[20:03:48] [Netty Worker IO Thread #2/WARN]: [/127.0.0.1:38260] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:03:48] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:40978] <-> ServerConnector [lobby] has disconnected
-[20:03:54] [Netty Worker IO Thread #3/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/Spellbound_Realm/bungee/server-icon.png
-[20:03:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41000]: Connected via websocket
-[20:03:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41000]: Origin header is http://localhost:8081
-[20:03:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41000]: Logged in as 'DomoPlanet'
-[20:03:55] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41000|DomoPlanet] -> UpstreamBridge has connected
-[20:03:55] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:41000] <-> ServerConnector [lobby] has connected
-[20:03:55] [Netty Worker IO Thread #1/WARN]: [/127.0.0.1:38266] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:03:55] [Netty Worker IO Thread #0/WARN]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:41000] <-> ServerConnector [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
-[20:03:55] [Netty Worker IO Thread #0/INFO]: [DomoPlanet] disconnected with: Exception Connecting:NativeIoException : recvAddress(..) failed: Connection reset by peer
-[20:03:55] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41000|DomoPlanet] -> UpstreamBridge has disconnected
-[20:03:55] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:41000] <-> ServerConnector [lobby] has disconnected
-[20:03:57] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:40978|SavageEagler] -> UpstreamBridge has disconnected
-[20:03:59] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:39614|Void] -> UpstreamBridge has disconnected
-[20:04:04] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47180]: Connected via websocket
-[20:04:04] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47180]: Origin header is http://localhost:8081
-[20:04:04] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47164]: Connected via websocket
-[20:04:04] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47164]: Origin header is http://localhost:8081
-[20:04:04] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47180]: Logged in as 'Void'
-[20:04:04] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:47180|Void] -> UpstreamBridge has connected
-[20:04:04] [Netty Worker IO Thread #2/WARN]: [/127.0.0.1:44010] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:04] [Netty Worker IO Thread #1/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:47180] <-> ServerConnector [lobby] has connected
-[20:04:04] [Netty Worker IO Thread #1/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:47180] <-> ServerConnector [lobby] has disconnected
-[20:04:04] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47164]: Logged in as 'DomoPlanet'
-[20:04:04] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:47164|DomoPlanet] -> UpstreamBridge has connected
-[20:04:04] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:44014] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:04] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:47164] <-> ServerConnector [lobby] has connected
-[20:04:04] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:47164] <-> ServerConnector [lobby] has disconnected
-[20:04:13] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56982]: Connected via websocket
-[20:04:13] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56982]: Origin header is http://localhost:8081
-[20:04:14] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56982]: Logged in as 'SavageEagler'
-[20:04:14] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56982|SavageEagler] -> UpstreamBridge has connected
-[20:04:14] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:56982] <-> ServerConnector [lobby] has connected
-[20:04:14] [Netty Worker IO Thread #2/WARN]: [/127.0.0.1:52800] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:14] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:56982] <-> ServerConnector [lobby] has disconnected
-[20:04:19] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:47164|DomoPlanet] -> UpstreamBridge has disconnected
-[20:04:19] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:47180|Void] -> UpstreamBridge has disconnected
-[20:04:23] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41148]: Connected via websocket
-[20:04:23] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41148]: Origin header is http://localhost:8081
-[20:04:23] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41148]: Logged in as 'Void'
-[20:04:23] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:41148|Void] -> UpstreamBridge has connected
-[20:04:23] [Netty Worker IO Thread #0/WARN]: [/127.0.0.1:43406] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:23] [Netty Worker IO Thread #3/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:41148] <-> ServerConnector [lobby] has connected
-[20:04:23] [Netty Worker IO Thread #3/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:41148] <-> ServerConnector [lobby] has disconnected
-[20:04:23] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41150]: Connected via websocket
-[20:04:23] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41150]: Origin header is http://localhost:8081
-[20:04:23] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41150]: Logged in as 'DomoPlanet'
-[20:04:23] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41150|DomoPlanet] -> UpstreamBridge has connected
-[20:04:23] [Netty Worker IO Thread #1/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:41150] <-> ServerConnector [lobby] has connected
-[20:04:23] [Netty Worker IO Thread #2/WARN]: [/127.0.0.1:43416] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:23] [Netty Worker IO Thread #1/WARN]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:41150] <-> ServerConnector [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
-[20:04:23] [Netty Worker IO Thread #1/INFO]: [DomoPlanet] disconnected with: Exception Connecting:NativeIoException : recvAddress(..) failed: Connection reset by peer
-[20:04:24] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41150|DomoPlanet] -> UpstreamBridge has disconnected
-[20:04:24] [Netty Worker IO Thread #1/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:41150] <-> ServerConnector [lobby] has disconnected
-[20:04:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41154]: Connected via websocket
-[20:04:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41154]: Origin header is http://localhost:8081
-[20:04:27] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41154]: Logged in as 'DomoPlanet'
-[20:04:27] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:41154|DomoPlanet] -> UpstreamBridge has connected
-[20:04:27] [Netty Worker IO Thread #0/WARN]: [/127.0.0.1:43428] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:27] [Netty Worker IO Thread #3/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:41154] <-> ServerConnector [lobby] has connected
-[20:04:27] [Netty Worker IO Thread #3/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:41154] <-> ServerConnector [lobby] has disconnected
-[20:04:29] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56982|SavageEagler] -> UpstreamBridge has disconnected
-[20:04:32] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59810]: Connected via websocket
-[20:04:32] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59810]: Origin header is http://localhost:8081
-[20:04:32] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59810]: Logged in as 'SavageEagler'
-[20:04:32] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59810|SavageEagler] -> UpstreamBridge has connected
-[20:04:32] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:59810] <-> ServerConnector [lobby] has connected
-[20:04:32] [Netty Worker IO Thread #2/WARN]: [/127.0.0.1:35044] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:32] [Netty Worker IO Thread #1/WARN]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:59810] <-> ServerConnector [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
-[20:04:32] [Netty Worker IO Thread #1/INFO]: [SavageEagler] disconnected with: Exception Connecting:NativeIoException : recvAddress(..) failed: Connection reset by peer
-[20:04:32] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59810|SavageEagler] -> UpstreamBridge has disconnected
-[20:04:32] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:59810] <-> ServerConnector [lobby] has disconnected
-[20:04:36] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59822]: Connected via websocket
-[20:04:36] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59822]: Origin header is http://localhost:8081
-[20:04:36] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59822]: Logged in as 'SavageEagler'
-[20:04:36] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59822|SavageEagler] -> UpstreamBridge has connected
-[20:04:36] [Netty Worker IO Thread #3/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:59822] <-> ServerConnector [lobby] has connected
-[20:04:36] [Netty Worker IO Thread #0/WARN]: [/127.0.0.1:35058] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:36] [Netty Worker IO Thread #3/WARN]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:59822] <-> ServerConnector [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
-[20:04:36] [Netty Worker IO Thread #3/INFO]: [SavageEagler] disconnected with: Exception Connecting:NativeIoException : recvAddress(..) failed: Connection reset by peer
-[20:04:36] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59822|SavageEagler] -> UpstreamBridge has disconnected
-[20:04:36] [Netty Worker IO Thread #3/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:59822] <-> ServerConnector [lobby] has disconnected
-[20:04:38] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:41148|Void] -> UpstreamBridge has disconnected
-[20:04:39] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36766]: Connected via websocket
-[20:04:39] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36766]: Origin header is http://localhost:8081
-[20:04:39] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36766]: Logged in as 'SavageEagler'
-[20:04:39] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36766|SavageEagler] -> UpstreamBridge has connected
-[20:04:39] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:36766] <-> ServerConnector [lobby] has connected
-[20:04:39] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:39328] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:39] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:36766] <-> ServerConnector [lobby] has disconnected
-[20:04:42] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:41154|DomoPlanet] -> UpstreamBridge has disconnected
-[20:04:43] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36794]: Connected via websocket
-[20:04:43] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36794]: Origin header is http://localhost:8081
-[20:04:43] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36794]: Logged in as 'Void'
-[20:04:43] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36794|Void] -> UpstreamBridge has connected
-[20:04:43] [Netty Worker IO Thread #1/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:36794] <-> ServerConnector [lobby] has connected
-[20:04:43] [Netty Worker IO Thread #2/WARN]: [/127.0.0.1:39330] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:43] [Netty Worker IO Thread #1/WARN]: [Void|/[0:0:0:0:0:0:0:1%0]:36794] <-> ServerConnector [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
-[20:04:43] [Netty Worker IO Thread #1/INFO]: [Void] disconnected with: Exception Connecting:NativeIoException : recvAddress(..) failed: Connection reset by peer
-[20:04:43] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36794|Void] -> UpstreamBridge has disconnected
-[20:04:43] [Netty Worker IO Thread #1/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:36794] <-> ServerConnector [lobby] has disconnected
-[20:04:46] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36802]: Connected via websocket
-[20:04:46] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36802]: Origin header is http://localhost:8081
-[20:04:46] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36802]: Logged in as 'Void'
-[20:04:46] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36802|Void] -> UpstreamBridge has connected
-[20:04:46] [Netty Worker IO Thread #3/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:36802] <-> ServerConnector [lobby] has connected
-[20:04:46] [Netty Worker IO Thread #0/WARN]: [/127.0.0.1:39344] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:46] [Netty Worker IO Thread #3/WARN]: [Void|/[0:0:0:0:0:0:0:1%0]:36802] <-> ServerConnector [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
-[20:04:46] [Netty Worker IO Thread #3/INFO]: [Void] disconnected with: Exception Connecting:NativeIoException : recvAddress(..) failed: Connection reset by peer
-[20:04:46] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36802|Void] -> UpstreamBridge has disconnected
-[20:04:46] [Netty Worker IO Thread #3/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:36802] <-> ServerConnector [lobby] has disconnected
-[20:04:52] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45728]: Connected via websocket
-[20:04:52] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45728]: Origin header is http://localhost:8081
-[20:04:52] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45728]: Logged in as 'Void'
-[20:04:52] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45728|Void] -> UpstreamBridge has connected
-[20:04:52] [Netty Worker IO Thread #2/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:45728] <-> ServerConnector [lobby] has connected
-[20:04:52] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:59066] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:04:52] [Netty Worker IO Thread #2/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:45728] <-> ServerConnector [lobby] has disconnected
-[20:04:54] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36766|SavageEagler] -> UpstreamBridge has disconnected
-[20:05:07] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45728|Void] -> UpstreamBridge has disconnected
-[20:05:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47044]: Connected via websocket
-[20:05:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47044]: Origin header is http://localhost:8081
-[20:05:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47044]: Logged in as 'DomoPlanet'
-[20:05:11] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:47044|DomoPlanet] -> UpstreamBridge has connected
-[20:05:11] [Netty Worker IO Thread #2/WARN]: [/127.0.0.1:49964] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:05:11] [Netty Worker IO Thread #1/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:47044] <-> ServerConnector [lobby] has connected
-[20:05:11] [Netty Worker IO Thread #1/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:47044] <-> ServerConnector [lobby] has disconnected
-[20:05:16] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47068]: Connected via websocket
-[20:05:16] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47068]: Origin header is http://localhost:8081
-[20:05:16] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47068]: Logged in as 'Void'
-[20:05:16] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:47068|Void] -> UpstreamBridge has connected
-[20:05:16] [Netty Worker IO Thread #1/WARN]: [/127.0.0.1:49974] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:05:16] [Netty Worker IO Thread #0/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:47068] <-> ServerConnector [lobby] has connected
-[20:05:16] [Netty Worker IO Thread #0/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:47068] <-> ServerConnector [lobby] has disconnected
-[20:05:22] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:47044|DomoPlanet] -> UpstreamBridge has disconnected
-[20:05:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44540]: Connected via websocket
-[20:05:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44540]: Origin header is http://localhost:8081
-[20:05:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44540]: Logged in as 'DomoPlanet'
-[20:05:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44540|DomoPlanet] -> UpstreamBridge has connected
-[20:05:26] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:40906] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:05:26] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:44540] <-> ServerConnector [lobby] has connected
-[20:05:26] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:44540] <-> ServerConnector [lobby] has disconnected
-[20:05:31] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:47068|Void] -> UpstreamBridge has disconnected
-[20:05:41] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44540|DomoPlanet] -> UpstreamBridge has disconnected
-[20:05:46] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49992]: Connected via websocket
-[20:05:46] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49992]: Origin header is http://localhost:8081
-[20:05:47] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49992]: Logged in as 'DomoPlanet'
-[20:05:47] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49992|DomoPlanet] -> UpstreamBridge has connected
-[20:05:47] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:49992] <-> ServerConnector [lobby] has connected
-[20:05:47] [Netty Worker IO Thread #1/WARN]: [/127.0.0.1:53026] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:05:47] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:49992] <-> ServerConnector [lobby] has disconnected
-[20:06:02] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49992|DomoPlanet] -> UpstreamBridge has disconnected
-[20:06:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47662]: Connected via websocket
-[20:06:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47662]: Origin header is http://localhost:8081
-[20:06:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47662]: Logged in as 'DomoPlanet'
-[20:06:11] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47662|DomoPlanet] -> UpstreamBridge has connected
-[20:06:11] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:47662] <-> ServerConnector [lobby] has connected
-[20:06:11] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:47794] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:06:11] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:47662] <-> ServerConnector [lobby] has disconnected
-[20:06:13] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47662|DomoPlanet] -> UpstreamBridge has disconnected
-[20:06:22] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35060]: Connected via websocket
-[20:06:22] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35060]: Origin header is http://localhost:8081
-[20:06:22] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35060]: Logged in as 'DomoPlanet'
-[20:06:22] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35060|DomoPlanet] -> UpstreamBridge has connected
-[20:06:22] [Netty Worker IO Thread #1/WARN]: [/127.0.0.1:39496] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:06:22] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:35060] <-> ServerConnector [lobby] has connected
-[20:06:22] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:35060] <-> ServerConnector [lobby] has disconnected
-[20:06:26] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35060|DomoPlanet] -> UpstreamBridge has disconnected
-[20:06:30] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34130]: Connected via websocket
-[20:06:30] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34130]: Origin header is http://localhost:8081
-[20:06:31] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34130]: Logged in as 'DomoPlanet'
-[20:06:31] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:34130|DomoPlanet] -> UpstreamBridge has connected
-[20:06:31] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:34130] <-> ServerConnector [lobby] has connected
-[20:06:31] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:35032] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:06:31] [Netty Worker IO Thread #2/WARN]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:34130] <-> ServerConnector [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
-[20:06:31] [Netty Worker IO Thread #2/INFO]: [DomoPlanet] disconnected with: Exception Connecting:NativeIoException : recvAddress(..) failed: Connection reset by peer
-[20:06:31] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:34130|DomoPlanet] -> UpstreamBridge has disconnected
-[20:06:31] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:34130] <-> ServerConnector [lobby] has disconnected
-[20:06:33] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34146]: Connected via websocket
-[20:06:33] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34146]: Origin header is http://localhost:8081
-[20:06:33] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34146]: Logged in as 'DomoPlanet'
-[20:06:33] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:34146|DomoPlanet] -> UpstreamBridge has connected
-[20:06:33] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:34146] <-> ServerConnector [lobby] has connected
-[20:06:33] [Netty Worker IO Thread #1/WARN]: [/127.0.0.1:35040] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:06:33] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:34146] <-> ServerConnector [lobby] has disconnected
-[20:06:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34156]: Connected via websocket
-[20:06:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34156]: Origin header is http://localhost:8081
-[20:06:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34156]: Logged in as 'SavageEagler'
-[20:06:34] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:34156|SavageEagler] -> UpstreamBridge has connected
-[20:06:34] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:35046] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:06:34] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:34156] <-> ServerConnector [lobby] has connected
-[20:06:34] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:34156] <-> ServerConnector [lobby] has disconnected
-[20:06:36] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:34156|SavageEagler] -> UpstreamBridge has disconnected
-[20:06:48] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:34146|DomoPlanet] -> UpstreamBridge has disconnected
-[20:06:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59480]: Connected via websocket
-[20:06:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59480]: Origin header is http://localhost:8081
-[20:06:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59480]: Logged in as 'SavageEagler'
-[20:06:54] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59480|SavageEagler] -> UpstreamBridge has connected
-[20:06:54] [Netty Worker IO Thread #1/WARN]: [/127.0.0.1:35534] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:06:54] [Netty Worker IO Thread #0/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:59480] <-> ServerConnector [lobby] has connected
-[20:06:54] [Netty Worker IO Thread #0/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:59480] <-> ServerConnector [lobby] has disconnected
-[20:06:57] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59480|SavageEagler] -> UpstreamBridge has disconnected
-[20:07:02] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35568]: Connected via websocket
-[20:07:02] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35568]: Origin header is http://localhost:8081
-[20:07:02] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35568]: Logged in as 'DomoPlanet'
-[20:07:02] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35568|DomoPlanet] -> UpstreamBridge has connected
-[20:07:02] [Netty Worker IO Thread #3/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:35568] <-> ServerConnector [lobby] has connected
-[20:07:02] [Netty Worker IO Thread #0/WARN]: [/127.0.0.1:60080] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:07:02] [Netty Worker IO Thread #3/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:35568] <-> ServerConnector [lobby] has disconnected
-[20:07:17] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35568|DomoPlanet] -> UpstreamBridge has disconnected
-[20:07:19] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47726]: Connected via websocket
-[20:07:19] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47726]: Origin header is http://localhost:8081
-[20:07:19] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47726]: Logged in as 'SavageEagler'
-[20:07:19] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47726|SavageEagler] -> UpstreamBridge has connected
-[20:07:19] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:44662] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:07:19] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:47726] <-> ServerConnector [lobby] has connected
-[20:07:19] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:47726] <-> ServerConnector [lobby] has disconnected
-[20:07:23] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47726|SavageEagler] -> UpstreamBridge has disconnected
-[20:07:30] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41230]: Connected via websocket
-[20:07:30] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41230]: Origin header is http://localhost:8081
-[20:07:30] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41230]: Logged in as 'Void'
-[20:07:30] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:41230|Void] -> UpstreamBridge has connected
-[20:07:30] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:37294] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:07:30] [Netty Worker IO Thread #2/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:41230] <-> ServerConnector [lobby] has connected
-[20:07:30] [Netty Worker IO Thread #2/INFO]: [Void|/[0:0:0:0:0:0:0:1%0]:41230] <-> ServerConnector [lobby] has disconnected
-[20:07:37] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41240]: Connected via websocket
-[20:07:37] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41240]: Origin header is http://localhost:8081
-[20:07:37] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41240]: Logged in as 'SavageEagler'
-[20:07:37] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41240|SavageEagler] -> UpstreamBridge has connected
-[20:07:37] [Netty Worker IO Thread #2/WARN]: [/127.0.0.1:37296] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:07:37] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:41240] <-> ServerConnector [lobby] has connected
-[20:07:37] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:41240] <-> ServerConnector [lobby] has disconnected
-[20:07:42] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41240|SavageEagler] -> UpstreamBridge has disconnected
-[20:07:45] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:41230|Void] -> UpstreamBridge has disconnected
-[20:08:39] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57876]: Connected via websocket
-[20:08:39] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57876]: Origin header is http://localhost:8081
-[20:08:39] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57876]: Logged in as 'SavageEagler'
-[20:08:39] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57876|SavageEagler] -> UpstreamBridge has connected
-[20:08:39] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:57876] <-> ServerConnector [lobby] has connected
-[20:08:39] [Netty Worker IO Thread #2/WARN]: [/127.0.0.1:56874] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:08:39] [Netty Worker IO Thread #1/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:57876] <-> ServerConnector [lobby] has disconnected
-[20:08:46] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57876|SavageEagler] -> UpstreamBridge has disconnected
-[20:08:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33320]: Connected via websocket
-[20:08:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33320]: Origin header is http://localhost:8081
-[20:08:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33320]: Logged in as 'DomoPlanet'
-[20:08:54] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33320|DomoPlanet] -> UpstreamBridge has connected
-[20:08:54] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:33320] <-> ServerConnector [lobby] has connected
-[20:08:54] [Netty Worker IO Thread #1/WARN]: [/127.0.0.1:46362] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:08:54] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:33320] <-> ServerConnector [lobby] has disconnected
-[20:08:57] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33320|DomoPlanet] -> UpstreamBridge has disconnected
-[20:09:00] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49572]: Connected via websocket
-[20:09:00] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49572]: Origin header is http://localhost:8081
-[20:09:00] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49572]: Logged in as 'DomoPlanet'
-[20:09:00] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49572|DomoPlanet] -> UpstreamBridge has connected
-[20:09:00] [Netty Worker IO Thread #0/WARN]: [/127.0.0.1:38134] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:09:00] [Netty Worker IO Thread #3/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:49572] <-> ServerConnector [lobby] has connected
-[20:09:00] [Netty Worker IO Thread #3/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:49572] <-> ServerConnector [lobby] has disconnected
-[20:09:15] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49572|DomoPlanet] -> UpstreamBridge has disconnected
-[20:09:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42524]: Connected via websocket
-[20:09:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42524]: Origin header is http://localhost:8081
-[20:09:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42524]: Logged in as 'SavageEagler'
-[20:09:23] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:42524|SavageEagler] -> UpstreamBridge has connected
-[20:09:23] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:42524] <-> ServerConnector [lobby] has connected
-[20:09:23] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:39620] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:09:23] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:42524] <-> ServerConnector [lobby] has disconnected
-[20:09:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:42524|SavageEagler] -> UpstreamBridge has disconnected
-[20:09:43] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58486]: Connected via websocket
-[20:09:43] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58486]: Origin header is http://localhost:8081
-[20:09:43] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58486]: Logged in as 'DomoPlanet'
-[20:09:43] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58486|DomoPlanet] -> UpstreamBridge has connected
-[20:09:43] [Netty Worker IO Thread #1/WARN]: [/127.0.0.1:58168] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:09:43] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:58486] <-> ServerConnector [lobby] has connected
-[20:09:43] [Netty Worker IO Thread #0/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:58486] <-> ServerConnector [lobby] has disconnected
-[20:09:49] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58486|DomoPlanet] -> UpstreamBridge has disconnected
-[20:09:57] [main/ERROR]: Exception in thread "main" java.io.IOError: java.io.IOException: Input/output error
-[20:09:57] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170)
-[20:09:57] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
-[20:09:57] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
-[20:09:57] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)
-[20:09:57] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)
-[20:09:57] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)
-[20:09:57] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
-[20:09:57] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
-[20:09:57] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
-[20:09:57] [main/ERROR]: 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
-[20:09:57] [main/ERROR]: 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
-[20:09:57] [main/ERROR]: Caused by: java.io.IOException: Input/output error
-[20:09:57] [main/ERROR]: 	at java.base/java.io.FileInputStream.read0(Native Method)
-[20:09:57] [main/ERROR]: 	at java.base/java.io.FileInputStream.read(FileInputStream.java:231)
-[20:09:57] [main/ERROR]: 	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
-[20:09:57] [main/ERROR]: 	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
-[20:09:57] [main/ERROR]: 	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
-[20:09:57] [main/ERROR]: 	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
-[20:09:57] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
-[20:09:57] [main/ERROR]: 	... 10 more
-[20:10:27] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40600]: Connected via websocket
-[20:10:27] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40600]: Origin header is http://localhost:8081
-[20:10:27] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40600]: Logged in as 'DomoPlanet'
-[20:10:27] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:40600|DomoPlanet] -> UpstreamBridge has connected
-[20:10:27] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:40600] <-> ServerConnector [lobby] has connected
-[20:10:27] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:54184] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:10:27] [Netty Worker IO Thread #2/INFO]: [DomoPlanet|/[0:0:0:0:0:0:0:1%0]:40600] <-> ServerConnector [lobby] has disconnected
-[20:10:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46378]: Connected via websocket
-[20:10:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46378]: Origin header is http://localhost:8081
-[20:10:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46378]: Logged in as 'SavageEagler'
-[20:10:34] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:46378|SavageEagler] -> UpstreamBridge has connected
-[20:10:34] [Netty Worker IO Thread #0/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:46378] <-> ServerConnector [lobby] has connected
-[20:10:34] [Netty Worker IO Thread #1/WARN]: [/127.0.0.1:41116] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:10:34] [Netty Worker IO Thread #0/WARN]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:46378] <-> ServerConnector [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
-[20:10:34] [Netty Worker IO Thread #0/INFO]: [SavageEagler] disconnected with: Exception Connecting:NativeIoException : recvAddress(..) failed: Connection reset by peer
-[20:10:34] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:46378|SavageEagler] -> UpstreamBridge has disconnected
-[20:10:34] [Netty Worker IO Thread #0/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:46378] <-> ServerConnector [lobby] has disconnected
-[20:10:37] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46392]: Connected via websocket
-[20:10:37] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46392]: Origin header is http://localhost:8081
-[20:10:37] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46392]: Logged in as 'SavageEagler'
-[20:10:37] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:46392|SavageEagler] -> UpstreamBridge has connected
-[20:10:37] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:41122] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:10:37] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:46392] <-> ServerConnector [lobby] has connected
-[20:10:37] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:46392] <-> ServerConnector [lobby] has disconnected
-[20:10:38] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:46392|SavageEagler] -> UpstreamBridge has disconnected
-[20:10:42] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:40600|DomoPlanet] -> UpstreamBridge has disconnected
-[20:10:55] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37908]: Connected via websocket
-[20:10:55] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37908]: Origin header is http://localhost:8081
-[20:10:55] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37908]: Logged in as 'SavageEagler'
-[20:10:55] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37908|SavageEagler] -> UpstreamBridge has connected
-[20:10:55] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:37908] <-> ServerConnector [lobby] has connected
-[20:10:55] [Netty Worker IO Thread #3/WARN]: [/127.0.0.1:52940] <-> InitialHandler - overflow in packet detected! A string had more data than allowed. For more information, launch Waterfall with -Dwaterfall.packet-decode-logging=true
-[20:10:55] [Netty Worker IO Thread #2/INFO]: [SavageEagler|/[0:0:0:0:0:0:0:1%0]:37908] <-> ServerConnector [lobby] has disconnected
-[20:11:10] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37908|SavageEagler] -> UpstreamBridge has disconnected
-craftXBungee]: Online mode is set to false! Authentication system has been disabled
-[20:10:29] [Netty Worker IO Thread #0/ERROR] [EaglercraftXBungee]: Eaglercraft could not bind port: /0.0.0.0:8081
-[20:10:29] [Netty Worker IO Thread #0/ERROR] [EaglercraftXBungee]: Reason: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
-[20:10:30] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[20:10:30] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
-[20:10:30] [Netty Boss IO Thread #0/WARN]: Could not bind to host /127.0.0.1:25565
+[20:12:00] [main/INFO]: Using mbed TLS based native cipher.
+[20:12:00] [main/INFO]: Using zlib based native compressor.
+[20:12:00] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
+[20:12:01] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[20:12:01] [main/INFO]: Epoll is working, utilising it!
+[20:12:01] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[20:12:01] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[20:12:01] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[20:12:01] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[20:12:01] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[20:12:01] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[20:12:01] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:01] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:01] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:01] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:01] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:01] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:01] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[20:12:01] [main/WARN]: :>  
+[20:12:01] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[20:12:01] [main/WARN]: :>  
+[20:12:01] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[20:12:01] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[20:12:01] [main/WARN]: :>  apart from the versions listed below:
+[20:12:01] [main/WARN]: :>  
+[20:12:01] [main/WARN]: :>  - BungeeCord: 1.20-R0.2-SNAPSHOT:231024b:1777
+[20:12:01] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:d85fe36:556
+[20:12:01] [main/WARN]: :>  - FlameCord: 1.1.1
+[20:12:01] [main/WARN]: :>  
+[20:12:01] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[20:12:01] [main/WARN]: :>  
+[20:12:01] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[20:12:01] [main/WARN]: :>  
+[20:12:01] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[20:12:01] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[20:12:02] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[20:12:02] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.9 by lax1dude
+[20:12:02] [main/WARN]: Forced host server pvp is not defined
+[20:12:02] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:02] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:02] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:02] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:02] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:02] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[20:12:02] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[20:12:02] [Netty Worker IO Thread #0/ERROR] [EaglercraftXBungee]: Eaglercraft could not bind port: /0.0.0.0:8081
+[20:12:02] [Netty Worker IO Thread #0/ERROR] [EaglercraftXBungee]: Reason: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[20:12:02] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[20:12:02] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
+[20:12:02] [Netty Boss IO Thread #0/WARN]: Could not bind to host /127.0.0.1:25565
 io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
