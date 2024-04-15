@@ -1,5 +1,5 @@
 Config:
-  MaxMana: 999999
+  MaxMana: 200
   ManaPotion: 100
   switch_to_Invetory_after_Spell_used: false
 Player:
@@ -8,7 +8,7 @@ Player:
   SavageEagler_:
     Mana: 3540
   DomoPlanet:
-    Mana: 20375
+    Mana: 20660
   maroon6:
     Mana: 9999
   Dab1080_:
@@ -24,7 +24,7 @@ Player:
   Ender_Assassin:
     Mana: 6770
   Dab1080:
-    Mana: 6585
+    Mana: 6600
   SmgShane:
     Mana: 5930
   kevinthegaint:
