@@ -2,4 +2,4 @@ bind
 confusion:280
 help
 list
-shadowstep:143,280
+shadowstep:143,276:1,276:2,280

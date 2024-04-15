@@ -1,6 +1,6 @@
 bind
 cripple:280
-firenova
+firenova:277:120|FireNova Ligma shit,277:118,280
 help
 list
 reach

@@ -1,0 +1,6 @@
+bind
+farm
+help
+list
+reach
+unbind
