@@ -1,13 +1,13 @@
 bind
 blink:369|WAND
 disarm:276,369|WAND,280
-explosivearrow:369|WAND
+explosivearrow:369|WAND,280
 firenova:369|WAND
 forcetoss:369|WAND
 help
 list
 reach
 repair
-shadowstep:276,369|WAND
-storm:280
+shadowstep:276,369|WAND,280
+storm:280,369|WAND
 unbind

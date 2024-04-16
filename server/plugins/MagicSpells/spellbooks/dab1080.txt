@@ -1,8 +1,9 @@
 bind
-blind:276:3,276,279:22,267,275:51,267:4,267:3,276:16
-blink
+blind:276:3,276,279:22,267,275:51,267:4,267:3,276:5,276:16
+blink:278:177
+fireball
 food:279:22
 help
 list
 reach:278:177
-ender_chest
+repair

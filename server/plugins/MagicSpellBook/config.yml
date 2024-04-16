@@ -33,3 +33,7 @@ Player:
     Mana: 200
   SmgShane_:
     Mana: 200
+  EnderAssassin_:
+    Mana: 5
+  EnderAssassin:
+    Mana: 10

@@ -1,2 +1,11 @@
+cripple
+explosivearrow
+fireball
+firenova
+freeze
 help
 list
+poison
+reach
+repair
+shadowstep

@@ -1,9 +1,9 @@
-[15:54:50] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[15:54:50] [Server thread/INFO]: Loading properties
-[15:54:50] [Server thread/INFO]: Default game type: SURVIVAL
-[15:54:50] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[15:54:50] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
-[15:54:50] [Server thread/WARN]: Couldn't load server icon
+[18:23:53] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[18:23:53] [Server thread/INFO]: Loading properties
+[18:23:53] [Server thread/INFO]: Default game type: SURVIVAL
+[18:23:53] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[18:23:54] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[18:23:54] [Server thread/WARN]: Couldn't load server icon
 java.lang.IllegalArgumentException: Must be 64 pixels high
 	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadServerIcon0(CraftServer.java:1742) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -15,153 +15,143 @@ java.lang.IllegalArgumentException: Must be 64 pixels high
 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:176) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[15:54:50] [Server thread/INFO]: Debug logging is disabled
-[15:54:50] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[15:54:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:23:54] [Server thread/INFO]: Debug logging is disabled
+[18:23:54] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[18:23:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[15:54:50] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:54:50] [Server thread/INFO]: Data value allowed items: 
-[15:54:50] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+[18:23:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:23:54] [Server thread/INFO]: Data value allowed items: 
+[18:23:54] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
 
-[15:54:50] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[18:23:54] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
 
-[15:54:50] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+[18:23:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
 
-[15:54:50] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[18:23:54] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 
-[15:54:50] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[18:23:54] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 
-[15:54:50] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+[18:23:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
 
-[15:54:50] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+[18:23:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
 
-[15:54:50] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+[18:23:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
 
-[15:54:50] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[18:23:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
 
-[15:54:50] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[18:23:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[15:54:50] [Server thread/INFO]: Generating keypair
-[15:54:50] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[15:54:51] [Server thread/INFO]: Using default channel type
-[15:54:51] [Server thread/ERROR]: Could not load 'plugins/ColorAnvil-v1.0.0.jar' in folder 'plugins'
-org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
-	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:152) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:136) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:293) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:202) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
-	... 6 more
-[15:54:51] [Server thread/ERROR]: Ambiguous plugin name `EaglerPluginInstaller' for files `plugins/EaglerPluginInstaller.jar' and `plugins/EaglerPluginInstaller-1.1.5.jar' in `plugins'
-[15:54:51] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[15:54:51] [Server thread/INFO]: [Colors] Properties loaded.
+[18:23:54] [Server thread/INFO]: Generating keypair
+[18:23:54] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[18:23:54] [Server thread/INFO]: Using default channel type
+[18:23:54] [Server thread/ERROR]: Ambiguous plugin name `EaglerPluginInstaller' for files `plugins/EaglerPluginInstaller.jar' and `plugins/EaglerPluginInstaller-1.1.5.jar' in `plugins'
+[18:23:54] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:23:54] [Server thread/INFO]: [Colors] Properties loaded.
 
-[15:54:51] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
-[15:54:51] [Server thread/INFO]: [[EaglerPluginInstaller]] Loading EaglerPluginInstaller v1.1.4
-[15:54:51] [Server thread/INFO]: [MyWarp] Loading MyWarp v2.6.1
-[15:54:51] [Server thread/INFO]: [RealisticBackpacks] Loading RealisticBackpacks v1.3
-[15:54:51] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[15:54:51] [Server thread/INFO]: [MagicSpellBook] Loading MagicSpellBook v0.3
-[15:54:51] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
-[15:54:51] [Server thread/INFO]: [Colors] Loading Colors v2.0.4
-[15:54:51] [Server thread/INFO]: [[EaglerPluginUpdater]] Loading EaglerPluginUpdater v1.1.2
-[15:54:51] [Server thread/INFO]: [MagicSpells] Loading MagicSpells v2.15
-[15:54:51] [Server thread/INFO]: [McTeams] Loading McTeams v1.6.1
-[15:54:51] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
-[15:54:54] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
-[15:54:54] [Server thread/INFO]: [MobArena] Loading MobArena v0.94.4.98
-[15:54:54] [Server thread/INFO]: [CraftBook] Loading CraftBook v2372-beaf82e
-[15:54:54] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
-[15:54:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:54:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:54:54] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[15:54:54] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[15:54:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:54:54] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[15:54:54] [Server thread/INFO]: Preparing level "world"
-[15:54:54] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:54:54] [Server thread/INFO]: Mob Spawn Range: 4
-[15:54:54] [Server thread/INFO]: Anti X-Ray: true
-[15:54:54] [Server thread/INFO]: 	Engine Mode: 1
-[15:54:54] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[15:54:54] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[15:54:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:54:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:54:54] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:54:54] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:54:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:54:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:54:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:54:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:54:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:54:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[15:54:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:54:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[15:54:54] [Server thread/INFO]: Random Lighting Updates: false
-[15:54:54] [Server thread/INFO]: Structure Info Saving: true
-[15:54:54] [Server thread/INFO]: Sending up to 10 chunks per packet
-[15:54:54] [Server thread/INFO]: Max Entity Collisions: 8
-[15:54:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[15:54:54] [Server thread/INFO]: Max TNT Explosions: 100
-[15:54:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:54:54] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:54:54] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:54:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:54:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:54:54] [Server thread/INFO]: View Distance: 4
-[15:54:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:54:54] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[15:54:54] [Server thread/INFO]: Clear tick list: false
-[15:54:54] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:54:54] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:54:54] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[15:54:54] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[15:54:54] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[15:54:54] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[15:54:54] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[15:54:54] [Server thread/INFO]: Water over lava flow speed: 5
-[15:54:54] [Server thread/INFO]: Fix TNT cannons: false
-[15:54:54] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[15:54:54] [Server thread/INFO]: Keep spawn chunk loaded: true
-[15:54:54] [Server thread/INFO]: World async lighting: false
-[15:54:54] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[15:54:54] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[15:54:55] [Server thread/INFO]: Preparing start region for level 0 (Seed: 24877956)
-[15:54:56] [Server thread/INFO]: Preparing spawn area: 12%
-[15:54:57] [Server thread/INFO]: Preparing spawn area: 53%
-[15:54:57] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
-[15:54:57] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[18:23:55] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[18:23:55] [Server thread/INFO]: [[EaglerPluginInstaller]] Loading EaglerPluginInstaller v1.1.4
+[18:23:55] [Server thread/INFO]: [MyWarp] Loading MyWarp v2.6.1
+[18:23:55] [Server thread/INFO]: [RealisticBackpacks] Loading RealisticBackpacks v1.3
+[18:23:55] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[18:23:55] [Server thread/INFO]: [MagicSpellBook] Loading MagicSpellBook v0.3
+[18:23:55] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[18:23:55] [Server thread/INFO]: [Colors] Loading Colors v2.0.4
+[18:23:55] [Server thread/INFO]: [AnvilColors] Loading AnvilColors v1.3.1
+[18:23:55] [Server thread/INFO]: [[EaglerPluginUpdater]] Loading EaglerPluginUpdater v1.1.2
+[18:23:55] [Server thread/INFO]: [MagicSpells] Loading MagicSpells v2.15
+[18:23:55] [Server thread/INFO]: [McTeams] Loading McTeams v1.6.1
+[18:23:55] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
+[18:23:56] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[18:23:56] [Server thread/INFO]: [MobArena] Loading MobArena v0.94.4.98
+[18:23:56] [Server thread/INFO]: [CraftBook] Loading CraftBook v2372-beaf82e
+[18:23:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[18:23:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:23:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:23:56] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[18:23:56] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[18:23:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:23:56] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:23:56] [Server thread/INFO]: Preparing level "world"
+[18:23:56] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:23:56] [Server thread/INFO]: Mob Spawn Range: 4
+[18:23:56] [Server thread/INFO]: Anti X-Ray: true
+[18:23:56] [Server thread/INFO]: 	Engine Mode: 1
+[18:23:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[18:23:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[18:23:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:23:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:23:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:23:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:23:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:23:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:23:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:23:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:23:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:23:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[18:23:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:23:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[18:23:56] [Server thread/INFO]: Random Lighting Updates: false
+[18:23:56] [Server thread/INFO]: Structure Info Saving: true
+[18:23:56] [Server thread/INFO]: Sending up to 10 chunks per packet
+[18:23:56] [Server thread/INFO]: Max Entity Collisions: 8
+[18:23:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[18:23:56] [Server thread/INFO]: Max TNT Explosions: 100
+[18:23:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:23:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:23:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:23:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:23:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:23:56] [Server thread/INFO]: View Distance: 4
+[18:23:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:23:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[18:23:56] [Server thread/INFO]: Clear tick list: false
+[18:23:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:23:56] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:23:56] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[18:23:56] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[18:23:56] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[18:23:56] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[18:23:56] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[18:23:56] [Server thread/INFO]: Water over lava flow speed: 5
+[18:23:56] [Server thread/INFO]: Fix TNT cannons: false
+[18:23:56] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[18:23:56] [Server thread/INFO]: Keep spawn chunk loaded: true
+[18:23:56] [Server thread/INFO]: World async lighting: false
+[18:23:56] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[18:23:56] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[18:23:56] [Server thread/INFO]: Preparing start region for level 0 (Seed: 24877956)
+[18:23:57] [Server thread/INFO]: Preparing spawn area: 51%
+[18:23:57] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
+[18:23:57] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
 
-[15:54:57] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
+[18:23:57] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
 
-[15:54:57] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[15:54:57] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
-[15:54:57] [Server thread/INFO]: Check 1 passed
+[18:23:57] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[18:23:57] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
+[18:23:57] [Server thread/INFO]: Check 1 passed
 
-[15:54:58] [Server thread/INFO]: Check 3 passed
+[18:23:58] [Server thread/INFO]: Check 3 passed
 
-[15:54:58] [Server thread/INFO]: --------------------------------------------[m
+[18:23:58] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:58] [Server thread/INFO]: --------------------------------------------[m
+[18:23:58] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:58] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
+[18:23:58] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
 
-[15:54:58] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
+[18:23:58] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
 
-[15:54:58] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
+[18:23:58] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
 
-[15:54:58] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
+[18:23:58] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
 
-[15:54:58] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
+[18:23:58] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
 
-[15:54:58] [Server thread/INFO]: --------------------------------------------[m
+[18:23:58] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:58] [Server thread/INFO]: --------------------------------------------[m
+[18:23:58] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:58] [Server thread/INFO]: [MyWarp] Enabling MyWarp v2.6.1
-[15:54:58] [Server thread/ERROR]: [MyWarp] Failed to create default config.yml , using build-in defaults: 
+[18:23:58] [Server thread/INFO]: [MyWarp] Enabling MyWarp v2.6.1
+[18:23:58] [Server thread/ERROR]: [MyWarp] Failed to create default config.yml , using build-in defaults: 
 java.io.FileNotFoundException: plugins/MyWarp/config.yml (Is a directory)
 	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
 	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
@@ -182,217 +172,266 @@ java.io.FileNotFoundException: plugins/MyWarp/config.yml (Is a directory)
 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[15:54:58] [Server thread/INFO]: [MyWarp] No supported permissions plugin found, using Superperms fallback for group support
-[15:54:58] [Server thread/INFO]: [MyWarp] 3 warps loaded
-[15:54:58] [Server thread/INFO]: [MyWarp] Using localization: en_US
-[15:54:59] [Server thread/INFO]: [RealisticBackpacks] Enabling RealisticBackpacks v1.3
-[15:54:59] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
-[15:54:59] [Server thread/ERROR]: [RealisticBackpacks] This version of craftbukkit is not supported, please contact the developer stating this version: v1_8_R3
-[15:54:59] [Server thread/ERROR]: [RealisticBackpacks] RealisticBackpacks will now disable.
-[15:54:59] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
-[15:54:59] [Server thread/INFO]: [RealisticBackpacks] Realistic Backpacks has been disabled.
-[15:54:59] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[15:54:59] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[15:54:59] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[15:54:59] [Server thread/INFO]: [MagicSpellBook] Enabling MagicSpellBook v0.3
-[15:54:59] [Server thread/INFO]: Plugin Metrics loaded!
-[15:54:59] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
-[15:54:59] [Server thread/INFO]: [Colors] Enabling Colors v2.0.4
-[15:54:59] [Server thread/INFO]: [Colors] Not hooked into any permissions plugin. Using defaults.
+[18:23:58] [Server thread/INFO]: [MyWarp] No supported permissions plugin found, using Superperms fallback for group support
+[18:23:58] [Server thread/INFO]: [MyWarp] 3 warps loaded
+[18:23:58] [Server thread/INFO]: [MyWarp] Using localization: en_US
+[18:23:58] [Server thread/INFO]: [RealisticBackpacks] Enabling RealisticBackpacks v1.3
+[18:23:58] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
+[18:23:58] [Server thread/ERROR]: [RealisticBackpacks] This version of craftbukkit is not supported, please contact the developer stating this version: v1_8_R3
+[18:23:58] [Server thread/ERROR]: [RealisticBackpacks] RealisticBackpacks will now disable.
+[18:23:58] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
+[18:23:58] [Server thread/INFO]: [RealisticBackpacks] Realistic Backpacks has been disabled.
+[18:23:59] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[18:23:59] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:23:59] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[18:23:59] [Server thread/INFO]: [MagicSpellBook] Enabling MagicSpellBook v0.3
+[18:23:59] [Server thread/INFO]: Plugin Metrics loaded!
+[18:23:59] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[18:23:59] [Server thread/INFO]: [Colors] Enabling Colors v2.0.4
+[18:23:59] [Server thread/INFO]: [Colors] Not hooked into any permissions plugin. Using defaults.
 
-[15:54:59] [Server thread/INFO]: [Colors] (Hint) install Vault if your permissions plugin was not detected.
+[18:23:59] [Server thread/INFO]: [Colors] (Hint) install Vault if your permissions plugin was not detected.
 
-[15:54:59] [Server thread/INFO]: [[EaglerPluginUpdater]] Enabling EaglerPluginUpdater v1.1.2
-[15:54:59] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: [AnvilColors] Enabling AnvilColors v1.3.1
+[18:23:59] [Server thread/INFO]: [[EaglerPluginUpdater]] Enabling EaglerPluginUpdater v1.1.2
+[18:23:59] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m PluginInstaller V1.1.5 is now Disabled! D:[m
+[18:23:59] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m PluginInstaller V1.1.5 is now Disabled! D:[m
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
-[15:54:59] [Server thread/INFO]: Check 1 passed
+[18:23:59] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
+[18:23:59] [Server thread/INFO]: Check 1 passed
 
-[15:54:59] [Server thread/INFO]: Check 3 passed
+[18:23:59] [Server thread/INFO]: Check 3 passed
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
+[18:23:59] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
 
-[15:54:59] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
+[18:23:59] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
 
-[15:54:59] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
+[18:23:59] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
 
-[15:54:59] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
+[18:23:59] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
 
-[15:54:59] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
+[18:23:59] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: [0;32;1m[EaglerPluginUpdater][0;36;1m EaglerPluginUpdater V1.1.2 is now Enabled! :D[m
+[18:23:59] [Server thread/INFO]: [0;32;1m[EaglerPluginUpdater][0;36;1m EaglerPluginUpdater V1.1.2 is now Enabled! :D[m
 
-[15:54:59] [Server thread/INFO]: You do not need to do anything, this plugin will automatically update your PluginUpdater on startup[m
+[18:23:59] [Server thread/INFO]: You do not need to do anything, this plugin will automatically update your PluginUpdater on startup[m
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: --------------------------------------------[m
+[18:23:59] [Server thread/INFO]: --------------------------------------------[m
 
-[15:54:59] [Server thread/INFO]: [MagicSpells] Enabling MagicSpells v2.15
-[15:54:59] [Server thread/WARN]: [MagicSpells] This MagicSpells version is not fully compatible with this server version.
-[15:54:59] [Server thread/WARN]: [MagicSpells] Some features have been disabled.
-[15:54:59] [Server thread/WARN]: [MagicSpells] See http://nisovin.com/magicspells/volatilefeatures for more information.
-[15:55:00] [Server thread/INFO]: [MagicSpells] Spells loaded: 87
-[15:55:00] [Server thread/INFO]: [McTeams] Enabling McTeams v1.6.1
-[15:55:00] [Server thread/INFO]: [McTeams] Could not find PlaceholderAPI plugin. Those features will be unavailable.
+[18:23:59] [Server thread/INFO]: [MagicSpells] Enabling MagicSpells v2.15
+[18:23:59] [Server thread/WARN]: [MagicSpells] This MagicSpells version is not fully compatible with this server version.
+[18:23:59] [Server thread/WARN]: [MagicSpells] Some features have been disabled.
+[18:23:59] [Server thread/WARN]: [MagicSpells] See http://nisovin.com/magicspells/volatilefeatures for more information.
+[18:23:59] [Server thread/INFO]: [MagicSpells] Spells loaded: 87
+[18:23:59] [Server thread/INFO]: [McTeams] Enabling McTeams v1.6.1
+[18:23:59] [Server thread/INFO]: [McTeams] Could not find PlaceholderAPI plugin. Those features will be unavailable.
 
-[15:55:00] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[15:55:00] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[15:55:00] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[15:55:00] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[15:55:00] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[15:55:00] [Server thread/INFO]: [MobArena] Enabling MobArena v0.94.4.98
-[15:55:00] [Server thread/INFO]: [MobArena] No boss abilities found. Extracting defaults...
-[15:55:00] [Server thread/ERROR]: [MobArena] Couldn't extract the default boss abilities!
-[15:55:00] [Server thread/WARN]: [MobArena] Vault was not found. Economy rewards will not work!
-[15:55:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'default'.
-[15:55:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'default'.
-[15:55:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'default'.
-[15:55:00] [Server thread/INFO]: [MobArena] Loaded arena 'default'.
-[15:55:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'PVP'.
-[15:55:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'PVP'.
-[15:55:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'PVP'.
-[15:55:00] [Server thread/INFO]: [MobArena] Loaded arena 'PVP'.
-[15:55:00] [Server thread/INFO]: [MobArena] v0.94.4.98 enabled.
-[15:55:00] [Server thread/INFO]: [CraftBook] Enabling CraftBook v2372-beaf82e
-[15:55:00] [Thread-7/WARN]: [Fatal Error] :1:1: Premature end of file.
+[18:23:59] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[18:23:59] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[18:24:00] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[18:24:00] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[18:24:00] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[18:24:00] [Server thread/INFO]: [MobArena] Enabling MobArena v0.94.4.98
+[18:24:00] [Server thread/INFO]: [MobArena] No boss abilities found. Extracting defaults...
+[18:24:00] [Server thread/ERROR]: [MobArena] Couldn't extract the default boss abilities!
+[18:24:00] [Server thread/WARN]: [MobArena] Vault was not found. Economy rewards will not work!
+[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'default'.
+[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'default'.
+[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'default'.
+[18:24:00] [Server thread/INFO]: [MobArena] Loaded arena 'default'.
+[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'PVP'.
+[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'PVP'.
+[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'PVP'.
+[18:24:00] [Server thread/INFO]: [MobArena] Loaded arena 'PVP'.
+[18:24:00] [Server thread/INFO]: [MobArena] v0.94.4.98 enabled.
+[18:24:00] [Server thread/INFO]: [CraftBook] Enabling CraftBook v2372-beaf82e
+[18:24:00] [Thread-7/WARN]: [Fatal Error] :1:1: Premature end of file.
 
-[15:55:00] [Thread-7/WARN]: [MobArena] The version checker failed.
-[15:55:00] [Thread-7/WARN]: [MobArena] This is harmless, but check for updates manually!
-[15:55:00] [Thread-8/WARN]: Exception in thread "Thread-8" 
-[15:55:00] [Thread-8/WARN]: java.lang.NullPointerException: Cannot invoke "String.split(String)" because "title" is null
+[18:24:00] [Thread-7/WARN]: [MobArena] The version checker failed.
+[18:24:00] [Thread-7/WARN]: [MobArena] This is harmless, but check for updates manually!
+[18:24:00] [Thread-8/WARN]: Exception in thread "Thread-8" 
+[18:24:00] [Thread-8/WARN]: java.lang.NullPointerException: Cannot invoke "String.split(String)" because "title" is null
 
-[15:55:00] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.versionCheck(Updater.java:410)
+[18:24:00] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.versionCheck(Updater.java:410)
 
-[15:55:00] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.access$400(Updater.java:49)
+[18:24:00] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.access$400(Updater.java:49)
 
-[15:55:00] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater$UpdateRunnable.run(Updater.java:535)
+[18:24:00] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater$UpdateRunnable.run(Updater.java:535)
 
-[15:55:00] [Thread-8/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[18:24:00] [Thread-8/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[15:55:00] [Server thread/INFO]: [CraftBook] null is the latest version available, and the updatability of it is: SUCCESS. You currently have version Unknown installed.
-[15:55:00] [Server thread/INFO]: 1 cauldron recipe(s) loaded
-[15:55:00] [Server thread/INFO]: [CraftBook] Registered a new furnace recipe!
-[15:55:00] [Server thread/INFO]: [CraftBook] Registered a new shaped recipe!
-[15:55:00] [Server thread/INFO]: [CraftBook] Registered a new shapeless recipe!
-[15:55:00] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
-[15:55:00] [Server thread/WARN]: [CraftBook] Chairs require ProtocolLib! They will not function without it!
-[15:55:00] [Server thread/INFO]: [CraftBook] Added CommandItem: LightningRod
-[15:55:00] [Server thread/INFO]: [CraftBook] Enumerating chunks for self-triggered components...
-[15:55:00] [Server thread/INFO]: [CraftBook] 625 chunk(s) for 1 world(s) processed (27ms elapsed)
-[15:55:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:55:00] [Server thread/INFO]: Done (6.410s)! For help, type "help" or "?"
-[15:55:00] [Server thread/ERROR]: Couldn't load server icon
+[18:24:00] [Server thread/INFO]: [CraftBook] null is the latest version available, and the updatability of it is: SUCCESS. You currently have version Unknown installed.
+[18:24:00] [Server thread/INFO]: 1 cauldron recipe(s) loaded
+[18:24:00] [Server thread/INFO]: [CraftBook] Registered a new furnace recipe!
+[18:24:00] [Server thread/INFO]: [CraftBook] Registered a new shaped recipe!
+[18:24:00] [Server thread/INFO]: [CraftBook] Registered a new shapeless recipe!
+[18:24:00] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[18:24:00] [Server thread/WARN]: [CraftBook] Chairs require ProtocolLib! They will not function without it!
+[18:24:00] [Server thread/INFO]: [CraftBook] Added CommandItem: LightningRod
+[18:24:00] [Server thread/INFO]: [CraftBook] Enumerating chunks for self-triggered components...
+[18:24:00] [Server thread/INFO]: [CraftBook] 625 chunk(s) for 1 world(s) processed (19ms elapsed)
+[18:24:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:24:00] [Server thread/INFO]: Done (4.477s)! For help, type "help" or "?"
+[18:24:00] [Server thread/ERROR]: Couldn't load server icon
 java.lang.IllegalStateException: Must be 64 pixels high
 	at org.apache.commons.lang3.Validate.validState(Validate.java:826) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:679) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:569) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[15:55:00] [Server thread/INFO]: Timings Reset
-[15:55:00] [Craft Scheduler Thread - 1/INFO]: [Metrics] Connection refused
-[15:55:01] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+[18:24:00] [Server thread/INFO]: Timings Reset
+[18:24:00] [Craft Scheduler Thread - 4/INFO]: [Metrics] Connection refused
+[18:24:00] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
 
-[15:55:01] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+[18:24:00] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
 
-[15:55:01] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+[18:24:00] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
-[15:58:48] [Thread-9/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
-[15:58:48] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:40758] logged in with entity id 143 at ([world]386.0, 70.0, -180.0)
-[15:58:48] [Thread-10/WARN]: [Fatal Error] :1:1: Premature end of file.
+[18:25:04] [Thread-9/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[18:25:05] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:37212] logged in with entity id 161 at ([world]386.0, 70.0, -180.0)
+[18:25:08] [Thread-10/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[18:25:08] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:51402] logged in with entity id 284 at ([world]386.0, 70.0, -180.0)
+[18:25:11] [Thread-11/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[18:25:11] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:51412] logged in with entity id 340 at ([world]386.0, 70.0, -180.0)
+[18:25:19] [Server thread/INFO]: Void lost connection: Disconnected
+[18:25:19] [Server thread/INFO]: Void left the game.
+[18:25:24] [Thread-12/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+[18:25:24] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:36064] logged in with entity id 551 at ([world]386.0, 70.0, -180.0)
+[18:25:36] [Thread-13/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[18:25:36] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:50440] logged in with entity id 756 at ([world]386.0, 70.0, -180.0)
+[18:25:44] [Server thread/INFO]: Dab1080 issued server command: /tpa DomoPlanet
+[18:25:45] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[18:26:00] [Server thread/INFO]: DomoPlanet issued server command: /cast Dab1080 repair
+[18:26:09] [Server thread/INFO]: DomoPlanet issued server command: /cast repair Dab1080
+[18:26:15] [Server thread/INFO]: Dab1080 issued server command: /cast repair
+[18:26:19] [Server thread/INFO]: Dab1080 issued server command: /cast list
+[18:26:28] [Server thread/INFO]: DomoPlanet issued server command: /cast teach
+[18:26:35] [Server thread/INFO]: DomoPlanet issued server command: /cast teach Dab1080 repair
+[18:26:38] [Server thread/INFO]: Dab1080 issued server command: /cast repair
+[18:27:10] [Server thread/INFO]: Dab1080 issued server command: /cast blink
+[18:27:18] [Server thread/INFO]: kevinthegaint issued server command: /tpa void
+[18:27:22] [Server thread/INFO]: Void issued server command: /tpaccept
+[18:27:24] [Thread-14/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[18:27:24] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:54454] logged in with entity id 1291 at ([world]386.0, 70.0, -180.0)
+[18:28:01] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[18:28:12] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[18:28:17] [Server thread/INFO]: SavageEagler issued server command: /tpa Void
+[18:28:18] [Server thread/INFO]: Void issued server command: /tpaccept
+[18:28:56] [Server thread/INFO]: Void was slain by SavageEagler
+[18:29:05] [Server thread/INFO]: Void issued server command: /back
+[18:29:28] [Server thread/INFO]: Dab1080 issued server command: /cast blink
+[18:29:33] [Server thread/INFO]: SavageEagler issued server command: /cast list
+[18:29:50] [Server thread/INFO]: kevinthegaint lost connection: Disconnected
+[18:29:50] [Server thread/INFO]: kevinthegaint left the game.
+[18:30:48] [Server thread/WARN]: DomoPlanet moved wrongly!
+[18:30:49] [Server thread/INFO]: DomoPlanet issued server command: /tpa savage
+[18:31:45] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[18:31:45] [Server thread/INFO]: SavageEagler left the game.
+[18:31:53] [Server thread/INFO]: Void lost connection: Disconnected
+[18:31:53] [Server thread/INFO]: Void left the game.
+[18:32:16] [Thread-16/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[18:32:16] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:45562] logged in with entity id 2468 at ([world]386.0, 70.0, -180.0)
+[18:32:31] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[18:32:31] [Server thread/INFO]: SavageEagler left the game.
+[18:32:35] [Thread-17/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[18:32:35] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:41484] logged in with entity id 2603 at ([world]386.0, 70.0, -180.0)
+[18:33:31] [Server thread/INFO]: <Dab1080[0;37;1m> wow :D[m
 
-[15:58:48] [Thread-10/WARN]: [MobArena] The version checker failed.
-[15:58:48] [Thread-10/WARN]: [MobArena] This is harmless, but check for updates manually!
-[15:59:27] [Server thread/INFO]: SavageEagler_ issued server command: /anvilcolors
-[15:59:31] [Server thread/INFO]: SavageEagler_ issued server command: /help anvilcolors
-[15:59:43] [Server thread/INFO]: SavageEagler_ issued server command: /help anvilcolors.use
-[15:59:47] [Server thread/INFO]: SavageEagler_ issued server command: /plugins
-[16:00:13] [Server thread/INFO]: SavageEagler_ issued server command: /install anvilcolors
-[16:00:15] [Server thread/INFO]: SavageEagler_ issued server command: /install anvilcolor
-[16:01:53] [Thread-12/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
-[16:01:53] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:36416] logged in with entity id 372 at ([world]386.0, 70.0, -180.0)
-[16:02:17] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
-[16:02:17] [Server thread/INFO]: SavageEagler_ left the game.
-[16:02:22] [Thread-13/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
-[16:02:22] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:49270] logged in with entity id 577 at ([world]386.0, 70.0, -180.0)
-[16:04:18] [Server thread/WARN]: maroon5 moved wrongly!
-[16:04:55] [Server thread/INFO]: SavageEagler issued server command: /cast repair
-[16:05:01] [Craft Scheduler Thread - 10/INFO]: [Metrics] Connection refused
-[16:05:07] [Server thread/INFO]: SavageEagler lost connection: Disconnected
-[16:05:07] [Server thread/INFO]: SavageEagler left the game.
-[16:05:18] [Thread-14/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
-[16:05:18] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:51494] logged in with entity id 701 at ([world]386.0, 70.0, -180.0)
-[16:05:18] [Thread-15/WARN]: [Fatal Error] :1:1: Premature end of file.
-
-[16:05:18] [Thread-15/WARN]: [MobArena] The version checker failed.
-[16:05:18] [Thread-15/WARN]: [MobArena] This is harmless, but check for updates manually!
-[16:05:48] [Server thread/INFO]: SavageEagler_ issued server command: /tp maroon5 1000 100 1000
-[16:05:48] [Server thread/INFO]: [SavageEagler_: Teleported maroon5 to 1000.5, 100.0, 1000.5]
-[16:05:50] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityLiving.e(EntityLiving.java:949) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityHuman.e(EntityHuman.java:1451) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.Block.fallOn(Block.java:650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.Entity.a(Entity.java:845) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityLiving.a(EntityLiving.java:165) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:638) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:459) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
-	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.util.ConcurrentModificationException
-	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
-	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
-	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
-	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	... 27 more
-[16:05:50] [Server thread/INFO]: maroon5 fell from a high place
-[16:05:59] [Server thread/INFO]: maroon5 issued server command: /back
-[16:06:26] [Server thread/INFO]: SavageEagler_ issued server command: /tp maroon5 6000 100 6000
-[16:06:26] [Server thread/INFO]: [SavageEagler_: Teleported maroon5 to 6000.5, 100.0, 6000.5]
-[16:06:35] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
-[16:06:35] [Server thread/INFO]: SavageEagler_ left the game.
-[16:07:20] [Server thread/INFO]: maroon5 lost connection: Disconnected
-[16:07:20] [Server thread/INFO]: maroon5 left the game.
-[16:07:23] [Thread-2/INFO]: Stopping server
-[16:07:23] [Thread-2/INFO]: [CraftBook] Disabling CraftBook v2372-beaf82e
+[18:33:39] [Server thread/INFO]: DomoPlanet issued server command: /tpa savage
+[18:33:41] [Server thread/INFO]: SavageEagler issued server command: /tpyes
+[18:34:01] [Craft Scheduler Thread - 14/INFO]: [Metrics] Connection refused
+[18:34:13] [Server thread/INFO]: DomoPlanet issued server command: /cast bind explosivearrow
+[18:34:23] [Server thread/INFO]: SavageEagler issued server command: /cast bind shadowstep
+[18:34:27] [Server thread/INFO]: DomoPlanet issued server command: /cast bind frozen
+[18:34:30] [Server thread/INFO]: SavageEagler issued server command: /cast bind explosivearrow
+[18:34:30] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[18:34:35] [Server thread/INFO]: DomoPlanet issued server command: /cast bind freeze
+[18:34:40] [Server thread/INFO]: DomoPlanet issued server command: /cast bind poison
+[18:34:48] [Server thread/INFO]: SavageEagler issued server command: /cast bind storm
+[18:34:51] [Server thread/INFO]: SavageEagler issued server command: /cast list
+[18:34:56] [Server thread/INFO]: SavageEagler issued server command: /
+[18:35:07] [Server thread/INFO]: Dab1080 issued server command: /cast blink
+[18:36:07] [Server thread/INFO]: Dab1080 issued server command: /sethome dome
+[18:36:52] [Server thread/INFO]: DomoPlanet blew up
+[18:36:56] [Server thread/INFO]: DomoPlanet issued server command: /back
+[18:36:59] [Server thread/INFO]: DomoPlanet issued server command: /
+[18:37:22] [Server thread/INFO]: DomoPlanet issued server command: /repair
+[18:37:24] [Server thread/INFO]: DomoPlanet issued server command: /cast repair
+[18:37:25] [Server thread/INFO]: SavageEagler issued server command: /cast repair
+[18:37:42] [Server thread/INFO]: SavageEagler issued server command: /cast repair
+[18:37:45] [Server thread/INFO]: DomoPlanet issued server command: /
+[18:37:52] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[18:37:53] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[18:37:53] [Server thread/INFO]: Dab1080 left the game.
+[18:38:01] [Server thread/INFO]: DomoPlanet issued server command: /tpa savage
+[18:38:06] [Server thread/INFO]: SavageEagler issued server command: /tpyes
+[18:38:10] [Server thread/INFO]: SavageEagler issued server command: /sethome arena
+[18:38:13] [Server thread/INFO]: DomoPlanet issued server command: /sethome arena
+[18:38:14] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[18:38:14] [Server thread/INFO]: SavageEagler left the game.
+[18:38:15] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[18:38:15] [Server thread/INFO]: DomoPlanet left the game.
+[18:40:41] [Thread-18/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[18:40:41] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:33244] logged in with entity id 4933 at ([world]386.0, 70.0, -180.0)
+[18:40:58] [Thread-19/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[18:40:58] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:37156] logged in with entity id 5151 at ([world]386.0, 70.0, -180.0)
+[18:41:04] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[18:41:13] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[18:41:13] [Server thread/INFO]: Dab1080 left the game.
+[18:41:17] [Thread-20/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[18:41:17] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:53350] logged in with entity id 5526 at ([world]386.98505268400896, 61.06144354145898, -179.014947315991)
+[18:41:32] [Server thread/WARN]: Dab1080 was kicked for floating too long!
+[18:41:32] [Server thread/INFO]: Dab1080 lost connection: Flying is not enabled on this server
+[18:41:32] [Server thread/INFO]: Dab1080 left the game.
+[18:41:32] [Server thread/WARN]: handleDisconnection() called twice
+[18:41:39] [Thread-21/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[18:41:39] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:50486] logged in with entity id 5721 at ([world]386.0, 70.0, -180.0)
+[18:44:01] [Craft Scheduler Thread - 22/INFO]: [Metrics] Connection refused
+[18:45:30] [Server thread/INFO]: Dab1080 issued server command: /sthome e
+[18:45:33] [Server thread/INFO]: Dab1080 issued server command: /sethome e
+[18:46:17] [Server thread/INFO]: DomoPlanet issued server command: /cast repair
+[18:50:31] [Server thread/INFO]: Dab1080 issued server command: /cast list
+[18:51:14] [Server thread/INFO]: Dab1080 issued server command: /home e
+[18:51:15] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[18:51:17] [Server thread/INFO]: Dab1080 issued server command: /tpa DomoPlanet
+[18:51:20] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[18:51:33] [Server thread/INFO]: DomoPlanet issued server command: /cast teach fireball
+[18:51:39] [Server thread/INFO]: DomoPlanet issued server command: /cast teach Dab1080 fireball
+[18:51:46] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
+[18:51:54] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
+[18:51:55] [Server thread/INFO]: DomoPlanet issued server command: /cast fireball
+[18:51:57] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
+[18:51:58] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
+[18:52:01] [Server thread/INFO]: DomoPlanet issued server command: /cast fireball
+[18:52:14] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[18:52:21] [Server thread/INFO]: Dab1080 issued server command: /home e
+[18:52:30] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[18:52:30] [Server thread/WARN]: Wrong location for EntityChicken['Chicken'/7690, l='world', x=4834.54, y=76.00, z=-3919.93] in world 'world'!
+[18:52:30] [Server thread/WARN]: Entity is at 4834.5368597664765,-3919.9279088463504 (chunk 302,-245) but was stored in chunk 302,-246
+[18:52:32] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[18:52:32] [Server thread/INFO]: Dab1080 left the game.
+[18:53:09] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[18:53:09] [Server thread/INFO]: DomoPlanet left the game.
+[18:54:01] [Craft Scheduler Thread - 26/INFO]: [Metrics] Connection refused
+[19:04:01] [Craft Scheduler Thread - 28/INFO]: [Metrics] Connection refused

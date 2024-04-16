@@ -1,12 +1,14 @@
 armor
 bind
 cripple:280
-fireball
+explosivearrow:280
+fireball:280
 firenova:277:120|FireNova Ligma shit,277:118,280
-freeze
+freeze:280
 help
 list
-poison
+poison:280
 reach
+repair
 shadowstep
 teach
