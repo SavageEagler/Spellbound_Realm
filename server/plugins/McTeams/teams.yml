@@ -43,6 +43,10 @@ players:
     teamchat: 'false'
     chatspy: 'false'
     team: '1'
+  e1e8d257-9e79-332f-bd58-453b258cc759:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
 Admins:
   ff: 'false'
   password: Admin
