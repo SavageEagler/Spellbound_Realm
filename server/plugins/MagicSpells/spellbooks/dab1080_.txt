@@ -20,7 +20,7 @@ explode
 explosivearrow
 farm
 fireball
-firenova
+firenova:280
 flamewalk
 food
 forcebomb
@@ -84,4 +84,4 @@ water
 waterwalk
 windwalk
 zap
-zeus
+zeus:280|Death stick

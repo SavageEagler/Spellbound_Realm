@@ -3,6 +3,7 @@ blink:369|WAND
 disarm:276,369|WAND,280
 explosivearrow:369|WAND
 firenova:369|WAND
+forcetoss:369|WAND
 help
 list
 reach

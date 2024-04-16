@@ -1,5 +1,7 @@
 bind
+blink:-1,280
 help
 list
-poison:280
+poison:-1,280
 reach
+unbind

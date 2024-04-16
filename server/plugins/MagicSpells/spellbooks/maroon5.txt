@@ -9,3 +9,4 @@ list
 poison:352
 reach
 shadowstep
+teach

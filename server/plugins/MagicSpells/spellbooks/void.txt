@@ -1,5 +1,6 @@
 bind
-confusion:280
+confusion:-1,280
 help
 list
 shadowstep:143,276:1,276:2,267:1,280
+unbind

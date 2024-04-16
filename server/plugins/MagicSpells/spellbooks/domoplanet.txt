@@ -1,6 +1,12 @@
+armor
 bind
 cripple:280
+fireball
 firenova:277:120|FireNova Ligma shit,277:118,280
+freeze
 help
 list
+poison
 reach
+shadowstep
+teach

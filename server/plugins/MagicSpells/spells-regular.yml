@@ -493,7 +493,7 @@ forcetoss:
     horizontal-force: 30
     vertical-force: 15
     obey-los: true
-    target-players: false
+    target-players: true
     check-plugins: true
     cost:
         - mana 10

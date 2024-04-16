@@ -17,9 +17,10 @@ players:
     teamchat: 'false'
     chatspy: 'false'
   321c7be9-79b4-3dd7-b22f-a9fefc3e081b:
-    teammanager: 'false'
+    teammanager: 'true'
     teamchat: 'false'
     chatspy: 'false'
+    team: VIVA_LA_REVOLUTION
   0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b:
     teammanager: 'false'
     teamchat: 'false'
@@ -29,11 +30,32 @@ players:
     teamchat: 'false'
     chatspy: 'false'
   83949d3a-ab99-3644-a8c0-43977ec748c0:
+    teammanager: 'true'
+    teamchat: 'false'
+    chatspy: 'false'
+    team: '1'
+  2c1aa0fa-3f2f-37bd-96a3-c0cfffb1bcc1:
     teammanager: 'false'
     teamchat: 'false'
     chatspy: 'false'
+  8b6419f0-c21a-3140-a67d-1e8bbb3a235c:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
+    team: '1'
 Admins:
   ff: 'false'
   password: Admin
   memberlist:
   - 00165dc4-ac24-3713-af5f-2b9e886ad18c
+VIVA_LA_REVOLUTION:
+  ff: 'false'
+  password: LongShlongSquad
+  memberlist:
+  - 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+'1':
+  ff: 'false'
+  password: lol.bruh
+  memberlist:
+  - 83949d3a-ab99-3644-a8c0-43977ec748c0
+  - 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
