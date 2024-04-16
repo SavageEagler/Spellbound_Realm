@@ -1,157 +1,145 @@
-[18:23:53] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[18:23:53] [Server thread/INFO]: Loading properties
-[18:23:53] [Server thread/INFO]: Default game type: SURVIVAL
-[18:23:53] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[18:23:54] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
-[18:23:54] [Server thread/WARN]: Couldn't load server icon
-java.lang.IllegalArgumentException: Must be 64 pixels high
-	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadServerIcon0(CraftServer.java:1742) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadServerIcon0(CraftServer.java:1729) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadIcon(CraftServer.java:777) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.<init>(CraftServer.java:251) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.PlayerList.<init>(PlayerList.java:71) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:14) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:176) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[18:23:54] [Server thread/INFO]: Debug logging is disabled
-[18:23:54] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[18:23:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:33:46] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[19:33:46] [Server thread/INFO]: Loading properties
+[19:33:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:33:47] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[19:33:47] [Server thread/INFO]: Debug logging is disabled
+[19:33:47] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[19:33:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[18:23:54] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:23:54] [Server thread/INFO]: Data value allowed items: 
-[18:23:54] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+[19:33:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:33:47] [Server thread/INFO]: Data value allowed items: 
+[19:33:47] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
 
-[18:23:54] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[19:33:47] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
 
-[18:23:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+[19:33:47] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
 
-[18:23:54] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[19:33:47] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 
-[18:23:54] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[19:33:47] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 
-[18:23:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+[19:33:47] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
 
-[18:23:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+[19:33:47] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
 
-[18:23:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+[19:33:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
 
-[18:23:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[19:33:47] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
 
-[18:23:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[19:33:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[18:23:54] [Server thread/INFO]: Generating keypair
-[18:23:54] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[18:23:54] [Server thread/INFO]: Using default channel type
-[18:23:54] [Server thread/ERROR]: Ambiguous plugin name `EaglerPluginInstaller' for files `plugins/EaglerPluginInstaller.jar' and `plugins/EaglerPluginInstaller-1.1.5.jar' in `plugins'
-[18:23:54] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[18:23:54] [Server thread/INFO]: [Colors] Properties loaded.
+[19:33:47] [Server thread/INFO]: Generating keypair
+[19:33:47] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[19:33:47] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[19:33:47] [Server thread/INFO]: Using default channel type
+[19:33:47] [Server thread/ERROR]: Ambiguous plugin name `EaglerPluginInstaller' for files `plugins/EaglerPluginInstaller.jar' and `plugins/EaglerPluginInstaller-1.1.5.jar' in `plugins'
+[19:33:47] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[19:33:47] [Server thread/INFO]: [Colors] Properties loaded.
 
-[18:23:55] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
-[18:23:55] [Server thread/INFO]: [[EaglerPluginInstaller]] Loading EaglerPluginInstaller v1.1.4
-[18:23:55] [Server thread/INFO]: [MyWarp] Loading MyWarp v2.6.1
-[18:23:55] [Server thread/INFO]: [RealisticBackpacks] Loading RealisticBackpacks v1.3
-[18:23:55] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[18:23:55] [Server thread/INFO]: [MagicSpellBook] Loading MagicSpellBook v0.3
-[18:23:55] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
-[18:23:55] [Server thread/INFO]: [Colors] Loading Colors v2.0.4
-[18:23:55] [Server thread/INFO]: [AnvilColors] Loading AnvilColors v1.3.1
-[18:23:55] [Server thread/INFO]: [[EaglerPluginUpdater]] Loading EaglerPluginUpdater v1.1.2
-[18:23:55] [Server thread/INFO]: [MagicSpells] Loading MagicSpells v2.15
-[18:23:55] [Server thread/INFO]: [McTeams] Loading McTeams v1.6.1
-[18:23:55] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
-[18:23:56] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
-[18:23:56] [Server thread/INFO]: [MobArena] Loading MobArena v0.94.4.98
-[18:23:56] [Server thread/INFO]: [CraftBook] Loading CraftBook v2372-beaf82e
-[18:23:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
-[18:23:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:23:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:23:56] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[18:23:56] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[18:23:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:23:56] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[18:23:56] [Server thread/INFO]: Preparing level "world"
-[18:23:56] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:23:56] [Server thread/INFO]: Mob Spawn Range: 4
-[18:23:56] [Server thread/INFO]: Anti X-Ray: true
-[18:23:56] [Server thread/INFO]: 	Engine Mode: 1
-[18:23:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:23:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:23:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:23:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:23:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:23:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:23:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:23:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:23:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:23:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:23:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:23:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:23:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:23:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:23:56] [Server thread/INFO]: Random Lighting Updates: false
-[18:23:56] [Server thread/INFO]: Structure Info Saving: true
-[18:23:56] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:23:56] [Server thread/INFO]: Max Entity Collisions: 8
-[18:23:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:23:56] [Server thread/INFO]: Max TNT Explosions: 100
-[18:23:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:23:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:23:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:23:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:23:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:23:56] [Server thread/INFO]: View Distance: 4
-[18:23:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:23:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:23:56] [Server thread/INFO]: Clear tick list: false
-[18:23:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:23:56] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:23:56] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[18:23:56] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[18:23:56] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[18:23:56] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[18:23:56] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[18:23:56] [Server thread/INFO]: Water over lava flow speed: 5
-[18:23:56] [Server thread/INFO]: Fix TNT cannons: false
-[18:23:56] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[18:23:56] [Server thread/INFO]: Keep spawn chunk loaded: true
-[18:23:56] [Server thread/INFO]: World async lighting: false
-[18:23:56] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[18:23:56] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[18:23:56] [Server thread/INFO]: Preparing start region for level 0 (Seed: 24877956)
-[18:23:57] [Server thread/INFO]: Preparing spawn area: 51%
-[18:23:57] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
-[18:23:57] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[19:33:47] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[19:33:47] [Server thread/INFO]: [[EaglerPluginInstaller]] Loading EaglerPluginInstaller v1.1.4
+[19:33:47] [Server thread/INFO]: [MyWarp] Loading MyWarp v2.6.1
+[19:33:47] [Server thread/INFO]: [RealisticBackpacks] Loading RealisticBackpacks v1.3
+[19:33:47] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[19:33:47] [Server thread/INFO]: [MagicSpellBook] Loading MagicSpellBook v0.3
+[19:33:47] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[19:33:47] [Server thread/INFO]: [Colors] Loading Colors v2.0.4
+[19:33:47] [Server thread/INFO]: [AnvilColors] Loading AnvilColors v1.3.1
+[19:33:47] [Server thread/INFO]: [[EaglerPluginUpdater]] Loading EaglerPluginUpdater v1.1.2
+[19:33:47] [Server thread/INFO]: [MagicSpells] Loading MagicSpells v2.15
+[19:33:47] [Server thread/INFO]: [McTeams] Loading McTeams v1.6.1
+[19:33:47] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
+[19:33:49] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[19:33:49] [Server thread/INFO]: [MobArena] Loading MobArena v0.94.4.98
+[19:33:49] [Server thread/INFO]: [CraftBook] Loading CraftBook v2372-beaf82e
+[19:33:49] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[19:33:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:33:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:33:49] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[19:33:49] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[19:33:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:33:49] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:33:49] [Server thread/INFO]: Preparing level "world"
+[19:33:49] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:33:49] [Server thread/INFO]: Mob Spawn Range: 4
+[19:33:49] [Server thread/INFO]: Anti X-Ray: true
+[19:33:49] [Server thread/INFO]: 	Engine Mode: 1
+[19:33:49] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:33:49] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:33:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:33:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:33:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:33:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:33:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:33:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:33:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:33:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:33:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:33:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:33:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:33:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:33:49] [Server thread/INFO]: Random Lighting Updates: false
+[19:33:49] [Server thread/INFO]: Structure Info Saving: true
+[19:33:49] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:33:49] [Server thread/INFO]: Max Entity Collisions: 8
+[19:33:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:33:49] [Server thread/INFO]: Max TNT Explosions: 100
+[19:33:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:33:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:33:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:33:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:33:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:33:49] [Server thread/INFO]: View Distance: 4
+[19:33:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:33:49] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:33:49] [Server thread/INFO]: Clear tick list: false
+[19:33:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:33:49] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:33:49] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[19:33:49] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[19:33:49] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[19:33:49] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[19:33:49] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[19:33:49] [Server thread/INFO]: Water over lava flow speed: 5
+[19:33:49] [Server thread/INFO]: Fix TNT cannons: false
+[19:33:49] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[19:33:49] [Server thread/INFO]: Keep spawn chunk loaded: true
+[19:33:49] [Server thread/INFO]: World async lighting: false
+[19:33:49] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[19:33:49] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[19:33:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: 24877956)
+[19:33:50] [Server thread/INFO]: Preparing spawn area: 44%
+[19:33:51] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
+[19:33:51] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
 
-[18:23:57] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
+[19:33:51] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
 
-[18:23:57] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[18:23:57] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
-[18:23:57] [Server thread/INFO]: Check 1 passed
+[19:33:51] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[19:33:51] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
+[19:33:51] [Server thread/INFO]: Check 1 passed
 
-[18:23:58] [Server thread/INFO]: Check 3 passed
+[19:33:51] [Server thread/INFO]: Check 3 passed
 
-[18:23:58] [Server thread/INFO]: --------------------------------------------[m
+[19:33:51] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:58] [Server thread/INFO]: --------------------------------------------[m
+[19:33:51] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:58] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
+[19:33:51] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
 
-[18:23:58] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
+[19:33:51] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
 
-[18:23:58] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
+[19:33:51] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
 
-[18:23:58] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
+[19:33:51] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
 
-[18:23:58] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
+[19:33:51] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
 
-[18:23:58] [Server thread/INFO]: --------------------------------------------[m
+[19:33:51] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:58] [Server thread/INFO]: --------------------------------------------[m
+[19:33:51] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:58] [Server thread/INFO]: [MyWarp] Enabling MyWarp v2.6.1
-[18:23:58] [Server thread/ERROR]: [MyWarp] Failed to create default config.yml , using build-in defaults: 
+[19:33:51] [Server thread/INFO]: [MyWarp] Enabling MyWarp v2.6.1
+[19:33:51] [Server thread/ERROR]: [MyWarp] Failed to create default config.yml , using build-in defaults: 
 java.io.FileNotFoundException: plugins/MyWarp/config.yml (Is a directory)
 	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
 	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
@@ -172,266 +160,863 @@ java.io.FileNotFoundException: plugins/MyWarp/config.yml (Is a directory)
 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[18:23:58] [Server thread/INFO]: [MyWarp] No supported permissions plugin found, using Superperms fallback for group support
-[18:23:58] [Server thread/INFO]: [MyWarp] 3 warps loaded
-[18:23:58] [Server thread/INFO]: [MyWarp] Using localization: en_US
-[18:23:58] [Server thread/INFO]: [RealisticBackpacks] Enabling RealisticBackpacks v1.3
-[18:23:58] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
-[18:23:58] [Server thread/ERROR]: [RealisticBackpacks] This version of craftbukkit is not supported, please contact the developer stating this version: v1_8_R3
-[18:23:58] [Server thread/ERROR]: [RealisticBackpacks] RealisticBackpacks will now disable.
-[18:23:58] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
-[18:23:58] [Server thread/INFO]: [RealisticBackpacks] Realistic Backpacks has been disabled.
-[18:23:59] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[18:23:59] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[18:23:59] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[18:23:59] [Server thread/INFO]: [MagicSpellBook] Enabling MagicSpellBook v0.3
-[18:23:59] [Server thread/INFO]: Plugin Metrics loaded!
-[18:23:59] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
-[18:23:59] [Server thread/INFO]: [Colors] Enabling Colors v2.0.4
-[18:23:59] [Server thread/INFO]: [Colors] Not hooked into any permissions plugin. Using defaults.
+[19:33:52] [Server thread/INFO]: [MyWarp] No supported permissions plugin found, using Superperms fallback for group support
+[19:33:52] [Server thread/INFO]: [MyWarp] 3 warps loaded
+[19:33:52] [Server thread/INFO]: [MyWarp] Using localization: en_US
+[19:33:52] [Server thread/INFO]: [RealisticBackpacks] Enabling RealisticBackpacks v1.3
+[19:33:52] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
+[19:33:52] [Server thread/ERROR]: [RealisticBackpacks] This version of craftbukkit is not supported, please contact the developer stating this version: v1_8_R3
+[19:33:52] [Server thread/ERROR]: [RealisticBackpacks] RealisticBackpacks will now disable.
+[19:33:52] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
+[19:33:52] [Server thread/INFO]: [RealisticBackpacks] Realistic Backpacks has been disabled.
+[19:33:52] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[19:33:52] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:33:52] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[19:33:52] [Server thread/INFO]: [MagicSpellBook] Enabling MagicSpellBook v0.3
+[19:33:52] [Server thread/INFO]: Plugin Metrics loaded!
+[19:33:52] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[19:33:52] [Server thread/INFO]: [Colors] Enabling Colors v2.0.4
+[19:33:52] [Server thread/INFO]: [Colors] Not hooked into any permissions plugin. Using defaults.
 
-[18:23:59] [Server thread/INFO]: [Colors] (Hint) install Vault if your permissions plugin was not detected.
+[19:33:52] [Server thread/INFO]: [Colors] (Hint) install Vault if your permissions plugin was not detected.
 
-[18:23:59] [Server thread/INFO]: [AnvilColors] Enabling AnvilColors v1.3.1
-[18:23:59] [Server thread/INFO]: [[EaglerPluginUpdater]] Enabling EaglerPluginUpdater v1.1.2
-[18:23:59] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: [AnvilColors] Enabling AnvilColors v1.3.1
+[19:33:52] [Server thread/INFO]: [[EaglerPluginUpdater]] Enabling EaglerPluginUpdater v1.1.2
+[19:33:52] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m PluginInstaller V1.1.5 is now Disabled! D:[m
+[19:33:52] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m PluginInstaller V1.1.5 is now Disabled! D:[m
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
-[18:23:59] [Server thread/INFO]: Check 1 passed
+[19:33:52] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
+[19:33:52] [Server thread/INFO]: Check 1 passed
 
-[18:23:59] [Server thread/INFO]: Check 3 passed
+[19:33:52] [Server thread/INFO]: Check 3 passed
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
+[19:33:52] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
 
-[18:23:59] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
+[19:33:52] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
 
-[18:23:59] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
+[19:33:52] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
 
-[18:23:59] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
+[19:33:52] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
 
-[18:23:59] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
+[19:33:52] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: [0;32;1m[EaglerPluginUpdater][0;36;1m EaglerPluginUpdater V1.1.2 is now Enabled! :D[m
+[19:33:52] [Server thread/INFO]: [0;32;1m[EaglerPluginUpdater][0;36;1m EaglerPluginUpdater V1.1.2 is now Enabled! :D[m
 
-[18:23:59] [Server thread/INFO]: You do not need to do anything, this plugin will automatically update your PluginUpdater on startup[m
+[19:33:52] [Server thread/INFO]: You do not need to do anything, this plugin will automatically update your PluginUpdater on startup[m
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: --------------------------------------------[m
+[19:33:52] [Server thread/INFO]: --------------------------------------------[m
 
-[18:23:59] [Server thread/INFO]: [MagicSpells] Enabling MagicSpells v2.15
-[18:23:59] [Server thread/WARN]: [MagicSpells] This MagicSpells version is not fully compatible with this server version.
-[18:23:59] [Server thread/WARN]: [MagicSpells] Some features have been disabled.
-[18:23:59] [Server thread/WARN]: [MagicSpells] See http://nisovin.com/magicspells/volatilefeatures for more information.
-[18:23:59] [Server thread/INFO]: [MagicSpells] Spells loaded: 87
-[18:23:59] [Server thread/INFO]: [McTeams] Enabling McTeams v1.6.1
-[18:23:59] [Server thread/INFO]: [McTeams] Could not find PlaceholderAPI plugin. Those features will be unavailable.
+[19:33:52] [Server thread/INFO]: [MagicSpells] Enabling MagicSpells v2.15
+[19:33:52] [Server thread/WARN]: [MagicSpells] This MagicSpells version is not fully compatible with this server version.
+[19:33:52] [Server thread/WARN]: [MagicSpells] Some features have been disabled.
+[19:33:52] [Server thread/WARN]: [MagicSpells] See http://nisovin.com/magicspells/volatilefeatures for more information.
+[19:33:53] [Server thread/INFO]: [MagicSpells] Spells loaded: 87
+[19:33:53] [Server thread/INFO]: [McTeams] Enabling McTeams v1.6.1
+[19:33:53] [Server thread/INFO]: [McTeams] Could not find PlaceholderAPI plugin. Those features will be unavailable.
 
-[18:23:59] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[18:23:59] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[18:24:00] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[18:24:00] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[18:24:00] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[18:24:00] [Server thread/INFO]: [MobArena] Enabling MobArena v0.94.4.98
-[18:24:00] [Server thread/INFO]: [MobArena] No boss abilities found. Extracting defaults...
-[18:24:00] [Server thread/ERROR]: [MobArena] Couldn't extract the default boss abilities!
-[18:24:00] [Server thread/WARN]: [MobArena] Vault was not found. Economy rewards will not work!
-[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'default'.
-[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'default'.
-[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'default'.
-[18:24:00] [Server thread/INFO]: [MobArena] Loaded arena 'default'.
-[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'PVP'.
-[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'PVP'.
-[18:24:00] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'PVP'.
-[18:24:00] [Server thread/INFO]: [MobArena] Loaded arena 'PVP'.
-[18:24:00] [Server thread/INFO]: [MobArena] v0.94.4.98 enabled.
-[18:24:00] [Server thread/INFO]: [CraftBook] Enabling CraftBook v2372-beaf82e
-[18:24:00] [Thread-7/WARN]: [Fatal Error] :1:1: Premature end of file.
+[19:33:53] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[19:33:53] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[19:33:53] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[19:33:53] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[19:33:53] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[19:33:53] [Server thread/INFO]: [MobArena] Enabling MobArena v0.94.4.98
+[19:33:53] [Server thread/INFO]: [MobArena] No boss abilities found. Extracting defaults...
+[19:33:53] [Server thread/ERROR]: [MobArena] Couldn't extract the default boss abilities!
+[19:33:53] [Server thread/WARN]: [MobArena] Vault was not found. Economy rewards will not work!
+[19:33:53] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'default'.
+[19:33:53] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'default'.
+[19:33:53] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'default'.
+[19:33:53] [Server thread/INFO]: [MobArena] Loaded arena 'default'.
+[19:33:53] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'PVP'.
+[19:33:53] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'PVP'.
+[19:33:53] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'PVP'.
+[19:33:53] [Server thread/INFO]: [MobArena] Loaded arena 'PVP'.
+[19:33:53] [Server thread/INFO]: [MobArena] v0.94.4.98 enabled.
+[19:33:53] [Server thread/INFO]: [CraftBook] Enabling CraftBook v2372-beaf82e
+[19:33:53] [Thread-7/WARN]: [Fatal Error] :1:1: Premature end of file.
 
-[18:24:00] [Thread-7/WARN]: [MobArena] The version checker failed.
-[18:24:00] [Thread-7/WARN]: [MobArena] This is harmless, but check for updates manually!
-[18:24:00] [Thread-8/WARN]: Exception in thread "Thread-8" 
-[18:24:00] [Thread-8/WARN]: java.lang.NullPointerException: Cannot invoke "String.split(String)" because "title" is null
+[19:33:53] [Thread-7/WARN]: [MobArena] The version checker failed.
+[19:33:53] [Thread-7/WARN]: [MobArena] This is harmless, but check for updates manually!
+[19:33:53] [Thread-8/WARN]: Exception in thread "Thread-8" 
+[19:33:53] [Thread-8/WARN]: java.lang.NullPointerException: Cannot invoke "String.split(String)" because "title" is null
 
-[18:24:00] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.versionCheck(Updater.java:410)
+[19:33:53] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.versionCheck(Updater.java:410)
 
-[18:24:00] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.access$400(Updater.java:49)
+[19:33:53] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.access$400(Updater.java:49)
 
-[18:24:00] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater$UpdateRunnable.run(Updater.java:535)
+[19:33:53] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater$UpdateRunnable.run(Updater.java:535)
 
-[18:24:00] [Thread-8/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[19:33:53] [Thread-8/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[18:24:00] [Server thread/INFO]: [CraftBook] null is the latest version available, and the updatability of it is: SUCCESS. You currently have version Unknown installed.
-[18:24:00] [Server thread/INFO]: 1 cauldron recipe(s) loaded
-[18:24:00] [Server thread/INFO]: [CraftBook] Registered a new furnace recipe!
-[18:24:00] [Server thread/INFO]: [CraftBook] Registered a new shaped recipe!
-[18:24:00] [Server thread/INFO]: [CraftBook] Registered a new shapeless recipe!
-[18:24:00] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
-[18:24:00] [Server thread/WARN]: [CraftBook] Chairs require ProtocolLib! They will not function without it!
-[18:24:00] [Server thread/INFO]: [CraftBook] Added CommandItem: LightningRod
-[18:24:00] [Server thread/INFO]: [CraftBook] Enumerating chunks for self-triggered components...
-[18:24:00] [Server thread/INFO]: [CraftBook] 625 chunk(s) for 1 world(s) processed (19ms elapsed)
-[18:24:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:24:00] [Server thread/INFO]: Done (4.477s)! For help, type "help" or "?"
-[18:24:00] [Server thread/ERROR]: Couldn't load server icon
-java.lang.IllegalStateException: Must be 64 pixels high
-	at org.apache.commons.lang3.Validate.validState(Validate.java:826) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:679) ~[patched_1.8.8.jar:git-PaperSpigot-445]
-	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:569) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+[19:33:53] [Server thread/INFO]: [CraftBook] null is the latest version available, and the updatability of it is: SUCCESS. You currently have version Unknown installed.
+[19:33:53] [Server thread/INFO]: 1 cauldron recipe(s) loaded
+[19:33:53] [Server thread/INFO]: [CraftBook] Registered a new furnace recipe!
+[19:33:53] [Server thread/INFO]: [CraftBook] Registered a new shaped recipe!
+[19:33:53] [Server thread/INFO]: [CraftBook] Registered a new shapeless recipe!
+[19:33:53] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[19:33:53] [Server thread/WARN]: [CraftBook] Chairs require ProtocolLib! They will not function without it!
+[19:33:53] [Server thread/INFO]: [CraftBook] Added CommandItem: LightningRod
+[19:33:53] [Server thread/INFO]: [CraftBook] Enumerating chunks for self-triggered components...
+[19:33:53] [Server thread/INFO]: [CraftBook] 625 chunk(s) for 1 world(s) processed (21ms elapsed)
+[19:33:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:33:53] [Server thread/INFO]: Done (4.608s)! For help, type "help" or "?"
+[19:33:53] [Server thread/INFO]: Timings Reset
+[19:33:53] [Craft Scheduler Thread - 4/INFO]: [Metrics] Connection refused
+[19:33:53] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+
+[19:33:53] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+
+[19:33:53] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+
+[19:35:03] [Thread-9/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[19:35:03] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:33788] logged in with entity id 162 at ([world]386.0, 70.0, -180.0)
+[19:36:42] [Thread-10/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[19:36:42] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:40404] logged in with entity id 630 at ([world]386.0, 70.0, -180.0)
+[19:37:36] [Server thread/INFO]: <SavageEagler[0;37;1m> wanna pvp[m
+
+[19:37:46] [Server thread/INFO]: <DomoPlanet[0;37;1m> mmm[m
+
+[19:37:58] [Server thread/INFO]: <DomoPlanet[0;37;1m> i wanna work on the arena before we pvp[m
+
+[19:38:01] [Server thread/INFO]: <DomoPlanet[0;37;1m> adk teathcer[m
+
+[19:38:04] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[19:38:04] [Server thread/INFO]: DomoPlanet left the game.
+[19:38:12] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[19:38:12] [Server thread/INFO]: SavageEagler left the game.
+[19:38:19] [Thread-11/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[19:38:19] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:51074] logged in with entity id 941 at ([world]386.0, 70.0, -180.0)
+[19:38:19] [Thread-12/WARN]: [Fatal Error] :1:1: Premature end of file.
+
+[19:38:19] [Thread-12/WARN]: [MobArena] The version checker failed.
+[19:38:19] [Thread-12/WARN]: [MobArena] This is harmless, but check for updates manually!
+[19:38:25] [pool-4-thread-1/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[19:38:32] [Thread-13/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[19:38:33] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:36468] logged in with entity id 1124 at ([world]386.0, 70.0, -180.0)
+[19:38:48] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[19:38:48] [Server thread/INFO]: DomoPlanet left the game.
+[19:39:43] [Server thread/INFO]: SavageEagler_ issued server command: /tp DomoPlanet
+[19:39:43] [Server thread/INFO]: [SavageEagler_: The entity UUID provided is in an invalid format]
+[19:39:46] [Server thread/INFO]: SavageEagler_ issued server command: /tp DomoPlanet
+[19:39:46] [Server thread/INFO]: [SavageEagler_: The entity UUID provided is in an invalid format]
+[19:40:10] [Thread-15/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[19:40:10] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:35658] logged in with entity id 1239 at ([world]386.0, 70.0, -180.0)
+[19:41:16] [Server thread/INFO]: <Void[0;37;1m> lucas, is that you[m
+
+[19:41:18] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[18:24:00] [Server thread/INFO]: Timings Reset
-[18:24:00] [Craft Scheduler Thread - 4/INFO]: [Metrics] Connection refused
-[18:24:00] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:41:19] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:41:22] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:41:24] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:41:26] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:41:31] [Server thread/INFO]: <SavageEagler_[0;37;1m> nope just lucas[m
 
-[18:24:00] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+[19:41:35] [Server thread/INFO]: <Void[0;37;1m> ok[m
 
-[18:24:00] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+[19:41:51] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:41:54] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:41:56] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:41:58] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:42:02] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:42:06] [Server thread/INFO]: <Void[0;37;1m> can work on the new dungeon if you want[m
 
-[18:25:04] [Thread-9/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
-[18:25:05] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:37212] logged in with entity id 161 at ([world]386.0, 70.0, -180.0)
-[18:25:08] [Thread-10/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
-[18:25:08] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:51402] logged in with entity id 284 at ([world]386.0, 70.0, -180.0)
-[18:25:11] [Thread-11/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
-[18:25:11] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:51412] logged in with entity id 340 at ([world]386.0, 70.0, -180.0)
-[18:25:19] [Server thread/INFO]: Void lost connection: Disconnected
-[18:25:19] [Server thread/INFO]: Void left the game.
-[18:25:24] [Thread-12/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
-[18:25:24] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:36064] logged in with entity id 551 at ([world]386.0, 70.0, -180.0)
-[18:25:36] [Thread-13/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
-[18:25:36] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:50440] logged in with entity id 756 at ([world]386.0, 70.0, -180.0)
-[18:25:44] [Server thread/INFO]: Dab1080 issued server command: /tpa DomoPlanet
-[18:25:45] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
-[18:26:00] [Server thread/INFO]: DomoPlanet issued server command: /cast Dab1080 repair
-[18:26:09] [Server thread/INFO]: DomoPlanet issued server command: /cast repair Dab1080
-[18:26:15] [Server thread/INFO]: Dab1080 issued server command: /cast repair
-[18:26:19] [Server thread/INFO]: Dab1080 issued server command: /cast list
-[18:26:28] [Server thread/INFO]: DomoPlanet issued server command: /cast teach
-[18:26:35] [Server thread/INFO]: DomoPlanet issued server command: /cast teach Dab1080 repair
-[18:26:38] [Server thread/INFO]: Dab1080 issued server command: /cast repair
-[18:27:10] [Server thread/INFO]: Dab1080 issued server command: /cast blink
-[18:27:18] [Server thread/INFO]: kevinthegaint issued server command: /tpa void
-[18:27:22] [Server thread/INFO]: Void issued server command: /tpaccept
-[18:27:24] [Thread-14/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
-[18:27:24] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:54454] logged in with entity id 1291 at ([world]386.0, 70.0, -180.0)
-[18:28:01] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
-[18:28:12] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
-[18:28:17] [Server thread/INFO]: SavageEagler issued server command: /tpa Void
-[18:28:18] [Server thread/INFO]: Void issued server command: /tpaccept
-[18:28:56] [Server thread/INFO]: Void was slain by SavageEagler
-[18:29:05] [Server thread/INFO]: Void issued server command: /back
-[18:29:28] [Server thread/INFO]: Dab1080 issued server command: /cast blink
-[18:29:33] [Server thread/INFO]: SavageEagler issued server command: /cast list
-[18:29:50] [Server thread/INFO]: kevinthegaint lost connection: Disconnected
-[18:29:50] [Server thread/INFO]: kevinthegaint left the game.
-[18:30:48] [Server thread/WARN]: DomoPlanet moved wrongly!
-[18:30:49] [Server thread/INFO]: DomoPlanet issued server command: /tpa savage
-[18:31:45] [Server thread/INFO]: SavageEagler lost connection: Disconnected
-[18:31:45] [Server thread/INFO]: SavageEagler left the game.
-[18:31:53] [Server thread/INFO]: Void lost connection: Disconnected
-[18:31:53] [Server thread/INFO]: Void left the game.
-[18:32:16] [Thread-16/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
-[18:32:16] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:45562] logged in with entity id 2468 at ([world]386.0, 70.0, -180.0)
-[18:32:31] [Server thread/INFO]: SavageEagler lost connection: Disconnected
-[18:32:31] [Server thread/INFO]: SavageEagler left the game.
-[18:32:35] [Thread-17/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
-[18:32:35] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:41484] logged in with entity id 2603 at ([world]386.0, 70.0, -180.0)
-[18:33:31] [Server thread/INFO]: <Dab1080[0;37;1m> wow :D[m
+[19:42:23] [Server thread/INFO]: <SavageEagler_[0;37;1m> get on an account thats not for survival[m
 
-[18:33:39] [Server thread/INFO]: DomoPlanet issued server command: /tpa savage
-[18:33:41] [Server thread/INFO]: SavageEagler issued server command: /tpyes
-[18:34:01] [Craft Scheduler Thread - 14/INFO]: [Metrics] Connection refused
-[18:34:13] [Server thread/INFO]: DomoPlanet issued server command: /cast bind explosivearrow
-[18:34:23] [Server thread/INFO]: SavageEagler issued server command: /cast bind shadowstep
-[18:34:27] [Server thread/INFO]: DomoPlanet issued server command: /cast bind frozen
-[18:34:30] [Server thread/INFO]: SavageEagler issued server command: /cast bind explosivearrow
-[18:34:30] [Server thread/INFO]: DomoPlanet issued server command: /cast list
-[18:34:35] [Server thread/INFO]: DomoPlanet issued server command: /cast bind freeze
-[18:34:40] [Server thread/INFO]: DomoPlanet issued server command: /cast bind poison
-[18:34:48] [Server thread/INFO]: SavageEagler issued server command: /cast bind storm
-[18:34:51] [Server thread/INFO]: SavageEagler issued server command: /cast list
-[18:34:56] [Server thread/INFO]: SavageEagler issued server command: /
-[18:35:07] [Server thread/INFO]: Dab1080 issued server command: /cast blink
-[18:36:07] [Server thread/INFO]: Dab1080 issued server command: /sethome dome
-[18:36:52] [Server thread/INFO]: DomoPlanet blew up
-[18:36:56] [Server thread/INFO]: DomoPlanet issued server command: /back
-[18:36:59] [Server thread/INFO]: DomoPlanet issued server command: /
-[18:37:22] [Server thread/INFO]: DomoPlanet issued server command: /repair
-[18:37:24] [Server thread/INFO]: DomoPlanet issued server command: /cast repair
-[18:37:25] [Server thread/INFO]: SavageEagler issued server command: /cast repair
-[18:37:42] [Server thread/INFO]: SavageEagler issued server command: /cast repair
-[18:37:45] [Server thread/INFO]: DomoPlanet issued server command: /
-[18:37:52] [Server thread/INFO]: DomoPlanet issued server command: /home c
-[18:37:53] [Server thread/INFO]: Dab1080 lost connection: Disconnected
-[18:37:53] [Server thread/INFO]: Dab1080 left the game.
-[18:38:01] [Server thread/INFO]: DomoPlanet issued server command: /tpa savage
-[18:38:06] [Server thread/INFO]: SavageEagler issued server command: /tpyes
-[18:38:10] [Server thread/INFO]: SavageEagler issued server command: /sethome arena
-[18:38:13] [Server thread/INFO]: DomoPlanet issued server command: /sethome arena
-[18:38:14] [Server thread/INFO]: SavageEagler lost connection: Disconnected
-[18:38:14] [Server thread/INFO]: SavageEagler left the game.
-[18:38:15] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
-[18:38:15] [Server thread/INFO]: DomoPlanet left the game.
-[18:40:41] [Thread-18/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
-[18:40:41] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:33244] logged in with entity id 4933 at ([world]386.0, 70.0, -180.0)
-[18:40:58] [Thread-19/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
-[18:40:58] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:37156] logged in with entity id 5151 at ([world]386.0, 70.0, -180.0)
-[18:41:04] [Server thread/INFO]: DomoPlanet issued server command: /home c
-[18:41:13] [Server thread/INFO]: Dab1080 lost connection: Disconnected
-[18:41:13] [Server thread/INFO]: Dab1080 left the game.
-[18:41:17] [Thread-20/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
-[18:41:17] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:53350] logged in with entity id 5526 at ([world]386.98505268400896, 61.06144354145898, -179.014947315991)
-[18:41:32] [Server thread/WARN]: Dab1080 was kicked for floating too long!
-[18:41:32] [Server thread/INFO]: Dab1080 lost connection: Flying is not enabled on this server
-[18:41:32] [Server thread/INFO]: Dab1080 left the game.
-[18:41:32] [Server thread/WARN]: handleDisconnection() called twice
-[18:41:39] [Thread-21/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
-[18:41:39] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:50486] logged in with entity id 5721 at ([world]386.0, 70.0, -180.0)
-[18:44:01] [Craft Scheduler Thread - 22/INFO]: [Metrics] Connection refused
-[18:45:30] [Server thread/INFO]: Dab1080 issued server command: /sthome e
-[18:45:33] [Server thread/INFO]: Dab1080 issued server command: /sethome e
-[18:46:17] [Server thread/INFO]: DomoPlanet issued server command: /cast repair
-[18:50:31] [Server thread/INFO]: Dab1080 issued server command: /cast list
-[18:51:14] [Server thread/INFO]: Dab1080 issued server command: /home e
-[18:51:15] [Server thread/INFO]: DomoPlanet issued server command: /cast list
-[18:51:17] [Server thread/INFO]: Dab1080 issued server command: /tpa DomoPlanet
-[18:51:20] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
-[18:51:33] [Server thread/INFO]: DomoPlanet issued server command: /cast teach fireball
-[18:51:39] [Server thread/INFO]: DomoPlanet issued server command: /cast teach Dab1080 fireball
-[18:51:46] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
-[18:51:54] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
-[18:51:55] [Server thread/INFO]: DomoPlanet issued server command: /cast fireball
-[18:51:57] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
-[18:51:58] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
-[18:52:01] [Server thread/INFO]: DomoPlanet issued server command: /cast fireball
-[18:52:14] [Server thread/INFO]: DomoPlanet issued server command: /home a
-[18:52:21] [Server thread/INFO]: Dab1080 issued server command: /home e
-[18:52:30] [Server thread/INFO]: DomoPlanet issued server command: /home c
-[18:52:30] [Server thread/WARN]: Wrong location for EntityChicken['Chicken'/7690, l='world', x=4834.54, y=76.00, z=-3919.93] in world 'world'!
-[18:52:30] [Server thread/WARN]: Entity is at 4834.5368597664765,-3919.9279088463504 (chunk 302,-245) but was stored in chunk 302,-246
-[18:52:32] [Server thread/INFO]: Dab1080 lost connection: Disconnected
-[18:52:32] [Server thread/INFO]: Dab1080 left the game.
-[18:53:09] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
-[18:53:09] [Server thread/INFO]: DomoPlanet left the game.
-[18:54:01] [Craft Scheduler Thread - 26/INFO]: [Metrics] Connection refused
-[19:04:01] [Craft Scheduler Thread - 28/INFO]: [Metrics] Connection refused
+[19:42:32] [Server thread/INFO]: <Void[0;37;1m> ok ill make a new one[m
+
+[19:42:34] [Server thread/INFO]: <SavageEagler_[0;37;1m> lik put an underscore after ur name[m
+
+[19:42:38] [Server thread/INFO]: Void lost connection: Disconnected
+[19:42:38] [Server thread/INFO]: Void left the game.
+[19:42:46] [Thread-16/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[19:42:46] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:54284] logged in with entity id 1514 at ([world]386.0, 70.0, -180.0)
+[19:42:55] [Server thread/INFO]: Void lost connection: Disconnected
+[19:42:55] [Server thread/INFO]: Void left the game.
+[19:43:43] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:43:43] [Thread-17/INFO]: UUID of player Void_ is 93f291e4-eb19-3494-9f26-aa07a7337e46
+[19:43:43] [Server thread/INFO]: Void_[/[0:0:0:0:0:0:0:1]:50884] logged in with entity id 1573 at ([world]386.0, 70.0, -180.0)
+[19:43:43] [Craft Scheduler Thread - 17/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[19:43:43] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[19:43:44] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:43:46] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:43:48] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:43:50] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[19:43:54] [Craft Scheduler Thread - 17/INFO]: [Metrics] Connection refused
+[19:44:02] [Server thread/INFO]: SavageEagler_ issued server command: /gamemode 1 Void_
+[19:44:02] [Server thread/INFO]: [SavageEagler_: Set Void_'s game mode to Creative Mode]
+[19:44:02] [Server thread/INFO]: <Void_[0;37;1m> ok im in[m
+
+[19:44:13] [Server thread/INFO]: <SavageEagler_[0;37;1m> you should be in creative[m
+
+[19:44:18] [Server thread/INFO]: SavageEagler_ issued server command: /tp Void_
+[19:44:18] [Server thread/INFO]: [SavageEagler_: Teleported SavageEagler_ to Void_]
+[19:44:23] [Server thread/INFO]: <Void_[0;37;1m> i am[m
+
+[19:44:32] [Server thread/INFO]: <Void_[0;37;1m> where should i build it[m
+
+[19:44:42] [Server thread/INFO]: SavageEagler_ issued server command: /tp 10000 100 10000
+[19:44:42] [Server thread/INFO]: [SavageEagler_: Teleported SavageEagler_ to 10000.5, 100.0, 10000.5]
+[19:44:54] [Server thread/INFO]: Void_ has just earned the achievement [Taking Inventory]
+[19:45:00] [Server thread/INFO]: SavageEagler_ issued server command: /tp Void_ SavageEagler_
+[19:45:00] [Server thread/INFO]: [SavageEagler_: Teleported Void_ to SavageEagler_]
+[19:45:02] [Server thread/INFO]: <SavageEagler_[0;37;1m> here[m
+
+[19:45:08] [Server thread/INFO]: SavageEagler_ issued server command: //wand
+[19:45:19] [Server thread/INFO]: <SavageEagler_[0;37;1m> how are you wanting to build it[m
+
+[19:45:23] [Server thread/INFO]: <SavageEagler_[0;37;1m> underground??[m
+
+[19:45:42] [Server thread/INFO]: <Void_[0;37;1m> ok, any commands im able to use or all manuel, also im not doing a labrinth im doing a multiple[m
+
+[19:46:02] [Server thread/INFO]: <Void_[0;37;1m> choice dungeon with parkour and a maze and monster hunts[m
+
+[19:46:28] [Server thread/INFO]: <Void_[0;37;1m> like monsters surround you and you have to find a way to escape without personel armor[m
+
+[19:46:43] [Server thread/INFO]: <Void_[0;37;1m> or just maze and parkour[m
+
+[19:46:48] [Server thread/INFO]: <SavageEagler_[0;37;1m> no just do something like a maze with parkour and put spawners in there[m
+
+[19:46:58] [Server thread/INFO]: <Void_[0;37;1m> ok sounds good[m
+
+[19:47:23] [Server thread/INFO]: SavageEagler_ issued server command: //set air
+[19:47:31] [Server thread/INFO]: <Void_[0;37;1m> do i have any commands to make building easier[m
+
+[19:47:33] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[19:47:57] [Server thread/INFO]: SavageEagler_ issued server command: //set air
+[19:48:14] [Server thread/INFO]: Void_ issued server command: /cast list
+[19:48:24] [Server thread/INFO]: SavageEagler_ issued server command: //set bedrock
+[19:48:30] [Server thread/INFO]: Void_ issued server command: /help
+[19:48:31] [Server thread/INFO]: SavageEagler_ issued server command: /butcher
+[19:48:35] [Server thread/INFO]: SavageEagler_ issued server command: /butcher mobs
+[19:48:37] [Server thread/INFO]: Void_ issued server command: /3
+[19:48:38] [Server thread/INFO]: SavageEagler_ issued server command: /butcher 1
+[19:48:43] [Server thread/INFO]: SavageEagler_ issued server command: /butcher 10000
+[19:49:05] [Server thread/INFO]: <Void_[0;37;1m> where am i[m
+
+[19:49:25] [Server thread/INFO]: SavageEagler_ issued server command: //set oak_leaves
+[19:49:28] [Server thread/INFO]: SavageEagler_ issued server command: //set oak_leaves
+[19:50:01] [Server thread/INFO]: SavageEagler_ issued server command: //set oak_leaves
+[19:50:08] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:50:23] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:50:33] [Server thread/INFO]: <Void_[0;37;1m> this is probably to much space[m
+
+[19:50:42] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:50:58] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:51:14] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:51:54] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:51:59] [Thread-18/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[19:51:59] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:32808] logged in with entity id 5885 at ([world]386.0, 70.0, -180.0)
+[19:52:13] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[19:52:13] [Server thread/INFO]: DomoPlanet left the game.
+[19:52:21] [Thread-19/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+[19:52:21] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:37896] logged in with entity id 6091 at ([world]386.0, 70.0, -180.0)
+[19:52:28] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:52:33] [Server thread/INFO]: Void_ issued server command: /kill kevinthegiant
+[19:52:34] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:52:35] [Server thread/INFO]: kevinthegaint lost connection: Disconnected
+[19:52:35] [Server thread/INFO]: kevinthegaint left the game.
+[19:52:42] [Thread-20/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+[19:52:42] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:58524] logged in with entity id 6167 at ([world]386.0, 70.0, -180.0)
+[19:53:01] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:53:08] [Server thread/INFO]: Void_ issued server command: /tell savageeagle are you helping set it up lucas
+[19:53:08] [Server thread/INFO]: [Void_: That player cannot be found]
+[19:53:21] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ are you helping build it
+[19:53:29] [Server thread/INFO]: SavageEagler_ issued server command: /tell Void_ yeah
+[19:53:29] [Server thread/INFO]: kevinthegaint lost connection: Disconnected
+[19:53:29] [Server thread/INFO]: kevinthegaint left the game.
+[19:53:31] [Thread-21/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+[19:53:31] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:50250] logged in with entity id 6700 at ([world]386.0, 70.0, -180.0)
+[19:53:41] [Server thread/INFO]: SavageEagler_ issued server command: /tell Void_ i can use world edit
+[19:53:52] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ok because i didnt know what was happening
+[19:53:52] [Server thread/INFO]: [Void_: That player cannot be found]
+[19:53:54] [Craft Scheduler Thread - 22/INFO]: [Metrics] Connection refused
+[19:53:55] [Server thread/INFO]: SavageEagler_ issued server command: /tell Void_ i can use world edit
+[19:53:57] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:54:02] [Server thread/INFO]: kevinthegaint issued server command: /home e
+[19:54:09] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ ok i didnt know what was happeing
+[19:54:14] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:54:20] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:54:27] [Thread-22/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[19:54:27] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:33180] logged in with entity id 7179 at ([world]6581.442483423244, 82.0, 6273.567235279377)
+[19:54:57] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ whats harder to get through, a clear maze or one you cant see through
+[19:55:03] [Thread-23/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[19:55:03] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:52498] logged in with entity id 7316 at ([world]386.0, 70.0, -180.0)
+[19:55:12] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_there will still be blocks but invisible
+[19:55:12] [Server thread/INFO]: [Void_: That player cannot be found]
+[19:55:13] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucas put the mob lvl on normal, not easu[m
+
+[19:55:15] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucas put the mob lvl on normal, not easy[m
+
+[19:55:16] [Server thread/INFO]: SavageEagler_ issued server command: /tell one you cant see through
+[19:55:16] [Server thread/INFO]: [SavageEagler_: That player cannot be found]
+[19:55:22] [Server thread/INFO]: SavageEagler_ issued server command: /tell Void_ one you cant see through
+[19:55:30] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[19:55:34] [Server thread/WARN]: DomoPlanet moved wrongly!
+[19:55:40] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ i mean one with the blocks being invisible
+[19:55:51] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[19:56:01] [Server thread/INFO]: SavageEagler_ issued server command: //set barrier
+[19:56:06] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[19:56:07] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ i feel like it would be harder if invisible
+[19:56:14] [Server thread/INFO]: SavageEagler_ issued server command: //set barrier
+[19:56:26] [Server thread/INFO]: SavageEagler_ issued server command: //set barrier
+[19:56:52] [Server thread/INFO]: SavageEagler_ issued server command: //set barrier
+[19:56:59] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[19:57:12] [Server thread/INFO]: SavageEagler_ issued server command: /tell Void_ ill set it all to barriers after
+[19:57:34] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[19:57:42] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_like you can see the chest but if you walk towards it you are blocked until the
+[19:57:42] [Server thread/INFO]: [Void_: That player cannot be found]
+[19:57:44] [Server thread/INFO]: DomoPlanet issued server command: /
+[19:57:47] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[19:58:08] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[19:58:08] [Server thread/INFO]: maroon5 left the game.
+[19:58:08] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[19:58:08] [Server thread/INFO]: DomoPlanet left the game.
+[19:58:19] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ good, i want it invisible but the chest can be seen and its taunting you the
+[19:58:26] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ whole way
+[19:59:02] [Server thread/INFO]: SavageEagler_ issued server command: //set grass_block
+[19:59:08] [Server thread/INFO]: SavageEagler_ issued server command: //set grass block
+[19:59:11] [Server thread/INFO]: SavageEagler_ issued server command: //set grass
+[19:59:39] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ if the cealing is a barrier will mobs die
+[19:59:44] [Server thread/INFO]: SavageEagler_ issued server command: //replace grass netherrack
+[19:59:52] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:00:05] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:00:07] [Thread-24/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[20:00:07] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:59270] logged in with entity id 8827 at ([world]386.0, 70.0, -180.0)
+[20:00:12] [Server thread/INFO]: SavageEagler_ issued server command: /redo
+[20:00:18] [Server thread/INFO]: SavageEagler_ issued server command: //replace grass netherrack
+[20:00:19] [Server thread/INFO]: kevinthegaint has just earned the achievement [Time to Farm!]
+[20:00:21] [Server thread/INFO]: Void_ issued server command: /tpa maroon5
+[20:00:26] [Server thread/INFO]: maroon5 issued server command: /homes
+[20:00:31] [Server thread/INFO]: maroon5 issued server command: /home a
+[20:00:35] [Server thread/INFO]: maroon5 issued server command: /tpyes
+[20:00:41] [Server thread/INFO]: SavageEagler_ issued server command: //replace grass netherrack
+[20:00:45] [Server thread/INFO]: <maroon5[0;37;1m> what do u want[m
+
+[20:00:46] [Thread-25/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[20:00:46] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:40638] logged in with entity id 9160 at ([world]386.0, 70.0, -180.0)
+[20:00:49] [Server thread/INFO]: SavageEagler_ issued server command: //replace dirt netherrack
+[20:00:52] [Server thread/INFO]: maroon5 issued server command: /home 1
+[20:00:56] [Server thread/INFO]: SavageEagler_ issued server command: //replace stone netherrack
+[20:01:00] [Server thread/INFO]: SavageEagler_ issued server command: //replace gravel netherrack
+[20:01:20] [Server thread/INFO]: <Void_[0;37;1m> nothing[m
+
+[20:01:22] [Server thread/WARN]: DomoPlanet moved wrongly!
+[20:01:32] [Server thread/INFO]: <maroon5[0;37;1m> why were you charging me with a sword[m
+
+[20:01:42] [Server thread/INFO]: <Void_[0;37;1m> i just pulled it out[m
+
+[20:01:48] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[20:01:48] [Server thread/INFO]: DomoPlanet left the game.
+[20:01:49] [Server thread/INFO]: <maroon5[0;37;1m> uhuh[m
+
+[20:01:58] [Server thread/INFO]: <Void_[0;37;1m> do you want it[m
+
+[20:02:00] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[20:02:00] [Server thread/INFO]: maroon5 left the game.
+[20:02:06] [Server thread/INFO]: <Void_[0;37;1m> nvm[m
+
+[20:02:11] [Server thread/INFO]: Void_ issued server command: /tpa SavageEagler_
+[20:02:39] [Thread-26/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[20:02:39] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:54246] logged in with entity id 9802 at ([world]386.0, 70.0, -180.0)
+[20:02:41] [Server thread/INFO]: Void_ issued server command: /tpa SavageEagler_
+[20:02:50] [Server thread/INFO]: Void_ issued server command: /tpa DomoPlanet
+[20:02:54] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucas, restart the server now, so i can get on after school[m
+
+[20:03:00] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[20:03:01] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[20:03:08] [Server thread/INFO]: SavageEagler_ issued server command: //replace barrier obsidian
+[20:03:27] [Server thread/INFO]: SavageEagler_ issued server command: //copy
+[20:03:33] [Thread-27/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[20:03:33] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:38510] logged in with entity id 10628 at ([world]386.0, 70.0, -180.0)
+[20:03:41] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:03:45] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:03:50] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:03:53] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:03:55] [Craft Scheduler Thread - 29/INFO]: [Metrics] Connection refused
+[20:03:58] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:04:09] [Server thread/INFO]: Void_ issued server command: /tell DomoPlanet shh
+[20:04:15] [Server thread/INFO]: SavageEagler_ issued server command: //set air
+[20:04:19] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:04:25] [Server thread/INFO]: SavageEagler_ issued server command: //set air
+[20:04:26] [Server thread/INFO]: DomoPlanet issued server command: /tell void_ i will
+[20:04:40] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:04:50] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:04:51] [Server thread/INFO]: DomoPlanet issued server command: /tell void wait
+[20:04:51] [Server thread/INFO]: [DomoPlanet: That player cannot be found]
+[20:05:03] [Server thread/INFO]: maroon5 issued server command: /home 1
+[20:05:07] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:05:14] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:05:17] [Server thread/INFO]: DomoPlanet issued server command: /tell void_ bedrock, food, and idk
+[20:05:19] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:05:21] [Server thread/INFO]: SavageEagler_ issued server command: /redo
+[20:05:24] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:05:28] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:05:32] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:05:36] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:05:43] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:05:46] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:05:47] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:05:50] [Server thread/INFO]: SavageEagler_ issued server command: /redo
+[20:05:52] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:06:09] [Server thread/INFO]: SavageEagler_ issued server command: //copy
+[20:06:11] [Server thread/INFO]: Void_ issued server command: /tell DomoPlanet keep it in ender chest
+[20:06:12] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:06:16] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:06:20] [Server thread/INFO]: DomoPlanet issued server command: /tell void_ i have secret area
+[20:06:21] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:06:27] [Server thread/INFO]: Void_ issued server command: /tell DomoPlanet viva le revoulution
+[20:06:34] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[20:06:37] [Server thread/INFO]: Void_ issued server command: /tpa SavageEagler_
+[20:06:39] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[20:06:41] [Server thread/INFO]: SavageEagler_ issued server command: /tpyes
+[20:06:44] [Server thread/INFO]: DomoPlanet issued server command: /tell void_ viva le revolution
+[20:06:47] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:06:50] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:06:53] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:06:56] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:07:00] [Server thread/INFO]: DomoPlanet issued server command: /tell void_ how did you get it
+[20:07:07] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[20:07:09] [Server thread/INFO]: Void_ issued server command: /tell DomoPlanet what
+[20:07:44] [Server thread/INFO]: <Void_[0;37;1m> ill handle the mobs lucas, just build[m
+
+[20:07:57] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:08:14] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:08:19] [Server thread/INFO]: DomoPlanet issued server command: /msg void_ YOU CAN PUT ALL THOSE PROTECTION BOOKS ON THE SAME ARMOUR
+[20:08:23] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:08:26] [Server thread/INFO]: DomoPlanet issued server command: /TELL void_ YOU CAN PUT ALL THOSE PROTECTION BOOKS ON THE SAME ARMOUR
+[20:08:50] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[20:08:59] [Server thread/INFO]: Void_ issued server command: /tell DomoPlanet i know, its for different people not all just you
+[20:09:09] [Server thread/INFO]: DomoPlanet issued server command: /msg void_ oh
+[20:09:13] [Server thread/INFO]: SavageEagler_ issued server command: //copy
+[20:09:13] [Server thread/INFO]: DomoPlanet issued server command: /tell void_ k
+[20:09:20] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:09:32] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[20:09:40] [Server thread/INFO]: maroon5 issued server command: /home 1
+[20:10:01] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:10:04] [Server thread/INFO]: SavageEagler_ issued server command: /undo
+[20:10:09] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:10:19] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:10:22] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:10:27] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:10:31] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:10:37] [Server thread/INFO]: SavageEagler_ issued server command: //paste
+[20:10:42] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ set the floor to barrier to, so people think its impossible
+[20:10:47] [Server thread/INFO]: DomoPlanet issued server command: /msg void_ grab A LOT of enchanting bottles
+[20:10:52] [Server thread/INFO]: DomoPlanet issued server command: /tell void_ grab A LOT of enchanting bottles
+[20:11:32] [Server thread/INFO]: Void_ lost connection: Disconnected
+[20:11:32] [Server thread/INFO]: Void_ left the game.
+[20:11:36] [Server thread/INFO]: SavageEagler_ issued server command: //replace obsidian barrier
+[20:11:42] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[20:11:49] [Server thread/INFO]: SavageEagler_ issued server command: /give SavageEagler_ barrir
+[20:11:49] [Server thread/INFO]: [SavageEagler_: There is no such item with name minecraft:barrir]
+[20:11:53] [Server thread/INFO]: SavageEagler_ issued server command: /give SavageEagler_ barreir
+[20:11:53] [Server thread/INFO]: [SavageEagler_: There is no such item with name minecraft:barreir]
+[20:11:56] [Server thread/INFO]: SavageEagler_ issued server command: /give SavageEagler_ barrier
+[20:11:56] [Server thread/INFO]: [SavageEagler_: Given [Barrier] * 1 to SavageEagler_]
+[20:12:10] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
+[20:12:10] [Server thread/INFO]: SavageEagler_ left the game.
