@@ -1,5 +1,6 @@
 bind
 explosivearrow:352
+food
 help
 list
 reach

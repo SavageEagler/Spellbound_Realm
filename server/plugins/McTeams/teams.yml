@@ -1,0 +1,39 @@
+players:
+  6d9f24ad-89a5-31f6-ac89-cfd65aa7827b:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
+  a8b75ddd-a143-324b-a193-53bc7b022c78:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
+  00165dc4-ac24-3713-af5f-2b9e886ad18c:
+    teammanager: 'true'
+    teamchat: 'false'
+    chatspy: 'false'
+    team: Admins
+  29e7477b-5ec1-3ad0-9395-b1a1f26d57e2:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
+  321c7be9-79b4-3dd7-b22f-a9fefc3e081b:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
+  0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
+  8ec9b087-692d-3391-ae9e-e27996178c32:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
+  83949d3a-ab99-3644-a8c0-43977ec748c0:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
+Admins:
+  ff: 'false'
+  password: Admin
+  memberlist:
+  - 00165dc4-ac24-3713-af5f-2b9e886ad18c

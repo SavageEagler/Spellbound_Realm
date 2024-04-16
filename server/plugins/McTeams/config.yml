@@ -1,0 +1,7 @@
+team-prefix-enabled: 'false'
+team-prefix: '&9%team%'
+player-max: '-1'
+primary-color: '&3'
+secondary-color: '&7'
+manager-color: '&3'
+permissions-required: 'false'
