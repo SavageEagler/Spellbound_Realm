@@ -1,6 +1,7 @@
 bind
 explosivearrow:352
-food
+food:320
 help
 list
 reach
+teach

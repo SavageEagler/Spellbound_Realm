@@ -1,6 +1,13 @@
 bind
+blink
 confusion:-1,280
+disarm:287,262
+explosivearrow:262
+firenova:259,50
 help
 list
+reach:280
 shadowstep:143,276:1,276:2,267:1,280
+storm:154
+teach
 unbind

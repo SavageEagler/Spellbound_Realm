@@ -293,3 +293,2275 @@ java.io.FileNotFoundException: plugins/MyWarp/config.yml (Is a directory)
 
 [12:39:20] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 5.2.0 (Running 5.1.0). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
 
+[12:41:26] [Thread-10/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[12:41:27] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:43032] logged in with entity id 172 at ([world]386.0, 70.0, -180.0)
+[12:44:33] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[12:44:37] [Thread-12/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[12:44:37] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:49074] logged in with entity id 877 at ([world]386.0, 70.0, -180.0)
+[12:45:09] [Server thread/INFO]: maroon5 issued server command: /cast unbind
+[12:45:11] [Server thread/INFO]: DomoPlanet issued server command: /cast teach maroon5 unbind
+[12:45:26] [Server thread/INFO]: DomoPlanet issued server command: /cast fireball
+[12:45:46] [Server thread/INFO]: DomoPlanet issued server command: /
+[12:45:50] [Server thread/INFO]: DomoPlanet issued server command: /cast shadowtep
+[12:45:57] [Server thread/INFO]: DomoPlanet issued server command: /cast shadowstep
+[12:46:02] [Server thread/INFO]: DomoPlanet issued server command: /cast firenova
+[12:46:30] [Server thread/INFO]: You have taught maroon5 the unbind spell.[m
+
+[12:46:36] [Server thread/INFO]: You have taught DomoPlanet the unbind spell.[m
+
+[12:46:49] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[12:46:49] [Server thread/INFO]: maroon5 left the game.
+[12:46:51] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[12:46:51] [Server thread/INFO]: DomoPlanet left the game.
+[12:47:14] [Thread-13/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[12:47:14] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:59616] logged in with entity id 1060 at ([world]386.0, 70.0, -180.0)
+[12:48:23] [Thread-14/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[12:48:23] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:45570] logged in with entity id 1403 at ([world]386.0, 70.0, -180.0)
+[12:48:37] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[12:48:37] [Server thread/INFO]: DomoPlanet left the game.
+[12:48:44] [Server thread/INFO]: <Dab1080[0;37;1m> hello greggory[m
+
+[12:49:20] [Craft Scheduler Thread - 14/INFO]: [Metrics] Connection refused
+[12:49:31] [Thread-15/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+[12:49:31] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:42076] logged in with entity id 1973 at ([world]386.0, 70.0, -180.0)
+[12:50:17] [Server thread/INFO]: <Dab1080[0;37;1m> hello kevin[m
+
+[12:51:31] [Thread-16/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[12:51:31] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:34582] logged in with entity id 2759 at ([world]386.0, 70.0, -180.0)
+[12:51:33] [Thread-17/INFO]: UUID of player Dweeb373 is a8b75ddd-a143-324b-a193-53bc7b022c78
+[12:51:33] [Server thread/INFO]: Dweeb373[/[0:0:0:0:0:0:0:1]:34584] logged in with entity id 2991 at ([world]386.0, 70.0, -180.0)
+[12:52:04] [Server thread/INFO]: Dweeb373 issued server command: /sethome d
+[12:52:12] [Server thread/INFO]: Dweeb373 issued server command: /tpa DomoPlanet
+[12:52:15] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[12:52:24] [Server thread/INFO]: Dweeb373 issued server command: /sethome d
+[12:52:27] [Thread-18/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[12:52:27] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:36664] logged in with entity id 3505 at ([world]386.0, 70.0, -180.0)
+[12:52:34] [Server thread/INFO]: DomoPlanet issued server command: /cast cipple
+[12:52:36] [Server thread/INFO]: Dweeb373 issued server command: /home a
+[12:52:38] [Server thread/INFO]: DomoPlanet issued server command: /
+[12:52:42] [Server thread/INFO]: Dweeb373 issued server command: /home d
+[12:52:50] [Server thread/INFO]: DomoPlanet issued server command: /
+[12:52:54] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[12:52:55] [Server thread/INFO]: <Dweeb373[0;37;1m> I almost suffacted again[m
+
+[12:52:57] [Server thread/INFO]: DomoPlanet issued server command: /cast firenova
+[12:52:59] [Server thread/INFO]: <Dab1080[0;37;1m> pog[m
+
+[12:53:03] [Server thread/INFO]: Dweeb373 issued server command: /ome b
+[12:53:07] [Server thread/INFO]: SavageEagler issued server command: /tpa DomoPlanet
+[12:53:09] [Server thread/INFO]: <DomoPlanet[0;37;1m> we teaming[m
+
+[12:53:09] [Server thread/INFO]: Dweeb373 issued server command: /home b
+[12:53:13] [Server thread/INFO]: Dweeb373 suffocated in a wall
+[12:53:16] [Server thread/INFO]: <DomoPlanet[0;37;1m> weteamingdweeb[m
+
+[12:53:17] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[12:53:21] [Server thread/INFO]: SavageEagler issued server command: /tpa DomoPlanet
+[12:53:24] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[12:53:27] [Server thread/INFO]: Dweeb373 issued server command: /back
+[12:53:31] [Server thread/INFO]: Dweeb373 tried to swim in lava
+[12:53:49] [Server thread/INFO]: <Dweeb373[0;37;1m> why does my teleport keep changing[m
+
+[12:53:56] [Server thread/INFO]: <DomoPlanet[0;37;1m> wdym[m
+
+[12:53:56] [Server thread/INFO]: <Dweeb373[0;37;1m> this some bs[m
+
+[12:53:56] [Server thread/INFO]: SavageEagler issued server command: /tell DomoPlanet I have more enchants to add to the extra god sets
+[12:54:08] [Server thread/INFO]: SavageEagler issued server command: /tell DomoPlanet drop them to me rq
+[12:54:13] [Server thread/INFO]: <DomoPlanet[0;37;1m> nice, also could i finally get a sword that everyone else has[m
+
+[12:54:21] [Server thread/INFO]: <Dab1080[0;37;1m> nah[m
+
+[12:54:33] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler mb
+[12:54:38] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler what are the enchants
+[12:54:44] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler ?????????
+[12:54:56] [Server thread/INFO]: SavageEagler issued server command: /tell DomoPlanet respiration III to all the pieces
+[12:55:23] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler i have resperation 3 already
+[12:55:30] [Server thread/INFO]: Dweeb373 issued server command: /home a
+[12:55:42] [Server thread/INFO]: SavageEagler issued server command: /tell DomoPlanet not on al the pieces
+[12:56:14] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler it doens't boost resperation does it?
+[12:56:27] [Server thread/INFO]: SavageEagler issued server command: /tell DomoPlanet yeah gtg brb
+[12:56:30] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[12:56:30] [Server thread/INFO]: SavageEagler left the game.
+[12:56:41] [Server thread/INFO]: Dweeb373 issued server command: /tell DomoPlanet what happned was that my home teleported me to the lavapool beneath my base
+[12:56:49] [Thread-19/INFO]: UUID of player Ender_Assassin is e37d0331-1f34-341c-9a6b-d3db340fc0c6
+[12:56:49] [Server thread/INFO]: Ender_Assassin[/[0:0:0:0:0:0:0:1]:55116] logged in with entity id 5197 at ([world]386.0, 70.0, -180.0)
+[12:56:54] [Server thread/INFO]: DomoPlanet issued server command: /tell Dweeb373 you tped awya
+[12:57:01] [Thread-20/INFO]: UUID of player Void_ is 93f291e4-eb19-3494-9f26-aa07a7337e46
+[12:57:01] [Server thread/INFO]: Void_[/[0:0:0:0:0:0:0:1]:35908] logged in with entity id 5340 at ([world]9928.21627654413, 64.0, 10007.360312117948)
+[12:57:04] [Server thread/INFO]: DomoPlanet issued server command: /tell Dweeb373 you tped away, i was just messing with you
+[12:57:20] [Server thread/INFO]: DomoPlanet issued server command: /tell Dweeb373 i was gonna put a water bucket down
+[12:57:32] [Server thread/INFO]: Dweeb373 issued server command: /tell DomoPlanet sure you were
+[12:57:32] [Server thread/INFO]: Void_ lost connection: Login timed out!
+[12:57:32] [Server thread/INFO]: Void_ left the game.
+[12:57:32] [Server thread/WARN]: handleDisconnection() called twice
+[12:57:35] [Thread-21/INFO]: UUID of player Void_ is 93f291e4-eb19-3494-9f26-aa07a7337e46
+[12:57:35] [Server thread/INFO]: Void_[/[0:0:0:0:0:0:0:1]:50254] logged in with entity id 5615 at ([world]9928.21627654413, 64.0, 10007.360312117948)
+[12:57:42] [Server thread/INFO]: Dweeb373 issued server command: /home c
+[12:57:47] [Server thread/INFO]: kevinthegaint lost connection: Disconnected
+[12:57:47] [Server thread/INFO]: kevinthegaint left the game.
+[12:58:05] [Server thread/INFO]: DomoPlanet issued server command: /tell Dweeb373 we have a contract, bugs in the game are out of my control
+[12:58:06] [Server thread/INFO]: Void_ lost connection: Login timed out!
+[12:58:06] [Server thread/INFO]: Void_ left the game.
+[12:58:06] [Server thread/WARN]: handleDisconnection() called twice
+[12:58:10] [Thread-22/INFO]: UUID of player Void_ is 93f291e4-eb19-3494-9f26-aa07a7337e46
+[12:58:10] [Server thread/INFO]: Void_[/[0:0:0:0:0:0:0:1]:42504] logged in with entity id 5853 at ([world]9928.21627654413, 64.0, 10007.360312117948)
+[12:58:21] [Server thread/INFO]: Dweeb373 issued server command: /home a
+[12:58:26] [Server thread/INFO]: Dweeb373 issued server command: /home a
+[12:58:49] [Server thread/INFO]: Dweeb373 issued server command: /Tell DomoPlanet I know what happened now
+[12:59:05] [Server thread/INFO]: DomoPlanet issued server command: /tell Dweeb373 ?
+[12:59:10] [Server thread/INFO]: Ender_Assassin has just earned the achievement [Enchanter]
+[12:59:18] [Server thread/INFO]: <Dweeb373[0;37;1m> my log is wierd now[m
+
+[12:59:20] [Craft Scheduler Thread - 29/INFO]: [Metrics] Connection refused
+[12:59:29] [Server thread/INFO]: Dweeb373 issued server command: /worldedit
+[12:59:31] [Server thread/INFO]: <Dab1080[0;37;1m> nice[m
+
+[12:59:37] [Server thread/INFO]: Ender_Assassin issued server command: /cast reach
+[12:59:55] [Server thread/INFO]: Dweeb373 issued server command: /worldedit tz
+[13:00:10] [Server thread/INFO]: Dweeb373 issued server command: /worldedit tz 12:00
+[13:00:36] [Server thread/INFO]: Dweeb373 issued server command: /worldedit version
+[13:00:39] [Server thread/INFO]: <Void_[0;37;1m> whos changing day and night like that[m
+
+[13:00:48] [Server thread/INFO]: <DomoPlanet[0;37;1m> wdym[m
+
+[13:00:54] [Server thread/INFO]: <DomoPlanet[0;37;1m> it's been dark[m
+
+[13:01:06] [Server thread/INFO]: <Void_[0;37;1m> on my screen day and night kept flashing[m
+
+[13:01:20] [Server thread/INFO]: Dweeb373 issued server command: /home c
+[13:01:28] [Server thread/INFO]: DomoPlanet issued server command: /cast repair
+[13:01:31] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[13:01:33] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[13:01:37] [Server thread/INFO]: DomoPlanet issued server command: /homes
+[13:01:38] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[13:01:43] [Server thread/INFO]: Dweeb373 issued server command: /wolrdedit tz 11:00
+[13:01:48] [Server thread/WARN]: DomoPlanet moved wrongly!
+[13:02:01] [Server thread/INFO]: Dweeb373 issued server command: /worldedit tz 11:00
+[13:02:44] [Server thread/INFO]: Dweeb373 issued server command: /WORLDEDIT_CUI: Bukkit-Offical
+[13:03:03] [Server thread/INFO]: Dweeb373 issued server command: /schematic
+[13:03:35] [Server thread/INFO]: Dweeb373 issued server command: /craftbooks:st
+[13:03:54] [Server thread/INFO]: Dweeb373 issued server command: /craftbook:commanditem
+[13:04:09] [Server thread/INFO]: Dweeb373 issued server command: /comitems diamond
+[13:04:15] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Explosion.a(Explosion.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.createExplosion(World.java:1916) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.createExplosion(WorldServer.java:1053) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityCreeper.cr(EntityCreeper.java:216) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityCreeper.t_(EntityCreeper.java:103) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 23 more
+[13:04:15] [Server thread/INFO]: Dweeb373 was blown up by Creeper
+[13:04:28] [Server thread/INFO]: <Dweeb373[0;37;1m> i should pay more attention[m
+
+[13:04:49] [Server thread/INFO]: Dweeb373 issued server command: /tell DomoPlanet press slash then tab
+[13:05:33] [Server thread/INFO]: DomoPlanet issued server command: /worldedit
+[13:05:40] [Server thread/INFO]: <Dab1080[0;37;1m> geez Dweeb[m
+
+[13:05:56] [Server thread/INFO]: DomoPlanet issued server command: /worldedit:
+[13:05:56] [Server thread/INFO]: <Dweeb373[0;37;1m> also, i know why i keep suffacting now[m
+
+[13:05:57] [Server thread/WARN]: DomoPlanet moved wrongly!
+[13:06:24] [Server thread/INFO]: Dweeb373 issued server command: /back
+[13:07:00] [Server thread/INFO]: Dweeb373 issued server command: /tpa void
+[13:07:07] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[13:07:17] [Thread-23/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[13:07:17] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:38964] logged in with entity id 9598 at ([world]386.0, 70.0, -180.0)
+[13:07:19] [Server thread/INFO]: DomoPlanet issued server command: /tell Dab1080 lucas?
+[13:07:23] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[13:07:23] [Server thread/INFO]: SavageEagler left the game.
+[13:07:24] [Thread-24/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[13:07:24] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:38968] logged in with entity id 9815 at ([world]386.99331564303236, 51.64064742410388, -179.00668435696755)
+[13:07:35] [Thread-25/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+[13:07:35] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:52034] logged in with entity id 9869 at ([world]386.0, 70.0, -180.0)
+[13:07:38] [Server thread/INFO]: Dab1080 issued server command: /tell DomoPlanet this is my survival account tf
+[13:07:46] [Server thread/INFO]: Dweeb373 issued server command: /home a
+[13:07:49] [Server thread/WARN]: Dweeb373 moved wrongly!
+[13:07:55] [Server thread/INFO]: DomoPlanet issued server command: /tell Dab1080 SKIBIDI
+[13:07:55] [Server thread/INFO]: SavageEagler lost connection: Login timed out!
+[13:07:55] [Server thread/INFO]: SavageEagler left the game.
+[13:07:55] [Server thread/WARN]: handleDisconnection() called twice
+[13:07:56] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[13:07:58] [Server thread/INFO]: DomoPlanet issued server command: //home c
+[13:07:58] [Thread-26/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[13:07:58] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:50008] logged in with entity id 10099 at ([world]386.99331564303236, 32.0, -179.00668435696755)
+[13:08:08] [Server thread/INFO]: Dab1080 issued server command: /tell DomoPlanet SKIBIDI DOM DOM DOM YES YES
+[13:08:21] [Server thread/INFO]: SavageEagler issued server command: /tell DomoPlanet alr drop me the armor
+[13:08:30] [Server thread/INFO]: Void_ issued server command: /tpaccept
+[13:08:32] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[13:08:46] [Server thread/INFO]: Void_ issued server command: /tpaccept
+[13:09:05] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler do you have world edit?
+[13:09:18] [Server thread/INFO]: Void_ issued server command: /tpaccept
+[13:09:20] [Craft Scheduler Thread - 35/INFO]: [Metrics] Connection refused
+[13:09:21] [Server thread/INFO]: SavageEagler issued server command: /tell DomoPlanet alll the armor and yeah
+[13:10:17] [Server thread/INFO]: Dweeb373 issued server command: /tpa void
+[13:10:21] [Server thread/INFO]: Void_ issued server command: /tpaccept
+[13:10:24] [Server thread/INFO]: SavageEagler issued server command: /tell DomoPlanet drop all the god armor so i can enchant all
+[13:10:26] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler i think it's pointless for all the armour to have resperation
+[13:10:37] [Server thread/INFO]: DomoPlanet issued server command: /tell savage that's just my opinion, rn
+[13:10:37] [Server thread/INFO]: [DomoPlanet: That player cannot be found]
+[13:10:44] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler but rn
+[13:10:54] [Server thread/INFO]: SavageEagler issued server command: /tell DomoPlanet you can breath underwater with full respiration for 5 mins
+[13:10:55] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler lets work on the pvp arena
+[13:11:03] [Server thread/INFO]: DomoPlanet issued server command: /tell savage oh, alr
+[13:11:03] [Server thread/INFO]: [DomoPlanet: That player cannot be found]
+[13:11:24] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[13:11:24] [Server thread/INFO]: SavageEagler left the game.
+[13:11:27] [Server thread/INFO]: Ender_Assassin has just earned the achievement [Librarian]
+[13:11:28] [Thread-27/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[13:11:28] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:37146] logged in with entity id 12263 at ([world]386.0, 70.0, -180.0)
+[13:11:29] [Thread-28/WARN]: [Fatal Error] :6:3: The element type "hr" must be terminated by the matching end-tag "</hr>".
+
+[13:11:29] [Thread-28/WARN]: [MobArena] The version checker failed.
+[13:11:29] [Thread-28/WARN]: [MobArena] This is harmless, but check for updates manually!
+[13:11:46] [Server thread/INFO]: Dab1080 issued server command: /cast ist
+[13:11:49] [Server thread/INFO]: Dab1080 issued server command: /cast list
+[13:11:58] [Server thread/INFO]: Void_ issued server command: /tpa DomoPlanet
+[13:11:59] [Server thread/INFO]: SavageEagler_ lost connection: Login timed out!
+[13:11:59] [Server thread/INFO]: SavageEagler_ left the game.
+[13:11:59] [Server thread/WARN]: handleDisconnection() called twice
+[13:12:00] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[13:12:01] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
+[13:12:02] [Thread-29/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[13:12:02] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:49728] logged in with entity id 12679 at ([world]386.40957606826424, 70.0, -179.59042393173567)
+[13:12:02] [Thread-30/WARN]: [Fatal Error] :6:3: The element type "hr" must be terminated by the matching end-tag "</hr>".
+
+[13:12:02] [Thread-30/WARN]: [MobArena] The version checker failed.
+[13:12:02] [Thread-30/WARN]: [MobArena] This is harmless, but check for updates manually!
+[13:12:05] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
+[13:12:07] [Server thread/INFO]: Dab1080 issued server command: /cast fireball
+[13:13:23] [Server thread/INFO]: Dweeb373 has just earned the achievement [Cow Tipper]
+[13:13:40] [Server thread/INFO]: DomoPlanet issued server command: /tell Void_ oak logs, quartz blocks, splash harming potions, strength II potions, speed II potions
+[13:13:51] [Server thread/INFO]: DomoPlanet issued server command: /tell Void_ give me 1 by 1
+[13:13:53] [Server thread/INFO]: SavageEagler_ issued server command: /sethome dungeon
+[13:13:58] [Server thread/INFO]: SavageEagler_ issued server command: /tp DomoPlanet
+[13:13:58] [Server thread/INFO]: [SavageEagler_: Teleported SavageEagler_ to DomoPlanet]
+[13:14:01] [Server thread/INFO]: DomoPlanet issued server command: /tell void_ like staks of oak logs first
+[13:14:04] [Server thread/INFO]: DomoPlanet issued server command: /tell lucas and so on
+[13:14:04] [Server thread/INFO]: [DomoPlanet: That player cannot be found]
+[13:14:09] [Server thread/INFO]: <DomoPlanet[0;37;1m> ooo barrier[m
+
+[13:14:17] [Server thread/INFO]: <Dab1080[0;37;1m> barrier?[m
+
+[13:14:20] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucasss[m
+
+[13:14:25] [Server thread/INFO]: <SavageEagler_[0;37;1m> yesss[m
+
+[13:14:40] [Server thread/INFO]: <DomoPlanet[0;37;1m> we beed to make this whole floor obsidian[m
+
+[13:15:29] [Server thread/INFO]: Dab1080 issued server command: /home e
+[13:15:55] [Server thread/INFO]: Dweeb373 has just earned the achievement [Hot Topic]
+[13:16:37] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[13:16:37] [Server thread/INFO]: Dab1080 left the game.
+[13:16:46] [Server thread/INFO]: Void_ lost connection: Disconnected
+[13:16:46] [Server thread/INFO]: Void_ left the game.
+[13:16:48] [Thread-32/INFO]: UUID of player Void_ is 93f291e4-eb19-3494-9f26-aa07a7337e46
+[13:16:48] [Server thread/INFO]: Void_[/[0:0:0:0:0:0:0:1]:38842] logged in with entity id 14870 at ([world]386.0, 70.0, -180.0)
+[13:17:07] [Server thread/INFO]: Void_ lost connection: Disconnected
+[13:17:07] [Server thread/INFO]: Void_ left the game.
+[13:17:14] [Thread-33/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[13:17:15] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:52740] logged in with entity id 15049 at ([world]386.40957606826424, 70.0, -179.59042393173567)
+[13:17:27] [Server thread/INFO]: Void issued server command: /tpa DomoPlanet
+[13:17:30] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[13:17:47] [Server thread/INFO]: <DomoPlanet[0;37;1m> looky pooky[m
+
+[13:18:12] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler_ you done with the g-set?
+[13:19:00] [Server thread/INFO]: Dweeb373 issued server command: /set home b
+[13:19:05] [Server thread/INFO]: Dweeb373 issued server command: /sethome b
+[13:19:10] [Thread-34/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[13:19:10] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:40820] logged in with entity id 15740 at ([world]386.0, 70.0, -180.0)
+[13:19:12] [Server thread/INFO]: Dweeb373 issued server command: /home a
+[13:19:20] [Craft Scheduler Thread - 45/INFO]: [Metrics] Connection refused
+[13:19:31] [Server thread/INFO]: Void was shot by Skeleton
+[13:19:38] [Server thread/INFO]: <Dab1080[0;37;1m> L[m
+
+[13:19:40] [Server thread/INFO]: Void issued server command: /back
+[13:19:40] [Server thread/INFO]: <Dab1080[0;37;1m> skill issue[m
+
+[13:19:41] [Server thread/INFO]: DomoPlanet issued server command: /cast fireball
+[13:19:42] [Server thread/INFO]: SavageEagler_ issued server command: //replace cobblestone quartz_block
+[13:19:44] [Server thread/INFO]: <Ender_Assassin[0;37;1m> LOL[m
+
+[13:19:46] [Server thread/INFO]: DomoPlanet issued server command: /cast fireball
+[13:19:48] [Server thread/INFO]: DomoPlanet issued server command: /cast fireball
+[13:19:53] [Server thread/INFO]: DomoPlanet issued server command: /cast fireball
+[13:19:59] [Server thread/INFO]: <Void[0;37;1m> didnt see them at all and was armorless[m
+
+[13:20:13] [Server thread/INFO]: <Dab1080[0;37;1m> skill issue?[m
+
+[13:20:29] [Server thread/INFO]: SavageEagler_ issued server command: //replace stone quartz_pillar
+[13:20:37] [Server thread/INFO]: Void issued server command: /tell SavageEagler_ is this lucas
+[13:20:43] [Server thread/INFO]: SavageEagler_ issued server command: //replace stone quartz_block_pillar
+[13:20:46] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler_ can you put invisible light blocks in here aswell
+[13:20:58] [Server thread/INFO]: SavageEagler_ issued server command: /tell Void yes
+[13:21:07] [Server thread/INFO]: SavageEagler_ issued server command: /tell DomoPlanet ill see
+[13:21:22] [Server thread/INFO]: Void issued server command: /tell SavageEagler_ good, im already started our plan
+[13:21:42] [Server thread/INFO]: SavageEagler_ issued server command: //replace stone pillar_quartz_block
+[13:22:00] [Server thread/INFO]: DomoPlanet issued server command: /
+[13:22:03] [Server thread/INFO]: Void lost connection: Disconnected
+[13:22:03] [Server thread/INFO]: Void left the game.
+[13:22:08] [Server thread/INFO]: SavageEagler_ issued server command: //replace stone quartz_stairs
+[13:22:11] [Thread-35/INFO]: UUID of player Void_ is 93f291e4-eb19-3494-9f26-aa07a7337e46
+[13:22:11] [Server thread/INFO]: Void_[/[0:0:0:0:0:0:0:1]:48860] logged in with entity id 17197 at ([world]386.40957606826424, 70.0, -179.59042393173567)
+[13:22:18] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[13:22:45] [Server thread/INFO]: Ender_Assassin issued server command: /home AA
+[13:22:52] [Server thread/INFO]: SavageEagler_ issued server command: //replace red_sand obsidian
+[13:22:57] [Server thread/INFO]: DomoPlanet issued server command: /cast lisr
+[13:22:59] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[13:23:02] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ are you progressing with your part
+[13:23:07] [Server thread/INFO]: DomoPlanet issued server command: /cast explosivearrow
+[13:23:08] [Server thread/INFO]: SavageEagler_ issued server command: //replace orange_stained_clay obsidian
+[13:23:18] [Server thread/INFO]: SavageEagler_ issued server command: /tell void yes
+[13:23:18] [Server thread/INFO]: [SavageEagler_: That player cannot be found]
+[13:23:25] [Server thread/INFO]: SavageEagler_ issued server command: /tell Void_ yes
+[13:23:33] [Server thread/INFO]: DomoPlanet issued server command: /cast explosivearrow
+[13:23:42] [Server thread/INFO]: DomoPlanet issued server command: /cast explosivearrow
+[13:23:50] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[13:24:10] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ good, we need to make sure only me or you get the spells in the dungeon
+[13:24:17] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[13:24:33] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[13:24:42] [Server thread/INFO]: SavageEagler_ issued server command: //replace cobblestone quartz_block
+[13:24:57] [Server thread/INFO]: SavageEagler_ issued server command: //replace stone quartz_stair
+[13:25:06] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucas...[m
+
+[13:25:11] [Server thread/INFO]: <DomoPlanet[0;37;1m> you got rid of the beacon[m
+
+[13:26:08] [Server thread/INFO]: Dab1080 issued server command: /cast blink
+[13:26:43] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[13:26:44] [Server thread/INFO]: <Dweeb373[0;37;1m> we have teleporting skeletons now[m
+
+[13:26:56] [Server thread/INFO]: Void_ issued server command: /cast list
+[13:27:36] [Server thread/INFO]: SavageEagler_ issued server command: /warp create pvp
+[13:27:51] [Server thread/INFO]: SavageEagler_ issued server command: /tell DomoPlanet try to do /warp pvp
+[13:27:55] [Server thread/INFO]: DomoPlanet issued server command: /warp pvp
+[13:28:01] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler_ no premission
+[13:28:11] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp
+[13:28:14] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp help
+[13:28:18] [Server thread/INFO]: Dweeb373 issued server command: /home b
+[13:28:40] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp alist
+[13:28:44] [Server thread/INFO]: Dweeb373 issued server command: /home c
+[13:28:57] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp give pvp DomoPlanet
+[13:29:05] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp give DomoPlanet pvp
+[13:29:20] [Craft Scheduler Thread - 53/INFO]: [Metrics] Connection refused
+[13:29:24] [Server thread/INFO]: DomoPlanet issued server command: /wb
+[13:29:25] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp help
+[13:29:27] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp help 2
+[13:29:35] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp help 3
+[13:29:46] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp welcome DomoPlanet
+[13:29:50] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp welcome pvp DomoPlanet
+[13:29:53] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp welcome pvp
+[13:30:03] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler_ should we work on the dungeon rn
+[13:30:10] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp welcome pvp
+[13:30:30] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp info pvp
+[13:30:31] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[13:30:31] [Server thread/INFO]: Dab1080 left the game.
+[13:30:43] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp help 3
+[13:30:45] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp help 2
+[13:30:49] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp help
+[13:31:05] [Server thread/INFO]: <DomoPlanet[0;37;1m> it's too square, the glowstone[m
+
+[13:31:06] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp DomoPlanet pvp
+[13:31:15] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp pvp
+[13:31:20] [Server thread/INFO]: SavageEagler_ issued server command: /mywarp pvp
+[13:31:24] [Server thread/INFO]: SavageEagler_ issued server command: /warp pvp
+[13:31:27] [Server thread/INFO]: SavageEagler_ issued server command: /warp pvp
+[13:31:45] [Server thread/INFO]: <DomoPlanet[0;37;1m> make it drupe dwn[m
+
+[13:31:54] [Thread-36/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[13:31:54] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:58690] logged in with entity id 23223 at ([world]386.0, 70.0, -180.0)
+[13:32:23] [Server thread/INFO]: <Dab1080[0;37;1m> can you give me some torches lookie pookie?[m
+
+[13:32:34] [Server thread/INFO]: <DomoPlanet[0;37;1m> i got you my little booger![m
+
+[13:32:35] [Server thread/INFO]: Void_ issued server command: /tpa Dab1080
+[13:32:44] [Server thread/INFO]: <DomoPlanet[0;37;1m> tp pweeze!!![m
+
+[13:32:47] [Server thread/INFO]: Dab1080 issued server command: /tpyes
+[13:33:01] [Server thread/INFO]: <DomoPlanet[0;37;1m> i said tp pookie..[m
+
+[13:33:03] [Server thread/INFO]: <Dab1080[0;37;1m> daddy voids got me[m
+
+[13:33:11] [Server thread/INFO]: <DomoPlanet[0;37;1m> llol[m
+
+[13:33:15] [Server thread/INFO]: <Void_[0;37;1m> dance for it girl[m
+
+[13:33:29] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler_ make that a secret watch tower
+[13:33:35] [Server thread/INFO]: Ender_Assassin issued server command: /home AA
+[13:33:48] [Server thread/INFO]: <Dab1080[0;37;1m> Nngh~[m
+
+[13:33:55] [Server thread/INFO]: Void_ issued server command: /tpa DomoPlanet
+[13:33:55] [Server thread/INFO]: <Dab1080[0;37;1m> mb guys[m
+
+[13:34:00] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[13:34:42] [Server thread/INFO]: Void_ has just earned the achievement [Getting Wood]
+[13:34:45] [Server thread/INFO]: <Dweeb373[0;37;1m> and we have teleporting boats[m
+
+[13:35:24] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucas, the green looks good[m
+
+[13:35:33] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[13:35:33] [Server thread/INFO]: Dab1080 left the game.
+[13:35:59] [Server thread/INFO]: <DomoPlanet[0;37;1m> afk teacher[m
+
+[13:36:33] [Server thread/INFO]: Ender_Assassin has just earned the achievement [We Need to Go Deeper]
+[13:36:56] [Thread-37/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[13:36:56] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:33654] logged in with entity id 25431 at ([world]386.0, 70.0, -180.0)
+[13:37:12] [Server thread/INFO]: Ender_Assassin issued server command: /tell Dweeb373 go to ur base :)
+[13:38:06] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucas,[m
+
+[13:38:11] [Server thread/INFO]: <SavageEagler_[0;37;1m> ye[m
+
+[13:38:15] [Server thread/INFO]: SavageEagler_ has just earned the achievement [Getting Wood]
+[13:38:18] [Server thread/INFO]: <DomoPlanet[0;37;1m> these are going to be to shoot peole with arrows from above[m
+
+[13:38:35] [Server thread/INFO]: Ender_Assassin issued server command: /tell SavageEagler_ why can't i go into the nether??
+[13:39:05] [Server thread/INFO]: kevinthegaint lost connection: Disconnected
+[13:39:05] [Server thread/INFO]: kevinthegaint left the game.
+[13:39:12] [Server thread/INFO]: <Ender_Assassin[0;37;1m> LOL[m
+
+[13:39:20] [Craft Scheduler Thread - 61/INFO]: [Metrics] Connection refused
+[13:39:28] [Server thread/INFO]: Dweeb373 issued server command: /tell void want to know something funny
+[13:39:28] [Server thread/INFO]: [Dweeb373: That player cannot be found]
+[13:39:39] [Server thread/INFO]: Dweeb373 issued server command: /tell void want to know something funny
+[13:39:39] [Server thread/INFO]: [Dweeb373: That player cannot be found]
+[13:39:45] [Server thread/INFO]: DomoPlanet issued server command: /cast repiar
+[13:39:47] [Server thread/INFO]: DomoPlanet issued server command: /cast repair
+[13:39:53] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[13:39:53] [Server thread/INFO]: Dab1080 left the game.
+[13:39:54] [Server thread/INFO]: Dweeb373 issued server command: /Tell Void_ want to know something funny
+[13:40:00] [Server thread/INFO]: Void_ issued server command: /tell Ender_Assassin i have a favor to call in, today during the dungeon help me win it
+[13:40:05] [Server thread/INFO]: Ender_Assassin lost connection: Disconnected
+[13:40:05] [Server thread/INFO]: Ender_Assassin left the game.
+[13:40:06] [Server thread/INFO]: Dweeb373 lost connection: Disconnected
+[13:40:06] [Server thread/INFO]: Dweeb373 left the game.
+[13:40:07] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[13:40:07] [Server thread/INFO]: DomoPlanet left the game.
+[13:40:11] [Server thread/INFO]: Void_ lost connection: Disconnected
+[13:40:11] [Server thread/INFO]: Void_ left the game.
+[13:45:10] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[13:45:12] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[13:45:14] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[13:45:15] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[13:45:19] [Server thread/ERROR]: Could not pass event InventoryClickEvent to AnvilColors v1.3.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1657) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+	at me.kylersmith7.anvilcolors.AnvilColors.translateColors(AnvilColors.java:157) ~[?:?]
+	at me.kylersmith7.anvilcolors.AnvilColors.onInventoryClick(AnvilColors.java:147) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 16 more
+[13:46:33] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
+[13:46:33] [Server thread/INFO]: SavageEagler_ left the game.
+[13:49:20] [Craft Scheduler Thread - 65/INFO]: [Metrics] Connection refused
+[13:50:21] [Thread-39/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[13:50:21] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:45904] logged in with entity id 27346 at ([world]386.0, 70.0, -180.0)
+[13:54:15] [Thread-40/INFO]: UUID of player SmgShane is 29e7477b-5ec1-3ad0-9395-b1a1f26d57e2
+[13:54:15] [Server thread/INFO]: SmgShane[/[0:0:0:0:0:0:0:1]:33022] logged in with entity id 27923 at ([world]386.0, 70.0, -180.0)
+[13:54:37] [Server thread/INFO]: SmgShane issued server command: /tpa DomoPlanet
+[13:54:40] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[13:56:48] [Server thread/INFO]: SmgShane issued server command: /home whor
+[13:56:57] [Server thread/INFO]: SmgShane issued server command: /hom h
+[13:57:10] [Server thread/INFO]: SmgShane issued server command: /home Hor
+[13:57:22] [Server thread/INFO]: SmgShane issued server command: /homes
+[13:57:36] [Server thread/INFO]: SmgShane issued server command: /home Hoe
+[13:59:20] [Craft Scheduler Thread - 72/INFO]: [Metrics] Connection refused
+[14:01:16] [Server thread/INFO]: DomoPlanet issued server command: /cast reach
+[14:01:29] [Thread-41/INFO]: UUID of player Boner_King is 038172bf-52b3-3ade-88a6-1acaa3140de7
+[14:01:29] [Server thread/INFO]: Boner_King[/[0:0:0:0:0:0:0:1]:36558] logged in with entity id 29469 at ([world]3432.3081266286035, 11.0, -2787.500477121458)
+[14:01:59] [Server thread/INFO]: SmgShane issued server command: /cast food
+[14:01:59] [Server thread/INFO]: Boner_King lost connection: Login timed out!
+[14:01:59] [Server thread/INFO]: Boner_King left the game.
+[14:01:59] [Server thread/WARN]: handleDisconnection() called twice
+[14:02:05] [Thread-42/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[14:02:05] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:52860] logged in with entity id 29659 at ([world]386.0, 70.0, -180.0)
+[14:02:05] [Thread-43/WARN]: [Fatal Error] :6:3: The element type "hr" must be terminated by the matching end-tag "</hr>".
+
+[14:02:05] [Thread-43/WARN]: [MobArena] The version checker failed.
+[14:02:05] [Thread-43/WARN]: [MobArena] This is harmless, but check for updates manually!
+[14:02:20] [Server thread/INFO]: SmgShane issued server command: /cast bind food
+[14:02:27] [Thread-44/INFO]: UUID of player THroatGoat is 18de9d73-ab2c-3eae-8e6c-cb9154d50c6f
+[14:02:27] [Server thread/INFO]: THroatGoat[/[0:0:0:0:0:0:0:1]:56584] logged in with entity id 29807 at ([world]386.0, 70.0, -180.0)
+[14:02:27] [Craft Scheduler Thread - 76/WARN]: [LoginSecurity] Failed to set inventory id in profile
+[14:02:27] [Server thread/ERROR]: [LoginSecurity] Failed to save player location
+java.sql.SQLException: Failed set location id in profile
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.insertLoginLocationBlocking(LocationRepository.java:57) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.database.LocationRepository.lambda$insertLoginLocation$0(LocationRepository.java:26) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[14:02:30] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucas, surround it with barrier blocks[m
+
+[14:02:51] [Server thread/INFO]: THroatGoat issued server command: /tpa domo
+[14:03:19] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[14:03:21] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:03:46] [Server thread/INFO]: THroatGoat issued server command: /sethome a
+[14:04:09] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[14:04:20] [Server thread/INFO]: DomoPlanet issued server command: /cast teach
+[14:04:30] [Server thread/INFO]: DomoPlanet issued server command: /cast teach THroatGoat armour
+[14:04:39] [Server thread/INFO]: DomoPlanet issued server command: /cast teach THroatGoat armor
+[14:04:50] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:04:59] [Server thread/INFO]: THroatGoat has just earned the achievement [Taking Inventory]
+[14:05:49] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:06:21] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:06:33] [Server thread/INFO]: SavageEagler_ issued server command: /tp DomoPlanet
+[14:06:33] [Server thread/INFO]: [SavageEagler_: Teleported SavageEagler_ to DomoPlanet]
+[14:07:05] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:07:08] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[14:07:15] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:07:30] [Server thread/INFO]: SavageEagler_ issued server command: /tp DomoPlanet
+[14:07:30] [Server thread/INFO]: [SavageEagler_: Teleported SavageEagler_ to DomoPlanet]
+[14:07:41] [Server thread/INFO]: THroatGoat was blown up by Creeper
+[14:07:48] [Server thread/INFO]: THroatGoat issued server command: /home a
+[14:07:59] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler_ ?
+[14:08:11] [Thread-45/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[14:08:11] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:48212] logged in with entity id 32391 at ([world]386.0, 70.0, -180.0)
+[14:08:29] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[14:08:29] [Server thread/INFO]: maroon5 left the game.
+[14:08:41] [Thread-46/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[14:08:41] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:57902] logged in with entity id 32434 at ([world]386.0, 70.0, -180.0)
+[14:09:11] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:09:13] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:09:20] [Craft Scheduler Thread - 77/INFO]: [Metrics] Connection refused
+[14:09:28] [Thread-47/INFO]: UUID of player Dweeb373 is a8b75ddd-a143-324b-a193-53bc7b022c78
+[14:09:28] [Server thread/INFO]: Dweeb373[/[0:0:0:0:0:0:0:1]:52810] logged in with entity id 32823 at ([world]386.0, 70.0, -180.0)
+[14:09:44] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:09:50] [Server thread/INFO]: THroatGoat has just earned the achievement [Getting Wood]
+[14:10:28] [Server thread/INFO]: SmgShane issued server command: /cast reach
+[14:10:30] [Server thread/INFO]: DomoPlanet issued server command: /cast reach
+[14:10:34] [Server thread/INFO]: <Dab1080[0;37;1m> who is THroatGoat[m
+
+[14:11:29] [Server thread/INFO]: Dweeb373 lost connection: Disconnected
+[14:11:29] [Server thread/INFO]: Dweeb373 left the game.
+[14:11:37] [Thread-48/INFO]: UUID of player Dweeb373 is a8b75ddd-a143-324b-a193-53bc7b022c78
+[14:11:37] [Server thread/INFO]: Dweeb373[/[0:0:0:0:0:0:0:1]:44416] logged in with entity id 34144 at ([world]386.0, 70.0, -180.0)
+[14:12:35] [Server thread/INFO]: DomoPlanet issued server command: /cast freeze
+[14:12:44] [Server thread/INFO]: THroatGoat issued server command: /home a
+[14:12:57] [Server thread/INFO]: DomoPlanet issued server command: /tpa SmgShane
+[14:13:09] [Server thread/INFO]: SmgShane issued server command: /tpaccept
+[14:13:11] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:13:16] [Server thread/INFO]: DomoPlanet issued server command: /tpa SmgShane
+[14:13:36] [Server thread/INFO]: SmgShane issued server command: /tpaccept
+[14:13:59] [Server thread/INFO]: DomoPlanet issued server command: /cast SmgShane teach
+[14:14:04] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[14:14:18] [Server thread/INFO]: DomoPlanet issued server command: /cast teach SmgShane teach
+[14:14:36] [Server thread/INFO]: SmgShane issued server command: /cast teach DomoPlanet food
+[14:14:41] [Server thread/INFO]: DomoPlanet issued server command: /cast food
+[14:14:43] [Server thread/INFO]: SmgShane issued server command: /castlist
+[14:14:45] [Server thread/INFO]: DomoPlanet issued server command: /cast food
+[14:14:49] [Server thread/INFO]: SmgShane issued server command: /cast list
+[14:15:04] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:15:11] [Server thread/INFO]: THroatGoat issued server command: /home a
+[14:15:12] [Server thread/INFO]: SmgShane issued server command: /cast reach
+[14:16:23] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:16:49] [Server thread/INFO]: SmgShane issued server command: /cast reach
+[14:16:57] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
+[14:16:57] [Server thread/INFO]: SavageEagler_ left the game.
+[14:17:00] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityMonster.r(EntityMonster.java:72) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PathfinderGoalMeleeAttack.e(SourceFile:122) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PathfinderGoalSelector.a(PathfinderGoalSelector.java:91) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityInsentient.doTick(EntityInsentient.java:480) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.m(EntityLiving.java:1631) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityInsentient.m(EntityInsentient.java:339) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityMonster.m(EntityMonster.java:20) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1495) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityInsentient.t_(EntityInsentient.java:194) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityMonster.t_(EntityMonster.java:24) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntitySpider.t_(EntitySpider.java:36) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 29 more
+[14:17:00] [Server thread/INFO]: Dweeb373 was slain by Spider
+[14:17:07] [Thread-50/INFO]: UUID of player SavageEagler is 83949d3a-ab99-3644-a8c0-43977ec748c0
+[14:17:07] [Server thread/INFO]: SavageEagler[/[0:0:0:0:0:0:0:1]:46822] logged in with entity id 35930 at ([world]386.0, 70.0, -180.0)
+[14:17:11] [Server thread/INFO]: <DomoPlanet[0;37;1m> hayden your armour[m
+
+[14:17:21] [Server thread/INFO]: SavageEagler issued server command: /home ig
+[14:17:26] [Server thread/INFO]: SavageEagler issued server command: /home ug
+[14:17:30] [Server thread/INFO]: THroatGoat issued server command: /home a
+[14:17:41] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:17:48] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:18:04] [Server thread/INFO]: <Dab1080[0;37;1m> NOOO[m
+
+[14:18:10] [Server thread/INFO]: <DomoPlanet[0;37;1m> YESSSSSSSSS[m
+
+[14:18:22] [Server thread/INFO]: SavageEagler issued server command: /homes
+[14:18:27] [Server thread/INFO]: SavageEagler issued server command: /home r
+[14:18:28] [Server thread/INFO]: <Dab1080[0;37;1m> a creeper blew up and knocked down the naturally spawned sand[m
+
+[14:18:36] [Server thread/INFO]: DomoPlanet issued server command: /tpa Dab1080
+[14:18:38] [Server thread/INFO]: <DomoPlanet[0;37;1m> let me see[m
+
+[14:18:41] [Server thread/INFO]: <Dab1080[0;37;1m> nah[m
+
+[14:18:44] [Server thread/INFO]: SmgShane issued server command: /cast reach
+[14:18:55] [Server thread/INFO]: <DomoPlanet[0;37;1m> i'll give you credit for the pvp arean[m
+
+[14:18:57] [Server thread/INFO]: Dweeb373 issued server command: /bac
+[14:18:57] [Server thread/INFO]: <DomoPlanet[0;37;1m> arena[m
+
+[14:19:00] [Server thread/INFO]: Dab1080 issued server command: /tpyes
+[14:19:05] [Server thread/INFO]: THroatGoat issued server command: /casr armor
+[14:19:08] [Server thread/INFO]: Dweeb373 issued server command: /back
+[14:19:12] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:19:12] [Server thread/INFO]: <Dab1080[0;37;1m> it almost killed me too[m
+
+[14:19:13] [Server thread/INFO]: DomoPlanet issued server command: /cast reach
+[14:19:21] [Craft Scheduler Thread - 87/INFO]: [Metrics] Connection refused
+[14:19:29] [Server thread/INFO]: <Dab1080[0;37;1m> well, some of it i built[m
+
+[14:19:35] [Server thread/INFO]: <Dab1080[0;37;1m> the sand cave[m
+
+[14:19:36] [Server thread/INFO]: SavageEagler issued server command: /tpa DomoPlanet
+[14:19:39] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:19:41] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:19:43] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:20:03] [Server thread/INFO]: <SavageEagler[0;37;1m> i havent enchanted yet[m
+
+[14:20:06] [Server thread/INFO]: <Dab1080[0;37;1m> same[m
+
+[14:21:48] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[14:22:17] [Server thread/INFO]: SmgShane issued server command: /cast reach
+[14:22:33] [Server thread/INFO]: DomoPlanet issued server command: /cast unbind
+[14:22:38] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[14:22:51] [Server thread/INFO]: DomoPlanet issued server command: /cast unbind firenova
+[14:25:53] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:26:31] [Server thread/INFO]: <SavageEagler[0;37;1m> who wants some unenchanted dim swords[m
+
+[14:26:33] [Server thread/INFO]: THroatGoat issued server command: /cast armor
+[14:27:01] [Server thread/INFO]: SavageEagler issued server command: /tpa Dab1080
+[14:27:08] [Server thread/INFO]: SmgShane lost connection: Disconnected
+[14:27:08] [Server thread/INFO]: SmgShane left the game.
+[14:27:12] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[14:27:12] [Server thread/INFO]: DomoPlanet left the game.
+[14:27:18] [Server thread/INFO]: THroatGoat lost connection: Disconnected
+[14:27:18] [Server thread/INFO]: THroatGoat left the game.
+[14:27:39] [Server thread/INFO]: SavageEagler issued server command: /cast list
+[14:28:21] [Thread-51/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[14:28:21] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:33142] logged in with entity id 41103 at ([world]386.0, 70.0, -180.0)
+[14:28:25] [Server thread/INFO]: <Dab1080[0;37;1m> when you try to place sand but accidentaly cast firenova[m
+
+[14:29:21] [Craft Scheduler Thread - 90/INFO]: [Metrics] Connection refused
+[14:29:47] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[14:29:47] [Server thread/INFO]: Dab1080 left the game.
+[14:29:48] [Server thread/INFO]: Dweeb373 lost connection: Disconnected
+[14:29:48] [Server thread/INFO]: Dweeb373 left the game.
+[14:30:02] [Server thread/INFO]: Given [Steak] * 64 to SavageEagler
+[14:31:11] [Thread-52/INFO]: UUID of player Dweeb373 is a8b75ddd-a143-324b-a193-53bc7b022c78
+[14:31:11] [Server thread/INFO]: Dweeb373[/[0:0:0:0:0:0:0:1]:46574] logged in with entity id 41844 at ([world]386.0, 70.0, -180.0)
+[14:31:23] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:31:25] [Server thread/INFO]: Dweeb373 issued server command: /home b
+[14:31:28] [Thread-53/INFO]: UUID of player Void_ is 93f291e4-eb19-3494-9f26-aa07a7337e46
+[14:31:28] [Server thread/INFO]: Void_[/[0:0:0:0:0:0:0:1]:53726] logged in with entity id 42071 at ([world]386.0, 70.0, -180.0)
+[14:31:40] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[14:31:43] [Server thread/INFO]: Void_ lost connection: Disconnected
+[14:31:43] [Server thread/INFO]: Void_ left the game.
+[14:31:53] [Server thread/INFO]: <Dweeb373[0;37;1m> Can the server quit spawning me under the damn ground[m
+
+[14:31:55] [Thread-54/INFO]: UUID of player Void_ is 93f291e4-eb19-3494-9f26-aa07a7337e46
+[14:31:55] [Server thread/INFO]: Void_[/[0:0:0:0:0:0:0:1]:47386] logged in with entity id 42479 at ([world]386.0, 70.0, -180.0)
+[14:31:56] [Thread-55/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+[14:31:56] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:47392] logged in with entity id 42490 at ([world]386.0, 70.0, -180.0)
+[14:32:15] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:32:28] [Server thread/INFO]: kevinthegaint issued server command: /home e
+[14:32:38] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[14:32:47] [Server thread/INFO]: DomoPlanet issued server command: /tpa void_
+[14:32:52] [Server thread/INFO]: Void_ issued server command: /tpaccept
+[14:33:00] [Server thread/INFO]: DomoPlanet issued server command: /cast teach void_ teach
+[14:33:00] [Thread-56/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[14:33:01] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:50588] logged in with entity id 43055 at ([world]386.0, 70.0, -180.0)
+[14:33:05] [Server thread/INFO]: <DomoPlanet[0;37;1m> o taigjt upi[m
+
+[14:33:09] [Server thread/INFO]: <DomoPlanet[0;37;1m> do /cast list[m
+
+[14:33:19] [Server thread/INFO]: <DomoPlanet[0;37;1m> we have unbind now[m
+
+[14:33:20] [Server thread/INFO]: kevinthegaint issued server command: /cast list
+[14:33:29] [Server thread/INFO]: <Void_[0;37;1m> im on the creative account rn so imma swap[m
+
+[14:33:31] [Server thread/INFO]: Dweeb373 lost connection: Disconnected
+[14:33:31] [Server thread/INFO]: Dweeb373 left the game.
+[14:33:31] [Server thread/INFO]: Dab1080 issued server command: /tell Dweeb373 are we supposed to go to coach fergs room?
+[14:33:31] [Server thread/INFO]: [Dab1080: That player cannot be found]
+[14:33:33] [Server thread/INFO]: Dab1080 issued server command: /tell Dweeb373 are we supposed to go to coach fergs room?
+[14:33:33] [Server thread/INFO]: [Dab1080: That player cannot be found]
+[14:33:36] [Server thread/INFO]: Void_ lost connection: Disconnected
+[14:33:36] [Server thread/INFO]: Void_ left the game.
+[14:33:38] [Server thread/INFO]: kevinthegaint issued server command: /cast explosivearrow
+[14:33:39] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[14:33:44] [Thread-57/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[14:33:44] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:54918] logged in with entity id 43344 at ([world]386.0, 70.0, -180.0)
+[14:34:02] [Server thread/INFO]: Void issued server command: /tpa DomoPlanet
+[14:34:04] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:34:15] [Server thread/INFO]: DomoPlanet issued server command: /cast teach void_ teach
+[14:34:18] [Server thread/INFO]: Void issued server command: /tell DomoPlanet ok teach me the teach
+[14:34:20] [Server thread/INFO]: DomoPlanet issued server command: /cast teach void teach
+[14:34:31] [Server thread/INFO]: <kevinthegaint[0;37;1m> how keeps coming in my house[m
+
+[14:34:31] [Server thread/INFO]: DomoPlanet issued server command: /tell Void lucas reads the whispers
+[14:34:42] [Server thread/INFO]: DomoPlanet issued server command: /tell Void keep it vauge
+[14:34:43] [Server thread/INFO]: <Void[0;37;1m> ok[m
+
+[14:34:53] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:34:59] [Server thread/INFO]: <Void[0;37;1m> what all spells do you have greg[m
+
+[14:35:23] [Server thread/INFO]: <DomoPlanet[0;37;1m> firenova, poison, freeze explosivearrow, repair, armor,[m
+
+[14:35:26] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[14:35:36] [Server thread/INFO]: <DomoPlanet[0;37;1m> fireball, cripple, food, shadowstep[m
+
+[14:35:46] [Thread-58/INFO]: UUID of player Dweeb373 is a8b75ddd-a143-324b-a193-53bc7b022c78
+[14:35:46] [Server thread/INFO]: Dweeb373[/[0:0:0:0:0:0:0:1]:59642] logged in with entity id 43595 at ([world]386.0, 70.0, -180.0)
+[14:35:55] [Server thread/INFO]: <Dab1080[0;37;1m> cap[m
+
+[14:36:00] [Server thread/INFO]: <Void[0;37;1m> really wish i had even 2 of those, mainly freeze and repair[m
+
+[14:36:05] [Server thread/INFO]: <Dab1080[0;37;1m> theres one important one[m
+
+[14:36:10] [Server thread/INFO]: SavageEagler issued server command: /cast repair
+[14:36:20] [Server thread/INFO]: DomoPlanet issued server command: /cast reach
+[14:36:34] [Server thread/INFO]: DomoPlanet issued server command: /cast reach
+[14:36:56] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:37:40] [Server thread/INFO]: <Void[0;37;1m> lucas you here[m
+
+[14:37:44] [Server thread/INFO]: <SavageEagler[0;37;1m> ye[m
+
+[14:37:56] [Thread-59/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[14:37:56] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:60736] logged in with entity id 44260 at ([world]386.0, 70.0, -180.0)
+[14:38:01] [Server thread/INFO]: Void issued server command: /tell SavageEagler ok i have information thats very important
+[14:38:19] [Server thread/INFO]: DomoPlanet issued server command: /msg maroon5 stfu
+[14:38:20] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet where tf am i
+[14:38:28] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 dont say anything
+[14:38:38] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet kk
+[14:39:03] [Server thread/INFO]: maroon5 issued server command: /homes
+[14:39:10] [Server thread/INFO]: maroon5 issued server command: /sethome n
+[14:39:21] [Craft Scheduler Thread - 107/INFO]: [Metrics] Connection refused
+[14:39:39] [Server thread/INFO]: Void issued server command: /tell SavageEagler what spells do you have real quick
+[14:40:02] [Server thread/INFO]: SavageEagler issued server command: /tell Void a lot
+[14:40:18] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet lucas is taking all that amor btw
+[14:40:24] [Server thread/INFO]: kevinthegaint lost connection: Disconnected
+[14:40:24] [Server thread/INFO]: kevinthegaint left the game.
+[14:40:26] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:40:26] [Server thread/INFO]: Void issued server command: / like name them, its important
+[14:40:29] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet he is stashing it somewhere
+[14:40:38] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet he wants to kill you
+[14:40:41] [Server thread/INFO]: Void issued server command: /tell SavageEagler name them, its important
+[14:40:44] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 i have other god armour
+[14:40:46] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[14:41:05] [Server thread/INFO]: maroon5 issued server command: /sethome dome
+[14:41:18] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 help me place blocks
+[14:41:20] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:41:47] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet what is all this
+[14:41:59] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 bunker
+[14:42:23] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet davis might snitch
+[14:42:25] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 the chests are a duisguise
+[14:42:26] [Server thread/INFO]: Void issued server command: /tell SavageEagler it dictates how i move towards dearming greg
+[14:42:28] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet i gtg
+[14:42:31] [Server thread/INFO]: maroon5 issued server command: /home e
+[14:42:33] [Server thread/INFO]: maroon5 issued server command: /homes
+[14:42:36] [Server thread/INFO]: maroon5 issued server command: /home 1
+[14:42:40] [Server thread/INFO]: Dab1080 issued server command: /home e
+[14:42:48] [Server thread/INFO]: SavageEagler issued server command: /cast list
+[14:42:50] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 wit
+[14:42:57] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 i need more blocks
+[14:43:02] [Server thread/INFO]: DomoPlanet issued server command: /
+[14:43:07] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet dude
+[14:43:10] [Server thread/INFO]: maroon5 issued server command: /home n
+[14:43:22] [Server thread/INFO]: maroon5 issued server command: /home 1
+[14:43:23] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:43:30] [Server thread/INFO]: SavageEagler issued server command: /tell Void blind blink disarm exsplosivarrow firenova forcetoss reach repair shadowstep storm
+[14:43:45] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet lucas is cheating btw
+[14:43:58] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 he was from the start
+[14:43:58] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet to get blocks
+[14:44:15] [Server thread/INFO]: Void issued server command: /tpa DomoPlanet
+[14:44:22] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 how's the pvp zone
+[14:44:24] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:44:26] [Server thread/INFO]: maroon5 issued server command: /home o
+[14:44:27] [Server thread/INFO]: DomoPlanet issued server command: /tell void follow me
+[14:44:41] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet the same
+[14:44:51] [Server thread/INFO]: maroon5 issued server command: /home o
+[14:44:51] [Server thread/INFO]: Void issued server command: /tell SavageEagler is that all
+[14:44:53] [Server thread/INFO]: maroon5 issued server command: /homes
+[14:44:53] [Server thread/INFO]: DomoPlanet issued server command: /tell void don't tell anyone, this is me and your secret
+[14:44:55] [Server thread/INFO]: maroon5 issued server command: /home s
+[14:45:00] [Server thread/INFO]: maroon5 issued server command: /home d
+[14:45:02] [Server thread/INFO]: Void issued server command: /tell DomoPlanet ok
+[14:45:07] [Server thread/INFO]: maroon5 issued server command: /home o
+[14:45:17] [Server thread/INFO]: Void issued server command: /tell DomoPlanet i cant see
+[14:45:31] [Server thread/INFO]: DomoPlanet issued server command: /tell void turn your brightness up
+[14:46:02] [Server thread/INFO]: maroon5 issued server command: /sethome q
+[14:46:09] [Server thread/INFO]: Void issued server command: /tell DomoPlanet good to know about this
+[14:46:19] [Server thread/INFO]: Void issued server command: /set home bunker
+[14:46:21] [Server thread/INFO]: DomoPlanet issued server command: /tell void do you know what im doing?
+[14:46:27] [Server thread/INFO]: Void issued server command: /sethome bunker
+[14:46:49] [Server thread/INFO]: maroon5 issued server command: /tell SavageEagler what r u doin rn
+[14:46:50] [Server thread/INFO]: Void issued server command: /tell DomoPlanet building a stockpile
+[14:46:54] [Server thread/INFO]: maroon5 issued server command: /home 1
+[14:47:05] [Server thread/INFO]: DomoPlanet issued server command: /tell void secret bunker incase everything goes to shit
+[14:47:20] [Server thread/INFO]: DomoPlanet issued server command: /tell Void the chests are for a cloaking mech-
+[14:47:31] [Server thread/INFO]: Dab1080 issued server command: /home e
+[14:47:32] [Server thread/INFO]: Void issued server command: /tell DomoPlanet ok
+[14:47:49] [Server thread/INFO]: <DomoPlanet[0;37;1m> AHAHHHHHAHHAH YOUR TRAPED[m
+
+[14:47:56] [Server thread/INFO]: maroon5 issued server command: /home n
+[14:47:56] [Server thread/INFO]: <Dab1080[0;37;1m> what happened?[m
+
+[14:48:01] [Server thread/INFO]: Void issued server command: /tell SavageEagler you still lucas
+[14:48:01] [Server thread/INFO]: <DomoPlanet[0;37;1m> im jokling[m
+
+[14:48:03] [Server thread/INFO]: SavageEagler issued server command: /tpa DomoPlanet
+[14:48:05] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:48:07] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[14:48:08] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[14:48:11] [Server thread/INFO]: Void issued server command: /tpa DomoPlanet
+[14:48:31] [Server thread/INFO]: maroon5 issued server command: /HOME 1
+[14:48:33] [Server thread/INFO]: SavageEagler issued server command: /back
+[14:48:34] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucas, why is the mob grinder still not workibg[m
+
+[14:48:34] [Server thread/INFO]: Void issued server command: /tpa SavageEagler
+[14:48:39] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet i want to kill logan
+[14:48:47] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet yes no rigfht now
+[14:48:51] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 no
+[14:48:56] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 he's helping me
+[14:49:02] [Server thread/INFO]: Void issued server command: /tpa Dweeb373
+[14:49:06] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 with supplies and shit
+[14:49:10] [Server thread/INFO]: Dab1080 issued server command: /tell Void will wants to kill you btw. (dont tell him i told you)
+[14:49:17] [Server thread/INFO]: Dweeb373 issued server command: /tpaccept
+[14:49:21] [Craft Scheduler Thread - 109/INFO]: [Metrics] Connection refused
+[14:49:24] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 do not mention the god block to lucas
+[14:49:43] [Server thread/INFO]: Void issued server command: /tell Dweeb373 what are your spells
+[14:49:43] [Server thread/INFO]: <Dweeb373[0;37;1m> Dab quit peeking[m
+
+[14:49:43] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet he dupes god apples
+[14:49:48] [Server thread/INFO]: SavageEagler issued server command: /tpaccept
+[14:49:48] [Server thread/INFO]: DomoPlanet issued server command: /tell bru
+[14:49:49] [Server thread/INFO]: <Dab1080[0;37;1m> peeking?[m
+
+[14:49:50] [Server thread/INFO]: SavageEagler issued server command: /tpaccept
+[14:49:51] [Server thread/INFO]: SavageEagler issued server command: /home r
+[14:49:52] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 bru
+[14:49:58] [Server thread/INFO]: <Dab1080[0;37;1m> mb bro. its just so big[m
+
+[14:50:06] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 y'all get out of the bunker
+[14:50:07] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:50:22] [Server thread/INFO]: SavageEagler issued server command: /tell maroon5 whats on ur sword
+[14:50:23] [Server thread/INFO]: maroon5 issued server command: /tell SavageEagler y r u cheating in blocks
+[14:50:32] [Server thread/INFO]: SavageEagler issued server command: /tell maroon5 no y
+[14:50:34] [Server thread/INFO]: <Void[0;37;1m> what are you doing lucas[m
+
+[14:50:35] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet im not telling anybody but y
+[14:50:41] [Server thread/INFO]: <SavageEagler[0;37;1m> building[m
+
+[14:50:44] [Server thread/INFO]: Void issued server command: /home home
+[14:50:53] [Server thread/INFO]: <Void[0;37;1m> building what[m
+
+[14:51:03] [Server thread/INFO]: <Void[0;37;1m> the dunegon[m
+
+[14:51:05] [Server thread/INFO]: <DomoPlanet[0;37;1m> watcha building lucas[m
+
+[14:51:06] [Server thread/INFO]: <DomoPlanet[0;37;1m> o[m
+
+[14:51:07] [Server thread/INFO]: <DomoPlanet[0;37;1m> oh[m
+
+[14:51:36] [Server thread/INFO]: <Dweeb373[0;37;1m> i saw that gregg[m
+
+[14:51:47] [Server thread/INFO]: Dab1080 has just earned the achievement [Time to Farm!]
+[14:52:11] [Server thread/INFO]: <DomoPlanet[0;37;1m> you learning basic life skills Dab1080? farming??!![m
+
+[14:52:15] [Server thread/INFO]: <Dab1080[0;37;1m> yes[m
+
+[14:52:18] [Server thread/INFO]: <DomoPlanet[0;37;1m> CHIVES SPANKING[m
+
+[14:52:20] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet so would me and logan b working together
+[14:52:21] [Server thread/INFO]: <Dab1080[0;37;1m> self-sufficient[m
+
+[14:52:31] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:52:52] [Server thread/INFO]: SavageEagler issued server command: /home ug
+[14:53:12] [Server thread/INFO]: <maroon5[0;37;1m> when is the big nether event gonna happen[m
+
+[14:53:21] [Server thread/INFO]: <Dab1080[0;37;1m> soon...[m
+
+[14:53:22] [Server thread/INFO]: <maroon5[0;37;1m> today or later this week?\[m
+
+[14:53:26] [Server thread/INFO]: Void issued server command: /tell SavageEagler well the information im tryna tell is that greg and shane have teach and i do to
+[14:53:29] [Server thread/INFO]: Given [Hopper] * 64 to SavageEagler
+[14:53:30] [Server thread/INFO]: Dab1080 issued server command: /home e
+[14:53:35] [Server thread/INFO]: <maroon5[0;37;1m> do u wanna see my pieriung[m
+
+[14:53:41] [Server thread/INFO]: Void issued server command: /tell SavageEagler dont say anything rn
+[14:53:43] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:53:52] [Server thread/INFO]: You made DomoPlanet forget the teach spell.[m
+
+[14:53:54] [Server thread/INFO]: Dweeb373 issued server command: /kick maroon5
+[14:54:06] [Server thread/INFO]: No such player.[m
+
+[14:54:07] [Server thread/INFO]: Void issued server command: /tell SavageEagler i have a plan but the dungeon needs to swap teach for forget
+[14:54:10] [Server thread/INFO]: No such player.[m
+
+[14:54:23] [Server thread/INFO]: maroon5 issued server command: /cast list
+[14:54:25] [Server thread/INFO]: DomoPlanet issued server command: /hom
+[14:54:28] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:54:32] [Server thread/INFO]: Void issued server command: /tell SavageEagler otherwise everyone will have it soon
+[14:55:01] [Server thread/INFO]: No such player.[m
+
+[14:55:03] [Server thread/INFO]: maroon5 issued server command: /home 1
+[14:55:12] [Server thread/INFO]: maroon5 issued server command: /cast list
+[14:55:13] [Server thread/INFO]: Void issued server command: /tell SavageEagler either say you read the whispers and erase all our teach then we get it in
+[14:55:19] [Server thread/INFO]: maroon5 issued server command: /cast bind shadowstep
+[14:55:27] [Server thread/INFO]: SavageEagler issued server command: /tell Void i made gregg forget the teach spell
+[14:55:34] [Server thread/INFO]: DomoPlanet's spells: armor bind cripple explosivearrow fireball firenova food freeze help list poison reach repair shadowstep unbind [m
+
+[14:55:39] [Server thread/INFO]: Void's spells: bind confusion help list shadowstep teach unbind [m
+
+[14:55:42] [Server thread/INFO]: Dab1080's spells: bind blind blink fireball food help list reach repair [m
+
+[14:55:45] [Server thread/INFO]: Void issued server command: /tell SavageEagler dungeon or swap it to forget, shane has it to
+[14:55:49] [Server thread/INFO]: maroon5's spells: armor bind cripple fireball firenova freeze help list poison reach shadowstep teach unbind [m
+
+[14:55:58] [Server thread/INFO]: Void issued server command: /cast list
+[14:55:58] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[14:56:03] [Server thread/INFO]: No such player.[m
+
+[14:56:20] [Server thread/INFO]: maroon5 issued server command: /cast bind shadowstep
+[14:56:23] [Server thread/INFO]: SavageEagler issued server command: /tell Void im gonna make everyone forget the teach spell
+[14:56:35] [Server thread/INFO]: Void issued server command: /tell SavageEagler ok
+[14:56:38] [Server thread/INFO]: SavageEagler issued server command: /home r
+[14:56:59] [Server thread/INFO]: Void lost connection: Disconnected
+[14:56:59] [Server thread/INFO]: Void left the game.
+[14:57:13] [Server thread/INFO]: <Dab1080[0;37;1m> \[m
+
+[14:57:15] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[14:57:15] [Server thread/INFO]: Dab1080 left the game.
+[14:57:23] [Server thread/INFO]: Dweeb373 lost connection: Disconnected
+[14:57:23] [Server thread/INFO]: Dweeb373 left the game.
+[14:57:24] [Server thread/INFO]: <DomoPlanet[0;37;1m> ima go[m
+
+[14:57:41] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[14:57:41] [Server thread/INFO]: DomoPlanet left the game.
+[14:58:00] [Server thread/INFO]: SavageEagler issued server command: /wb
+[14:58:06] [Server thread/INFO]: <maroon5[0;37;1m> is the elder wand still a thing[m
+
+[14:58:18] [Server thread/INFO]: <maroon5[0;37;1m> is it still hidden or was it never made[m
+
+[14:58:28] [Server thread/INFO]: Given [Stone] * 64 to SavageEagler
+[14:59:15] [Server thread/INFO]: maroon5 issued server command: /home 1
+[14:59:21] [Craft Scheduler Thread - 114/INFO]: [Metrics] Connection refused
+[15:00:01] [Server thread/INFO]: <maroon5[0;37;1m> could u repair my boots lucas[m
+
+[15:00:09] [Server thread/INFO]: <SavageEagler[0;37;1m> sure[m
+
+[15:00:19] [Server thread/INFO]: <maroon5[0;37;1m> nvm[m
+
+[15:00:21] [Thread-61/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[15:00:21] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:42376] logged in with entity id 55914 at ([world]386.0, 70.0, -180.0)
+[15:00:26] [Server thread/INFO]: DomoPlanet issued server command: /
+[15:00:32] [Server thread/INFO]: DomoPlanet issued server command: /cast list
+[15:00:39] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[15:00:39] [Server thread/INFO]: maroon5 left the game.
+[15:01:10] [Thread-62/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[15:01:10] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:48380] logged in with entity id 56170 at ([world]386.0, 70.0, -180.0)
+[15:01:11] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[15:01:11] [Server thread/INFO]: DomoPlanet left the game.
+[15:01:27] [Server thread/INFO]: <Dab1080[0;37;1m> yo[m
+
+[15:01:28] [Thread-63/INFO]: UUID of player Dweeb373 is a8b75ddd-a143-324b-a193-53bc7b022c78
+[15:01:28] [Server thread/INFO]: Dweeb373[/[0:0:0:0:0:0:0:1]:32960] logged in with entity id 56431 at ([world]386.0, 70.0, -180.0)
+[15:01:31] [Server thread/INFO]: <SavageEagler[0;37;1m> what period is it[m
+
+[15:02:06] [Server thread/INFO]: <Dab1080[0;37;1m> 4th[m
+
+[15:02:44] [Thread-64/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[15:02:44] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:58020] logged in with entity id 56804 at ([world]386.0, 70.0, -180.0)
+[15:02:56] [Server thread/INFO]: <DomoPlanet[0;37;1m> WILL GO TO CLASS[m
+
+[15:02:58] [Server thread/INFO]: <DomoPlanet[0;37;1m> RIGHT NOW[m
+
+[15:03:07] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[15:03:07] [Server thread/INFO]: DomoPlanet left the game.
+[15:03:34] [Server thread/INFO]: <Dab1080[0;37;1m> i am in class tf[m
+
+[15:03:44] [Server thread/INFO]: Dweeb373 lost connection: Disconnected
+[15:03:44] [Server thread/INFO]: Dweeb373 left the game.
+[15:03:48] [Server thread/INFO]: Dab1080 issued server command: /cast list SavageEagler
+[15:04:09] [Server thread/INFO]: <SavageEagler[0;37;1m> mr tsui said we could stay in here[m
+
+[15:04:22] [Server thread/INFO]: <Dab1080[0;37;1m> lol[m
+
+[15:05:56] [Server thread/INFO]: <SavageEagler[0;37;1m> mrs nikki actually was nice for once[m
+
+[15:06:07] [Server thread/INFO]: <Dab1080[0;37;1m> oh cool ig[m
+
+[15:06:18] [Server thread/INFO]: SavageEagler issued server command: /tell Dab1080 wanna help me make a really good looking mob grinder
+[15:06:23] [Thread-65/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[15:06:23] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:59468] logged in with entity id 57277 at ([world]386.0, 70.0, -180.0)
+[15:06:31] [Server thread/INFO]: Dab1080 issued server command: /tell SavageEagler not really
+[15:06:34] [Server thread/INFO]: Void issued server command: /tpa SavageEagler
+[15:06:52] [Server thread/INFO]: SavageEagler issued server command: /tpyes
+[15:07:01] [Server thread/INFO]: <Void[0;37;1m> whats this[m
+
+[15:07:14] [Server thread/INFO]: <SavageEagler[0;37;1m> my new mob grinder[m
+
+[15:07:16] [Server thread/INFO]: Void issued server command: /cast list
+[15:07:22] [Server thread/INFO]: <Void[0;37;1m> ok[m
+
+[15:07:32] [Server thread/INFO]: Void issued server command: /cast teach teach SavageEagler
+[15:07:43] [Server thread/INFO]: Void issued server command: /cast teach teach SavageEagler
+[15:07:57] [Server thread/INFO]: Void issued server command: /tell SavageEagler how do i cast teach
+[15:08:11] [Server thread/INFO]: Void issued server command: /tell SavageEagler trying to teach you it
+[15:08:23] [Server thread/INFO]: SavageEagler issued server command: /tell Void do /cast teach (spell u wanna teach)
+[15:08:36] [Server thread/INFO]: Void issued server command: /cast teach teach
+[15:08:50] [Server thread/INFO]: Void issued server command: /cast teach SavageEagler teach
+[15:09:07] [Thread-66/INFO]: UUID of player Dweeb373 is a8b75ddd-a143-324b-a193-53bc7b022c78
+[15:09:07] [Server thread/INFO]: Dweeb373[/[0:0:0:0:0:0:0:1]:39690] logged in with entity id 58207 at ([world]386.0, 70.0, -180.0)
+[15:09:11] [Server thread/INFO]: SavageEagler issued server command: /tell Void teach me all ur spells and ill teach u all of mine
+[15:09:13] [Thread-67/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[15:09:13] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:57150] logged in with entity id 58480 at ([world]386.0, 70.0, -180.0)
+[15:09:18] [Server thread/INFO]: Void's spells: bind confusion help list shadowstep teach unbind [m
+
+[15:09:21] [Craft Scheduler Thread - 126/INFO]: [Metrics] Connection refused
+[15:09:22] [Server thread/INFO]: <DomoPlanet[0;37;1m> will where are you[m
+
+[15:09:24] [Server thread/INFO]: Void issued server command: /tell SavageEagler ok
+[15:09:27] [Server thread/INFO]: <DomoPlanet[0;37;1m> oh[m
+
+[15:09:31] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucas, wheres will[m
+
+[15:09:34] [Server thread/INFO]: Void issued server command: /cast teach SavageEagler shadowstep
+[15:09:45] [Server thread/INFO]: Void issued server command: /cast teach SavageEagler confusion
+[15:09:50] [Server thread/INFO]: Void issued server command: /cast list
+[15:09:53] [Server thread/INFO]: SavageEagler issued server command: /tell Void alr u ready
+[15:09:57] [Server thread/INFO]: SavageEagler issued server command: /cast list
+[15:10:01] [Server thread/INFO]: Void issued server command: /tell SavageEagler yes
+[15:10:03] [Server thread/INFO]: SavageEagler issued server command: /cast teach
+[15:10:10] [Server thread/INFO]: SavageEagler issued server command: /cast teach Void blink
+[15:10:10] [Server thread/INFO]: <Dweeb373[0;37;1m> tf[m
+
+[15:10:11] [Server thread/INFO]: Void issued server command: /home home
+[15:10:16] [Server thread/INFO]: <Dweeb373[0;37;1m> i found a random house[m
+
+[15:10:17] [Server thread/INFO]: SavageEagler issued server command: /cast teach Void disarm
+[15:10:25] [Server thread/INFO]: <DomoPlanet[0;37;1m> is it near 500 500[m
+
+[15:10:28] [Server thread/INFO]: SavageEagler issued server command: /cast teach Void explosivearrow
+[15:10:30] [Server thread/INFO]: <DomoPlanet[0;37;1m> if so, it's conners[m
+
+[15:10:31] [Server thread/INFO]: <Dweeb373[0;37;1m> no[m
+
+[15:10:34] [Server thread/INFO]: SavageEagler issued server command: /cast teach Void firenova
+[15:10:35] [Server thread/INFO]: DomoPlanet issued server command: /tpa Dab1080
+[15:10:39] [Server thread/INFO]: DomoPlanet issued server command: /tpa Dweeb373
+[15:10:40] [Server thread/INFO]: <Dab1080[0;37;1m> what gregg[m
+
+[15:10:46] [Server thread/INFO]: SavageEagler issued server command: /cast teach Void storm
+[15:10:47] [Server thread/INFO]: <DomoPlanet[0;37;1m> don't eccept dab[m
+
+[15:10:50] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[15:10:50] [Server thread/INFO]: Dab1080 left the game.
+[15:10:51] [Server thread/INFO]: <DomoPlanet[0;37;1m> dweeb accept[m
+
+[15:10:53] [Server thread/INFO]: Void issued server command: /cast list
+[15:10:55] [Server thread/INFO]: SavageEagler issued server command: /cast teach Void reach
+[15:11:08] [Server thread/INFO]: DomoPlanet issued server command: /cast reach
+[15:11:21] [Server thread/INFO]: DomoPlanet issued server command: /cast reach
+[15:11:32] [Server thread/INFO]: <Dweeb373[0;37;1m> don't really have anything to accept[m
+
+[15:11:37] [Thread-68/INFO]: UUID of player maroon5 is 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
+[15:11:37] [Server thread/INFO]: maroon5[/[0:0:0:0:0:0:0:1]:60302] logged in with entity id 59444 at ([world]386.0, 70.0, -180.0)
+[15:11:37] [Server thread/INFO]: DomoPlanet issued server command: /tpa Dweeb373
+[15:11:41] [Server thread/INFO]: <DomoPlanet[0;37;1m> let me see the house[m
+
+[15:11:43] [Server thread/INFO]: Dweeb373 issued server command: /tpaccept
+[15:11:47] [Server thread/INFO]: <DomoPlanet[0;37;1m> oh[m
+
+[15:11:47] [Server thread/INFO]: <maroon5[0;37;1m> gregg[m
+
+[15:11:48] [Server thread/INFO]: Void issued server command: /tell SavageEagler that all
+[15:11:50] [Server thread/INFO]: <DomoPlanet[0;37;1m> what[m
+
+[15:11:55] [Server thread/INFO]: <DomoPlanet[0;37;1m> will where arey ou[m
+
+[15:11:55] [Server thread/INFO]: <Void[0;37;1m> where are u will[m
+
+[15:12:00] [Server thread/INFO]: <DomoPlanet[0;37;1m> your not in calss[m
+
+[15:12:01] [Server thread/INFO]: <DomoPlanet[0;37;1m> class[m
+
+[15:12:02] [Server thread/INFO]: <maroon5[0;37;1m> what am i missing[m
+
+[15:12:09] [Server thread/INFO]: <Dweeb373[0;37;1m> science[m
+
+[15:12:17] [Server thread/INFO]: <DomoPlanet[0;37;1m> a test[m
+
+[15:12:19] [Server thread/INFO]: <DomoPlanet[0;37;1m> and notes[m
+
+[15:12:22] [Server thread/INFO]: <SavageEagler[0;37;1m> we get to stay in mr tsuis this period[m
+
+[15:12:28] [Server thread/INFO]: <DomoPlanet[0;37;1m> retard[m
+
+[15:12:40] [Server thread/INFO]: <DomoPlanet[0;37;1m> you gotta get premission from both teachers[m
+
+[15:12:50] [Thread-69/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+[15:12:50] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:47950] logged in with entity id 59683 at ([world]386.0, 70.0, -180.0)
+[15:12:50] [Server thread/INFO]: <maroon5[0;37;1m> mrs nicky[m
+
+[15:13:01] [Server thread/INFO]: <maroon5[0;37;1m> mr vicks boss said i could[m
+
+[15:13:01] [Server thread/INFO]: Void issued server command: /cast lick
+[15:13:07] [Server thread/INFO]: Void issued server command: /cast list
+[15:13:25] [Server thread/INFO]: Void issued server command: /cast bind explosivearrow
+[15:14:18] [Server thread/INFO]: DomoPlanet issued server command: /cast fireball
+[15:14:24] [Server thread/INFO]: DomoPlanet issued server command: /cast cripple
+[15:14:34] [Server thread/INFO]: DomoPlanet issued server command: /cast firenova
+[15:14:36] [Server thread/INFO]: <maroon5[0;37;1m> i need 2 more levels to fix ma boots[m
+
+[15:14:45] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[15:14:51] [Server thread/INFO]: SavageEagler issued server command: /cast teach maroon5 repair
+[15:14:53] [Server thread/INFO]: Void issued server command: /tell SavageEagler explosive arrow is nuts
+[15:14:59] [Server thread/INFO]: <maroon5[0;37;1m> sank u bbg[m
+
+[15:15:21] [Server thread/INFO]: maroon5 issued server command: /repair
+[15:15:26] [Server thread/INFO]: maroon5 issued server command: /cast repair
+[15:15:35] [Server thread/INFO]: maroon5 issued server command: /cast repair
+[15:15:44] [Server thread/INFO]: Void issued server command: /cast bind disarm
+[15:15:57] [Server thread/INFO]: Void issued server command: /cast bind explosivearrow
+[15:16:09] [Server thread/INFO]: Void issued server command: /cast bind disarm
+[15:16:24] [Server thread/INFO]: Void issued server command: /cast list
+[15:16:45] [Server thread/INFO]: maroon5 issued server command: /tell SavageEagler do u wanna trade spells
+[15:16:50] [Server thread/INFO]: Void issued server command: /home home
+[15:16:51] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucsa[m
+
+[15:16:55] [Server thread/INFO]: maroon5 issued server command: /tell SavageEagler like u did with logan
+[15:16:56] [Server thread/INFO]: maroon5's spells: armor bind cripple fireball firenova freeze help list poison reach repair shadowstep teach unbind [m
+
+[15:17:03] [Server thread/INFO]: <DomoPlanet[0;37;1m> turn the diffaculty settings from easy to hard[m
+
+[15:17:12] [Server thread/INFO]: SavageEagler issued server command: /cast teach maroon5 teach
+[15:17:17] [Server thread/INFO]: SavageEagler issued server command: /cast teach maroon5 teach
+[15:17:25] [Server thread/INFO]: maroon5 issued server command: /cast fireball
+[15:17:29] [Server thread/INFO]: SavageEagler issued server command: /tell maroon5 yes bbg
+[15:17:36] [Server thread/INFO]: maroon5 issued server command: /tpa SavageEagler
+[15:17:40] [Server thread/INFO]: Void issued server command: /cast bind firenova
+[15:17:42] [Server thread/INFO]: SavageEagler issued server command: /tpaccept
+[15:17:44] [Thread-71/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[15:17:44] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:40702] logged in with entity id 60984 at ([world]386.0, 70.0, -180.0)
+[15:17:55] [Server thread/INFO]: maroon5 issued server command: /cast list
+[15:17:58] [Server thread/INFO]: <DomoPlanet[0;37;1m> void[m
+
+[15:17:58] [Server thread/INFO]: <DomoPlanet[0;37;1m> void[m
+
+[15:18:00] [Server thread/WARN]: Dab1080 was kicked for floating too long!
+[15:18:00] [Server thread/INFO]: Dab1080 lost connection: Flying is not enabled on this server
+[15:18:00] [Server thread/INFO]: Dab1080 left the game.
+[15:18:03] [Thread-72/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
+[15:18:04] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:43620] logged in with entity id 61103 at ([world]386.0, 70.0, -180.0)
+[15:18:04] [Server thread/INFO]: <DomoPlanet[0;37;1m> logan[m
+
+[15:18:08] [Server thread/INFO]: Dweeb373 issued server command: /tell DomoPlanet DO you have blink
+[15:18:14] [Server thread/INFO]: <DomoPlanet[0;37;1m> look at the mobgrinder[m
+
+[15:18:20] [Server thread/INFO]: <Void[0;37;1m> just a sec[m
+
+[15:18:20] [Server thread/INFO]: There is no such item with name minecraft:red_stained_clay
+[15:18:25] [Server thread/INFO]: maroon5 issued server command: /cast teach freeze
+[15:18:33] [Server thread/INFO]: DomoPlanet issued server command: /tell Dweeb373 no
+[15:18:33] [Server thread/INFO]: maroon5 issued server command: /cast teach SavageEagler freeze
+[15:18:38] [Server thread/INFO]: maroon5 issued server command: /cast teach SavageEagler armor
+[15:18:41] [Server thread/INFO]: <DomoPlanet[0;37;1m> stop useing firenova[m
+
+[15:18:45] [Server thread/INFO]: Usage: /give <player> <item> [amount] [data] [dataTag]
+[15:18:49] [Server thread/INFO]: <DomoPlanet[0;37;1m> and loook[m
+
+[15:18:49] [Server thread/INFO]: maroon5 issued server command: /cast teach SavageEagler poison
+[15:18:53] [Server thread/INFO]: <Void[0;37;1m> ok just testing it[m
+
+[15:18:58] [Server thread/INFO]: <DomoPlanet[0;37;1m> I AM GOD[m
+
+[15:18:59] [Server thread/INFO]: maroon5's spells: armor bind cripple fireball firenova freeze help list poison reach repair shadowstep teach unbind [m
+
+[15:19:04] [Server thread/INFO]: <Dab1080[0;37;1m> Hallo! :D[m
+
+[15:19:05] [Server thread/INFO]: SavageEagler issued server command: /cast list
+[15:19:05] [Server thread/INFO]: <DomoPlanet[0;37;1m> 1 sec[m
+
+[15:19:08] [Server thread/INFO]: maroon5 issued server command: /tell SavageEagler ur turn
+[15:19:15] [Server thread/INFO]: SavageEagler issued server command: /cast teach maroon5 blink
+[15:19:20] [Server thread/INFO]: Void issued server command: /cast bind storm
+[15:19:21] [Craft Scheduler Thread - 136/INFO]: [Metrics] Connection refused
+[15:19:22] [Server thread/INFO]: SavageEagler issued server command: /cast teach maroon5 confusion
+[15:19:31] [Server thread/INFO]: SavageEagler issued server command: /cast teach maroon5 explosivearrow
+[15:19:40] [Server thread/INFO]: DomoPlanet issued server command: /c
+[15:19:45] [Server thread/INFO]: DomoPlanet issued server command: /cast poison
+[15:19:51] [Server thread/INFO]: maroon5's spells: armor bind blink confusion cripple explosivearrow fireball firenova freeze help list poison reach repair shadowstep teach unbind [m
+
+[15:19:53] [Server thread/INFO]: maroon5 issued server command: /cast list SavageEagler list
+[15:19:55] [Server thread/INFO]: DomoPlanet issued server command: /tell void what was that
+[15:19:57] [Server thread/INFO]: <Void[0;37;1m> cooked rabbit anyone[m
+
+[15:20:07] [Server thread/INFO]: SavageEagler issued server command: /cast teach maroon5 forcetoss
+[15:20:11] [Server thread/INFO]: DomoPlanet issued server command: /tell void was that zeuz?
+[15:20:17] [Server thread/INFO]: DomoPlanet issued server command: /tpa kevinthegaint
+[15:20:18] [Server thread/INFO]: maroon5 issued server command: /tell SavageEagler sank u bbg
+[15:20:22] [Server thread/INFO]: Void issued server command: /tell SavageEagler storm doesnt work on people
+[15:20:24] [Server thread/INFO]: maroon5 issued server command: /home 1
+[15:20:28] [Server thread/INFO]: DomoPlanet issued server command: /tell kevinthegaint i would like zuez sppell
+[15:20:28] [Server thread/INFO]: Void issued server command: /tell DomoPlanet nope
+[15:20:33] [Server thread/INFO]: SavageEagler issued server command: /tell maroon5 no prob my discord kitten
+[15:20:33] [Server thread/INFO]: DomoPlanet issued server command: /tell void what was that
+[15:20:38] [Server thread/INFO]: Void issued server command: /cast list
+[15:20:40] [Server thread/INFO]: DomoPlanet issued server command: /tell kevin i will give you spells aswell
+[15:20:40] [Server thread/INFO]: [DomoPlanet: That player cannot be found]
+[15:20:45] [Server thread/INFO]: SavageEagler issued server command: /tell Void ik ima fix it rq
+[15:20:46] [Server thread/INFO]: DomoPlanet issued server command: /tell kevinthegaintvin i will give you spells aswell
+[15:20:46] [Server thread/INFO]: [DomoPlanet: That player cannot be found]
+[15:20:46] [Server thread/INFO]: maroon5 issued server command: /cast bind forcetoss
+[15:20:50] [Server thread/INFO]: Dab1080 issued server command: /tell kevinthegaint dont give gregg zeus
+[15:20:51] [Server thread/INFO]: DomoPlanet issued server command: /tell kevinthegaint i will give you spells aswell
+[15:20:55] [Server thread/INFO]: DomoPlanet issued server command: /tpa kevinthegaint
+[15:20:56] [Server thread/INFO]: Void issued server command: /tell DomoPlanet storm
+[15:21:03] [Server thread/INFO]: That person does not know that spell.[m
+
+[15:21:25] [Server thread/INFO]: DomoPlanet issued server command: /tpa kevinthegaint
+[15:21:32] [Server thread/INFO]: <SavageEagler[0;37;1m> ill restart server in 5 mins[m
+
+[15:21:33] [Server thread/INFO]: Void issued server command: /cast bind reach
+[15:21:36] [Server thread/INFO]: kevinthegaint issued server command: /tpaccept
+[15:21:38] [Server thread/INFO]: kevinthegaint issued server command: /
+[15:21:46] [Server thread/INFO]: DomoPlanet issued server command: /cast teach kevinthegaint teach
+[15:21:52] [Server thread/INFO]: <kevinthegaint[0;37;1m> hey[m
+
+[15:22:03] [Server thread/INFO]: <Dab1080[0;37;1m> pookie bear conner :D[m
+
+[15:22:04] [Server thread/INFO]: SavageEagler issued server command: /sethome nig
+[15:22:06] [Server thread/INFO]: DomoPlanet issued server command: /tell kevin type in chat /cast teach DomoPlanet zeuz
+[15:22:06] [Server thread/INFO]: [DomoPlanet: That player cannot be found]
+[15:22:10] [Server thread/INFO]: SavageEagler issued server command: /home ug
+[15:22:12] [Server thread/INFO]: SavageEagler issued server command: /homes
+[15:22:12] [Server thread/INFO]: DomoPlanet issued server command: /tell kevinthegaintn type in chat /cast teach DomoPlanet zeuz
+[15:22:12] [Server thread/INFO]: [DomoPlanet: That player cannot be found]
+[15:22:15] [Server thread/INFO]: <kevinthegaint[0;37;1m> hubby[m
+
+[15:22:21] [Server thread/INFO]: DomoPlanet issued server command: /tell kevinthegaint type in chat /cast teach DomoPlanet zeuz
+[15:22:40] [Server thread/INFO]: <Void[0;37;1m> greg come here[m
+
+[15:22:53] [Server thread/INFO]: DomoPlanet issued server command: /tpa void
+[15:22:54] [Server thread/INFO]: Dab1080 issued server command: /tell DomoPlanet STOP TRYING TO GET ZEUS
+[15:22:59] [Server thread/INFO]: Void issued server command: /tpaccept
+[15:23:01] [Server thread/INFO]: DomoPlanet issued server command: /tell Dab1080 wdym
+[15:23:03] [Server thread/INFO]: maroon5 issued server command: /tpa DomoPlanet
+[15:23:09] [Server thread/INFO]: DomoPlanet issued server command: /tell Dab1080 quit reading my shit fucker
+[15:23:10] [Server thread/INFO]: DomoPlanet issued server command: /hoem a
+[15:23:16] [Server thread/INFO]: <DomoPlanet[0;37;1m> DAB IS ADMIN ABUSEING[m
+
+[15:23:17] [Server thread/INFO]: Dab1080 issued server command: /tell DomoPlanet quit trying to get zeus :/
+[15:23:19] [Server thread/INFO]: <Dab1080[0;37;1m> HOW[m
+
+[15:23:30] [Server thread/INFO]: <DomoPlanet[0;37;1m> READING MY SECRET CHATS[m
+
+[15:23:34] [Server thread/INFO]: <DomoPlanet[0;37;1m> ADMIN ABUSSEEEEE[m
+
+[15:23:38] [Server thread/INFO]: <Dab1080[0;37;1m> cap[m
+
+[15:23:41] [Server thread/INFO]: <DomoPlanet[0;37;1m> no hat[m
+
+[15:23:48] [Server thread/INFO]: <Dab1080[0;37;1m> lucas does it too, so its not abuse[m
+
+[15:23:49] [Server thread/INFO]: <DomoPlanet[0;37;1m> not cap i got screenshots[m
+
+[15:23:51] [Server thread/INFO]: <SavageEagler[0;37;1m> close out console will[m
+
+[15:23:54] [Server thread/INFO]: <maroon5[0;37;1m> screenshot and send proof[m
+
+[15:24:00] [Server thread/INFO]: <DomoPlanet[0;37;1m> that's both of you cheating then[m
+
+[15:24:04] [Server thread/INFO]: <Dab1080[0;37;1m> exactly[m
+
+[15:24:10] [Server thread/INFO]: Void issued server command: /tell DomoPlanet swap to weapon
+[15:24:18] [Server thread/INFO]: SavageEagler issued server command: /tell Void lets kill gregg
+[15:24:30] [Server thread/INFO]: SavageEagler issued server command: /tell Void move
+[15:24:32] [Server thread/INFO]: Void issued server command: /tell SavageEagler not yet
+[15:24:44] [Server thread/INFO]: SavageEagler issued server command: /tell Void move or u die too
+[15:24:46] [Server thread/INFO]: <DomoPlanet[0;37;1m> HE WAS READING MY SHIT[m
+
+[15:24:52] [Server thread/INFO]: <DomoPlanet[0;37;1m> DELETE HIS ADMIN ACCOUNT[m
+
+[15:24:53] [Server thread/INFO]: SavageEagler issued server command: /cast bind poison
+[15:24:58] [Server thread/INFO]: SavageEagler issued server command: /cast list
+[15:24:58] [Server thread/INFO]: <Dab1080[0;37;1m> hmm[m
+
+[15:25:04] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Explosion.a(Explosion.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.createExplosion(World.java:1916) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.createExplosion(WorldServer.java:1053) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftWorld.createExplosion(CraftWorld.java:569) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftWorld.createExplosion(CraftWorld.java:565) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftWorld.createExplosion(CraftWorld.java:577) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at com.nisovin.magicspells.volatilecode.VolatileCodeDisabled.createExplosionByPlayer(VolatileCodeDisabled.java:63) ~[?:?]
+	at com.nisovin.magicspells.spells.targeted.ExplodeSpell.explode(ExplodeSpell.java:88) ~[?:?]
+	at com.nisovin.magicspells.spells.targeted.ExplodeSpell.castAtLocation(ExplodeSpell.java:97) ~[?:?]
+	at com.nisovin.magicspells.spells.instant.ProjectileSpell.projectileHitLocation(ProjectileSpell.java:246) ~[?:?]
+	at com.nisovin.magicspells.spells.instant.ProjectileSpell.access$200(ProjectileSpell.java:46) ~[?:?]
+	at com.nisovin.magicspells.spells.instant.ProjectileSpell$ProjectileListener.onProjectileHit(ProjectileSpell.java:321) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.nisovin.magicspells.MagicSpells$7.execute(MagicSpells.java:813) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:760) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityArrow.t_(EntityArrow.java:232) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 39 more
+[15:25:04] [Server thread/INFO]: DomoPlanet blew up
+[15:25:05] [Server thread/INFO]: <Dab1080[0;37;1m> do it?[m
+
+[15:25:09] [Server thread/INFO]: DomoPlanet issued server command: /BACK
+[15:25:12] [Server thread/INFO]: <maroon5[0;37;1m> lucas u did say u were gonna ban him if he did it agian[m
+
+[15:25:15] [Server thread/INFO]: <DomoPlanet[0;37;1m> dab just blew me up[m
+
+[15:25:19] [Server thread/INFO]: <DomoPlanet[0;37;1m> jk[m
+
+[15:25:30] [Server thread/INFO]: <DomoPlanet[0;37;1m> YOU FAGGOT[m
+
+[15:25:31] [Server thread/INFO]: <DomoPlanet[0;37;1m> my lvls[m
+
+[15:25:36] [Server thread/INFO]: <DomoPlanet[0;37;1m> AND MY SHIT IS GONE[m
+
+[15:25:41] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucas gimme my sutff[m
+
+[15:25:44] [Server thread/INFO]: <Dab1080[0;37;1m> he said he would de op me. BUT LUCAS DOES THE SAME SHIT[m
+
+[15:26:08] [Server thread/INFO]: Banned player Dab1080_
+[15:26:13] [Server thread/INFO]: <Void[0;37;1m> brb[m
+
+[15:26:15] [Server thread/INFO]: Void lost connection: Disconnected
+[15:26:15] [Server thread/INFO]: Void left the game.
+[15:26:38] [Server thread/INFO]: <DomoPlanet[0;37;1m> You fuckes are messing up the grouns[m
+
+[15:26:46] [Server thread/INFO]: maroon5 issued server command: /sethome v
+[15:26:48] [Server thread/INFO]: <SavageEagler[0;37;1m> wanna pvp[m
+
+[15:26:53] [Server thread/INFO]: SavageEagler issued server command: /home r
+[15:27:00] [Server thread/INFO]: <Dab1080[0;37;1m> a[m
+
+[15:27:03] [Server thread/INFO]: <DomoPlanet[0;37;1m> i can't this period[m
+
+[15:27:03] [Server thread/INFO]: <Dab1080[0;37;1m> oops[m
+
+[15:27:06] [Server thread/INFO]: <DomoPlanet[0;37;1m> mr vick[m
+
+[15:27:19] [Server thread/INFO]: Dweeb373 issued server command: /cast list
+[15:27:40] [Server thread/INFO]: DomoPlanet issued server command: /tell void idd you blow me up
+[15:27:40] [Server thread/INFO]: [DomoPlanet: That player cannot be found]
+[15:27:44] [Server thread/INFO]: <SavageEagler[0;37;1m> who wanna pvp[m
+
+[15:28:10] [Server thread/INFO]: Changing to clear weather
+[15:28:18] [Thread-73/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[15:28:18] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:37090] logged in with entity id 68399 at ([world]386.0, 70.0, -180.0)
+[15:28:27] [Server thread/INFO]: <DomoPlanet[0;37;1m> lucsa, why did you blow me up[m
+
+[15:28:33] [Server thread/INFO]: Void lost connection: Disconnected
+[15:28:33] [Server thread/INFO]: Void left the game.
+[15:28:38] [Thread-74/INFO]: UUID of player Void is 0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b
+[15:28:38] [Server thread/INFO]: Void[/[0:0:0:0:0:0:0:1]:56100] logged in with entity id 69006 at ([world]386.0, 70.0, -180.0)
+[15:28:42] [Server thread/INFO]: <Dab1080[0;37;1m> did you blow yourself up?[m
+
+[15:28:44] [Server thread/INFO]: SavageEagler issued server command: /tell DomoPlanet i was trying to kill void
+[15:28:49] [Server thread/INFO]: <Dab1080[0;37;1m> youre kinda an idiot tbh[m
+
+[15:28:52] [Server thread/INFO]: DomoPlanet issued server command: /tell SavageEagler oh
+[15:28:57] [Server thread/INFO]: <DomoPlanet[0;37;1m> you just mad[m
+
+[15:29:00] [Server thread/INFO]: <DomoPlanet[0;37;1m> your cheating[m
+
+[15:29:04] [Server thread/INFO]: <Dab1080[0;37;1m> nah[m
+
+[15:29:05] [Server thread/INFO]: <DomoPlanet[0;37;1m> and got caight[m
+
+[15:29:10] [Server thread/WARN]: Void moved wrongly!
+[15:29:17] [Server thread/INFO]: Dab1080 issued server command: /tell DomoPlanet ik lucas can see this cause he does the same shit
+[15:29:23] [Craft Scheduler Thread - 142/INFO]: [Metrics] Connection refused
+[15:29:27] [Server thread/INFO]: <Void[0;37;1m> didnt you just fix this hole[m
+
+[15:29:41] [Server thread/INFO]: SavageEagler issued server command: /tpa kevinthegaint
+[15:29:49] [Server thread/INFO]: kevinthegaint issued server command: /tpaccept
+[15:30:06] [Server thread/INFO]: <SavageEagler[0;37;1m> you moving?[m
+
+[15:30:07] [Server thread/INFO]: DomoPlanet issued server command: /tell Dab1080 i don't trust lucas, he's being quiet and he's distancing himself from me
+[15:30:24] [Server thread/INFO]: Dab1080 issued server command: /tell DomoPlanet and you decided to take away my power to stop him?
+[15:30:24] [Server thread/INFO]: DomoPlanet issued server command: /tell Dab1080 i have a home over 10,000 blocks away just incase
+[15:30:38] [Server thread/INFO]: DomoPlanet issued server command: /tell Dab1080 your "powr" isn't removed
+[15:30:43] [Server thread/INFO]: SavageEagler issued server command: /sethome kevinthegaint
+[15:30:44] [Server thread/INFO]: <Void[0;37;1m> imma just search around the island, ill be back at the base later[m
+
+[15:30:47] [Server thread/INFO]: SavageEagler issued server command: /home r
+[15:30:56] [Server thread/INFO]: Dab1080 issued server command: /tell DomoPlanet my op account is my power lol
+[15:31:15] [Server thread/INFO]: <SavageEagler[0;37;1m> do you have god sword connor[m
+
+[15:31:17] [Server thread/INFO]: <DomoPlanet[0;37;1m> FUCKING BITCH[m
+
+[15:31:19] [Server thread/INFO]: SavageEagler issued server command: /home kevinthegaint
+[15:31:27] [Server thread/INFO]: <maroon5[0;37;1m> what happen[m
+
+[15:31:29] [Server thread/INFO]: <Void[0;37;1m> what[m
+
+[15:31:32] [Server thread/INFO]: DomoPlanet issued server command: /cripple void
+[15:31:39] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[15:31:41] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[15:31:41] [Server thread/INFO]: DomoPlanet left the game.
+[15:32:15] [Server thread/INFO]: Void issued server command: /home home
+[15:32:18] [Server thread/INFO]: <maroon5[0;37;1m> hayden[m
+
+[15:32:21] [Server thread/INFO]: Dweeb373 issued server command: /sethome travel
+[15:32:23] [Server thread/INFO]: <maroon5[0;37;1m> what happened[m
+
+[15:32:27] [Server thread/INFO]: Dweeb373 issued server command: /home b
+[15:32:40] [Server thread/INFO]: Dweeb373 issued server command: /home a
+[15:32:53] [Server thread/INFO]: Given [Hardened Clay] * 64 to SavageEagler
+[15:32:54] [Server thread/INFO]: Given [Hardened Clay] * 64 to SavageEagler
+[15:32:54] [Server thread/INFO]: <Void[0;37;1m> there was a creeper in the base[m
+
+[15:33:00] [Server thread/INFO]: <Dab1080[0;37;1m> imagine[m
+
+[15:33:09] [Server thread/INFO]: <maroon5[0;37;1m> is all his shit gone[m
+
+[15:33:15] [Server thread/INFO]: <Void[0;37;1m> i got scared[m
+
+[15:33:37] [Server thread/INFO]: Given [Bone] * 64 to SavageEagler
+[15:33:39] [Server thread/INFO]: Given [Bone] * 64 to SavageEagler
+[15:33:40] [Server thread/INFO]: Given [Hardened Clay] * 64 to SavageEagler
+[15:33:42] [Server thread/INFO]: Given [Hardened Clay] * 64 to SavageEagler
+[15:33:42] [Server thread/INFO]: Given [Hardened Clay] * 64 to SavageEagler
+[15:34:29] [Server thread/INFO]: Void issued server command: /cast bind firenova
+[15:34:46] [Server thread/INFO]: SavageEagler issued server command: /tell kevinthegaint can i help?
+[15:35:03] [Server thread/INFO]: <kevinthegaint[0;37;1m> im just bulding a house[m
+
+[15:35:03] [Server thread/INFO]: There is no such item with name minecraft:oak_log
+[15:35:07] [Server thread/INFO]: maroon5 issued server command: /give@s iron_leggings
+[15:35:08] [Server thread/INFO]: Given [Oak Wood] * 64 to SavageEagler
+[15:35:16] [Server thread/WARN]: Void moved wrongly!
+[15:35:25] [Server thread/INFO]: Void has just earned the achievement [Hot Topic]
+[15:35:31] [Server thread/INFO]: Dab1080 issued server command: /tell SavageEagler and they say im cheating :/
+[15:35:48] [Server thread/INFO]: <Void[0;37;1m> sorry[m
+
+[15:36:30] [Server thread/INFO]: Void lost connection: Disconnected
+[15:36:30] [Server thread/INFO]: Void left the game.
+[15:36:43] [Server thread/INFO]: <SavageEagler[0;37;1m> like that?[m
+
+[15:36:53] [Server thread/INFO]: Dab1080 issued server command: /tell SavageEagler wanna give me food broski
+[15:36:55] [Server thread/INFO]: <kevinthegaint[0;37;1m> yes[m
+
+[15:37:58] [Server thread/INFO]: Given [Oak Wood] * 64 to SavageEagler
+[15:37:59] [Server thread/INFO]: Given [Oak Wood] * 64 to SavageEagler
+[15:38:00] [Server thread/INFO]: Given [Oak Wood] * 64 to SavageEagler
+[15:38:09] [Server thread/INFO]: <kevinthegaint[0;37;1m> wtf[m
+
+[15:38:27] [Thread-75/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[15:38:27] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:50628] logged in with entity id 73630 at ([world]386.0, 70.0, -180.0)
+[15:38:53] [Server thread/INFO]: <DomoPlanet[0;37;1m> im moving houses[m
+
+[15:39:00] [Server thread/INFO]: Given [Glass Pane] * 64 to SavageEagler
+[15:39:03] [Server thread/INFO]: <DomoPlanet[0;37;1m> because FUCK THIS[m
+
+[15:39:05] [Server thread/INFO]: Dab1080 issued server command: /home e
+[15:39:06] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[15:39:06] [Server thread/INFO]: DomoPlanet left the game.
+[15:39:21] [Server thread/INFO]: SavageEagler issued server command: /tell Dab1080 sure tp
+[15:39:25] [Craft Scheduler Thread - 146/INFO]: [Metrics] Connection refused
+[15:39:40] [Server thread/INFO]: Dab1080 issued server command: /tpa SavageEagler
+[15:39:43] [Server thread/INFO]: SavageEagler issued server command: /tpyes
+[15:40:12] [Server thread/INFO]: maroon5 issued server command: /sethome snow
+[15:40:17] [Server thread/INFO]: <Dab1080[0;37;1m> nice base tbh[m
+
+[15:40:27] [Server thread/INFO]: <kevinthegaint[0;37;1m> hey do you have white clay[m
+
+[15:40:39] [Server thread/INFO]: Dab1080 issued server command: /tell SavageEagler "how did you get this stuff" lol
+[15:41:02] [Server thread/INFO]: SavageEagler issued server command: /tell Dab1080 ive been mining clay for my other project
+[15:41:05] [Server thread/INFO]: Dab1080 issued server command: /tell SavageEagler off camera mining lol
+[15:41:20] [Server thread/INFO]: SavageEagler issued server command: /tell Dab1080 no i actually mined it
+[15:41:27] [Server thread/INFO]: Dab1080 issued server command: /tell SavageEagler sure...
+[15:41:56] [Server thread/INFO]: SavageEagler issued server command: /tell Dab1080 close the console and i baned you admin account til friday
+[15:42:03] [Server thread/INFO]: Dab1080 issued server command: /tell SavageEagler why?
+[15:42:19] [Server thread/INFO]: <SavageEagler[0;37;1m> go up a block[m
+
+[15:42:49] [Server thread/INFO]: Given [Stone] * 64 to SavageEagler
+[15:43:07] [Server thread/INFO]: Dab1080 issued server command: /tell SavageEagler tell me. do you or do you not do the same shit?
+[15:43:27] [Server thread/INFO]: SavageEagler issued server command: /tell Dab1080 read people private converstations? no
+[15:43:44] [Server thread/INFO]: Dweeb373 issued server command: /tp c
+[15:43:49] [Server thread/INFO]: Dweeb373 issued server command: /home c
+[15:43:54] [Server thread/INFO]: Dweeb373 lost connection: Disconnected
+[15:43:54] [Server thread/INFO]: Dweeb373 left the game.
+[15:43:57] [Server thread/INFO]: Dab1080 issued server command: /tell SavageEagler fair, but youve cheated more than i have
+[15:44:07] [Thread-76/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[15:44:07] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:39630] logged in with entity id 75255 at ([world]386.0, 70.0, -180.0)
+[15:44:10] [Server thread/INFO]: maroon5 issued server command: /homes
+[15:44:16] [Server thread/INFO]: maroon5 issued server command: /sethome b
+[15:44:18] [Server thread/INFO]: <SavageEagler[0;37;1m> leave the outer ring cobble[m
+
+[15:44:29] [Server thread/INFO]: Given [Stone] * 64 to SavageEagler
+[15:44:31] [Server thread/INFO]: Dab1080 issued server command: /tell kevinthegaint this mf istg
+[15:44:46] [Server thread/INFO]: <Dab1080[0;37;1m> why[m
+
+[15:44:51] [Server thread/INFO]: <Dab1080[0;37;1m> I STILL NEED FOOD[m
+
+[15:45:09] [Server thread/INFO]: <Dab1080[0;37;1m> kinda the only reason i came lol[m
+
+[15:45:11] [Server thread/INFO]: Dab1080 issued server command: /home e
+[15:45:24] [Server thread/INFO]: <kevinthegaint[0;37;1m> i have food[m
+
+[15:45:30] [Server thread/INFO]: Dab1080 lost connection: Disconnected
+[15:45:30] [Server thread/INFO]: Dab1080 left the game.
+[15:45:49] [Server thread/INFO]: <kevinthegaint[0;37;1m> hey i will finsh this next class[m
+
+[15:46:02] [Server thread/INFO]: Given [Stone] * 64 to SavageEagler
+[15:46:08] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[15:46:08] [Server thread/INFO]: DomoPlanet left the game.
+[15:46:13] [Server thread/INFO]: kevinthegaint lost connection: Disconnected
+[15:46:13] [Server thread/INFO]: kevinthegaint left the game.
+[15:47:49] [Thread-78/INFO]: UUID of player Void_ is 93f291e4-eb19-3494-9f26-aa07a7337e46
+[15:47:49] [Server thread/INFO]: Void_[/[0:0:0:0:0:0:0:1]:45494] logged in with entity id 76780 at ([world]386.0, 70.0, -180.0)
+[15:47:58] [Thread-79/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[15:47:58] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:43774] logged in with entity id 77101 at ([world]386.0, 70.0, -180.0)
+[15:48:17] [Server thread/INFO]: Void_ issued server command: /tpa DomoPlanet
+[15:48:26] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[15:48:29] [Server thread/INFO]: DomoPlanet issued server command: /msg void_ yeah?
+[15:48:33] [Server thread/INFO]: DomoPlanet issued server command: /tell void_ yeah?
+[15:48:44] [Server thread/INFO]: DomoPlanet issued server command: /
+[15:48:47] [Server thread/INFO]: <Void_[0;37;1m> tell DomoPlanet yeah lets start moving stuff[m
+
+[15:48:51] [Server thread/INFO]: <DomoPlanet[0;37;1m> alr[m
+
+[15:48:56] [Server thread/INFO]: Void_ issued server command: /sethome 1
+[15:48:56] [Server thread/INFO]: <DomoPlanet[0;37;1m> cmere[m
+
+[15:49:07] [Thread-80/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+[15:49:07] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:54464] logged in with entity id 77495 at ([world]386.0, 70.0, -180.0)
+[15:49:23] [Server thread/INFO]: DomoPlanet issued server command: /home c
+[15:49:26] [Craft Scheduler Thread - 155/INFO]: [Metrics] Connection refused
+[15:49:27] [Server thread/INFO]: DomoPlanet issued server command: /home a
+[15:49:30] [Server thread/INFO]: <maroon5[0;37;1m> DomoPlanet[m
+
+[15:49:35] [Server thread/INFO]: <maroon5[0;37;1m> tp to me[m
+
+[15:49:40] [Server thread/INFO]: <maroon5[0;37;1m> but dont move[m
+
+[15:49:45] [Server thread/INFO]: Void_ issued server command: /tell DomoPlanet now to bunker
+[15:49:46] [Server thread/INFO]: <maroon5[0;37;1m> u might fall[m
+
+[15:50:07] [Server thread/INFO]: DomoPlanet issued server command: /tpa maroon5
+[15:50:10] [Server thread/INFO]: <DomoPlanet[0;37;1m> mb i was afk[m
+
+[15:50:12] [Server thread/INFO]: maroon5 issued server command: /tpyes
+[15:50:18] [Server thread/INFO]: <DomoPlanet[0;37;1m> wat is this[m
+
+[15:50:27] [Server thread/INFO]: <maroon5[0;37;1m> cmere[m
+
+[15:50:34] [Server thread/INFO]: Void_ issued server command: /tpa DomoPlanet
+[15:50:45] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 should we move here?
+[15:50:46] [Server thread/INFO]: DomoPlanet issued server command: /tpyes
+[15:50:59] [Server thread/INFO]: maroon5 issued server command: /tell DomoPlanet the one watches
+[15:51:12] [Thread-81/INFO]: UUID of player Dweeb373 is a8b75ddd-a143-324b-a193-53bc7b022c78
+[15:51:12] [Server thread/INFO]: Dweeb373[/[0:0:0:0:0:0:0:1]:36362] logged in with entity id 78388 at ([world]386.0, 70.0, -180.0)
+[15:51:15] [Server thread/INFO]: <Void_[0;37;1m> whats going on[m
+
+[15:51:18] [Server thread/INFO]: maroon5 issued server command: /cast teach DomoPlanet blink
+[15:51:21] [Server thread/INFO]: DomoPlanet issued server command: /tell maroon5 the one watches the scripples
+[15:51:27] [Server thread/INFO]: <maroon5[0;37;1m> to to me[m
+
+[15:51:32] [Server thread/INFO]: DomoPlanet issued server command: /cast blink maroon5
+[15:51:35] [Server thread/INFO]: DomoPlanet issued server command: /tpa maroon5
+[15:51:37] [Server thread/INFO]: <maroon5[0;37;1m> tpyes[m
+
+[15:51:43] [Server thread/INFO]: maroon5 issued server command: /tpyes
+[15:51:46] [Server thread/INFO]: Dweeb373 lost connection: Disconnected
+[15:51:46] [Server thread/INFO]: Dweeb373 left the game.
+[15:51:51] [Server thread/INFO]: <DomoPlanet[0;37;1m> i gotta go[m
+
+[15:51:51] [Server thread/INFO]: kevinthegaint lost connection: Disconnected
+[15:51:51] [Server thread/INFO]: kevinthegaint left the game.
+[15:51:52] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[15:51:52] [Server thread/INFO]: DomoPlanet left the game.
+[15:52:40] [Server thread/INFO]: maroon5 issued server command: /homes
+[15:52:52] [Server thread/INFO]: maroon5 issued server command: /sethome peak
+[15:53:52] [Thread-82/INFO]: UUID of player kevinthegaint is 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+[15:53:52] [Server thread/INFO]: kevinthegaint[/[0:0:0:0:0:0:0:1]:55382] logged in with entity id 79188 at ([world]386.0, 70.0, -180.0)
+[15:53:53] [Server thread/INFO]: Void_ issued server command: /tpa maroon5
+[15:53:59] [Server thread/INFO]: maroon5 issued server command: /tpyes
+[15:54:11] [Server thread/INFO]: maroon5 issued server command: /home peak
+[15:54:18] [Server thread/INFO]: <maroon5[0;37;1m> who is that[m
+
+[15:54:21] [Server thread/INFO]: Given [Oak Wood] * 64 to SavageEagler
+[15:54:32] [Server thread/INFO]: <SavageEagler[0;37;1m> who is what[m
+
+[15:54:37] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.e(EntityLiving.java:949) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.e(EntityHuman.java:1451) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Block.fallOn(Block.java:650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.a(Entity.java:845) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.a(EntityLiving.java:165) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:638) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:459) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 27 more
+[15:54:37] [Server thread/INFO]: maroon5 fell from a high place
+[15:54:42] [Server thread/INFO]: maroon5 issued server command: /back
+[15:54:44] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler lie
+[15:54:51] [Server thread/INFO]: <maroon5[0;37;1m> void _[m
+
+[15:54:54] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler its funny
+[15:54:59] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityArrow.t_(EntityArrow.java:250) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[15:54:59] [Server thread/INFO]: maroon5 was shot by Skeleton
+[15:55:02] [Server thread/INFO]: maroon5 issued server command: /back
+[15:55:32] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler last time i do it
+[15:56:05] [Server thread/INFO]: Void_ issued server command: /tpa maroon5
+[15:56:08] [Server thread/INFO]: <maroon5[0;37;1m> who is void_[m
+
+[15:56:13] [Server thread/INFO]: maroon5 issued server command: /tpyes
+[15:56:21] [Server thread/INFO]: <SavageEagler[0;37;1m> idk[m
+
+[15:56:31] [Thread-83/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[15:56:31] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:39948] logged in with entity id 79928 at ([world]386.0, 70.0, -180.0)
+[15:56:52] [Server thread/INFO]: <DomoPlanet[0;37;1m> fucking mrs fatass bitch made me swtich seets[m
+
+[15:56:55] [Server thread/INFO]: <DomoPlanet[0;37;1m> WILL[m
+
+[15:57:01] [Server thread/INFO]: <maroon5[0;37;1m> what[m
+
+[15:57:07] [Server thread/INFO]: <DomoPlanet[0;37;1m> where did you want me to go[m
+
+[15:57:14] [Server thread/INFO]: Void_ issued server command: /tell maroon5 was giving carrots
+[15:57:33] [Server thread/INFO]: maroon5 issued server command: /tell Void_ u knocked me off and killed me my boots are gone
+[15:57:46] [Server thread/INFO]: Void_ issued server command: /tell maroon5 worship your wrathful god
+[15:57:55] [Server thread/INFO]: maroon5 issued server command: /tell Void_ who r u
+[15:58:00] [Server thread/INFO]: <DomoPlanet[0;37;1m> will why am i here[m
+
+[15:58:11] [Server thread/INFO]: DomoPlanet issued server command: /msg void_ let's move here
+[15:58:15] [Server thread/INFO]: kevinthegaint lost connection: Disconnected
+[15:58:15] [Server thread/INFO]: kevinthegaint left the game.
+[15:58:16] [Server thread/INFO]: DomoPlanet issued server command: /tell void_ let's move here
+[15:58:18] [Server thread/INFO]: maroon5 issued server command: /tell void_ they were full enchant
+[15:58:53] [Server thread/INFO]: maroon5 issued server command: /tell void_ thorns?
+[15:59:27] [Craft Scheduler Thread - 167/INFO]: [Metrics] Connection refused
+[15:59:35] [Server thread/INFO]: maroon5 issued server command: /tell Void_ im at 29 currently
+[15:59:48] [Server thread/INFO]: Void_ issued server command: /tell maroon5 now worship for thorns
+[16:00:05] [Server thread/INFO]: maroon5 issued server command: /tell Void_ yes my leige
+[16:00:18] [Server thread/INFO]: maroon5 issued server command: /tell Void_ idk how to spell
+[16:00:26] [Server thread/INFO]: Void_ issued server command: /tell maroon5 ok enough stupididity
+[16:00:50] [Server thread/INFO]: maroon5 issued server command: /tell Void_ rathful god
+[16:00:57] [Server thread/INFO]: maroon5 issued server command: /tell Void_ william?
+[16:01:05] [Server thread/INFO]: <Void_[0;37;1m> possibly[m
+
+[16:01:51] [Server thread/INFO]: maroon5 issued server command: /home peak
+[16:02:06] [Server thread/INFO]: Void_ issued server command: /tell maroon5 now trust you gods and tp
+[16:02:16] [Server thread/INFO]: maroon5 issued server command: /tpa Void_
+[16:02:20] [Server thread/INFO]: Void_ issued server command: /tpaccept
+[16:02:21] [Server thread/INFO]: maroon5 issued server command: /home o
+[16:02:31] [Server thread/INFO]: maroon5 issued server command: /home peak
+[16:02:37] [Server thread/INFO]: maroon5 issued server command: /home o
+[16:02:45] [Server thread/INFO]: maroon5 issued server command: /tell Void_ what was that????
+[16:02:50] [Server thread/INFO]: Void_ issued server command: /tell maroon5 again
+[16:03:13] [Server thread/INFO]: maroon5 issued server command: /tell Void_ why trust you again, u just tried to kill me
+[16:03:19] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[16:03:31] [Server thread/INFO]: Void_ issued server command: /tell maroon5 if i wanted you dead id do it over land
+[16:03:39] [Server thread/INFO]: maroon5 issued server command: /tpa Void_
+[16:03:43] [Server thread/INFO]: Void_ issued server command: /tpaccept
+[16:03:53] [Server thread/INFO]: DomoPlanet issued server command: /homes
+[16:03:56] [Server thread/INFO]: DomoPlanet issued server command: /
+[16:04:05] [Server thread/INFO]: DomoPlanet issued server command: /sethome sky
+[16:04:08] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[16:04:08] [Server thread/INFO]: DomoPlanet left the game.
+[16:04:17] [Server thread/INFO]: Void_ issued server command: /tell maroon5 now wait here
+[16:06:13] [Server thread/INFO]: maroon5 issued server command: /home 1
+[16:07:36] [Server thread/INFO]: <SavageEagler[0;37;1m> logan stop admin abusing[m
+
+[16:07:58] [Server thread/INFO]: <SavageEagler[0;37;1m> or ur banned[m
+
+[16:08:17] [Server thread/INFO]: Void_ issued server command: /tell SavageEagler ok
+[16:08:18] [Server thread/INFO]: Given [Stone Slab] * 64 to SavageEagler
+[16:08:59] [Server thread/INFO]: Void_ issued server command: /tell maroon5 tp to me and wait
+[16:09:24] [Server thread/INFO]: SavageEagler issued server command: /tell maroon5 come look at connors house
+[16:09:27] [Craft Scheduler Thread - 170/INFO]: [Metrics] Connection refused
+[16:09:32] [Server thread/INFO]: maroon5 issued server command: /tpa SavageEagler
+[16:09:37] [Server thread/INFO]: SavageEagler issued server command: /tpyes
+[16:09:58] [Server thread/INFO]: maroon5 issued server command: /tell SavageEagler this looks really nice, is it a suprise for him?
+[16:10:05] [Server thread/INFO]: Void_ issued server command: /tell maroon5 got a challenge, all you gotta do is pick a chest
+[16:10:17] [Server thread/INFO]: Given [Stone] * 64 to SavageEagler
+[16:10:19] [Server thread/INFO]: Void_ issued server command: /tell maroon5 then im done
+[16:10:20] [Server thread/INFO]: maroon5 issued server command: /tpa Void_
+[16:10:23] [Server thread/INFO]: Void_ issued server command: /tpaccept
+[16:10:32] [Server thread/INFO]: maroon5 issued server command: /tell Void_ hmmmm
+[16:10:45] [Server thread/INFO]: maroon5 issued server command: /tell Void_ im guessing one of these explodes
+[16:10:52] [Server thread/INFO]: SavageEagler issued server command: /tell maroon5 he hasnt seen the outside
+[16:10:57] [Server thread/INFO]: Void_ issued server command: /tell maroon5 both have tnt under but one is trapped one has some diamond
+[16:11:17] [Server thread/INFO]: Void_ issued server command: /tell maroon5 it shouldnt kill you i think
+[16:11:18] [Server thread/INFO]: maroon5 issued server command: /tell Void_ dang
+[16:11:28] [Server thread/INFO]: maroon5 issued server command: /
+[16:11:35] [Server thread/INFO]: maroon5 issued server command: /tell Void_ ur game was fun
+[16:11:56] [Server thread/INFO]: Void_ issued server command: /tell maroon5 wanna keep doing it
+[16:12:06] [Server thread/INFO]: maroon5 issued server command: /tell Void_ i dont see why not
+[16:12:21] [Server thread/INFO]: maroon5 issued server command: /tell Void_ is it still 4th period
+[16:12:27] [Server thread/INFO]: Void_ issued server command: /tell maroon5 ok well first put all your stuff in ender chest
+[16:12:35] [Server thread/INFO]: maroon5 issued server command: /tell Void_ alr
+[16:12:35] [Server thread/INFO]: Void_ issued server command: /tell maroon5 5th
+[16:12:37] [Server thread/INFO]: maroon5 issued server command: /home 1
+[16:12:59] [Server thread/INFO]: <Void_[0;37;1m> i had one for you[m
+
+[16:13:15] [Server thread/INFO]: maroon5 issued server command: /tpa Void_
+[16:13:20] [Server thread/INFO]: Void_ issued server command: /tpaccept
+[16:13:39] [Server thread/INFO]: maroon5 issued server command: /tell all my stuff is in there
+[16:13:39] [Server thread/INFO]: [maroon5: That player cannot be found]
+[16:13:55] [Server thread/INFO]: Void_ issued server command: /tell maroon5 ok just a sec to set it up
+[16:14:11] [Server thread/INFO]: Void_ issued server command: /tell maroon5 go to base till im ready
+[16:14:24] [Server thread/INFO]: maroon5 issued server command: /home 1
+[16:14:34] [Server thread/INFO]: maroon5 issued server command: /home 1
+[16:14:39] [Server thread/INFO]: <maroon5[0;37;1m> shit[m
+
+[16:14:41] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.e(EntityLiving.java:949) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.e(EntityHuman.java:1451) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Block.fallOn(Block.java:650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.a(Entity.java:845) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.a(EntityLiving.java:165) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:638) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:459) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:57) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 27 more
+[16:14:41] [Server thread/INFO]: maroon5 fell from a high place
+[16:14:49] [Server thread/INFO]: <maroon5[0;37;1m> back[m
+
+[16:14:51] [Server thread/INFO]: maroon5 issued server command: /back
+[16:14:52] [Server thread/INFO]: <Void_[0;37;1m> what happened[m
+
+[16:14:54] [Server thread/INFO]: SavageEagler issued server command: /home kevinthegiant
+[16:14:57] [Server thread/INFO]: SavageEagler issued server command: /homes
+[16:15:06] [Server thread/INFO]: SavageEagler issued server command: /home kevinthegaint
+[16:15:20] [Server thread/INFO]: Void_ issued server command: /home 1
+[16:15:27] [Server thread/INFO]: <maroon5[0;37;1m> all my stuff gone now[m
+
+[16:15:35] [Server thread/INFO]: <Void_[0;37;1m> what happened[m
+
+[16:15:35] [Server thread/INFO]: <maroon5[0;37;1m> GOD FUCIING DAMNIT[m
+
+[16:16:18] [Server thread/INFO]: maroon5 issued server command: /tell Void_ i went back to one of the places u tpd me to
+[16:16:21] [Server thread/INFO]: <maroon5[0;37;1m> and i died[m
+
+[16:16:51] [Server thread/INFO]: <Void_[0;37;1m> that ones your fault also lucas is probably reading our whisper[m
+
+[16:17:00] [Server thread/INFO]: <maroon5[0;37;1m> its fine[m
+
+[16:17:22] [Server thread/INFO]: SavageEagler issued server command: /home r
+[16:17:23] [Server thread/INFO]: <maroon5[0;37;1m> u wernet giving me stuff so it dont matter[m
+
+[16:17:36] [Server thread/INFO]: <maroon5[0;37;1m> im just at a loss[m
+
+[16:17:48] [Server thread/INFO]: Given [Oak Wood] * 64 to SavageEagler
+[16:17:49] [Server thread/INFO]: <maroon5[0;37;1m> u wanna give me a horse?[m
+
+[16:17:57] [Server thread/INFO]: <maroon5[0;37;1m> and a saddle?[m
+
+[16:17:57] [Server thread/INFO]: Void_ issued server command: /tell maroon5 if you win my game you get your stuff back
+[16:18:02] [Server thread/INFO]: maroon5 issued server command: /home n
+[16:19:03] [Server thread/INFO]: SavageEagler has just earned the achievement [Hot Topic]
+[16:19:27] [Craft Scheduler Thread - 172/INFO]: [Metrics] Connection refused
+[16:19:28] [Server thread/INFO]: Void_ issued server command: /tell maroon5 tp
+[16:19:50] [Server thread/INFO]: maroon5 issued server command: /tpa Void_
+[16:19:53] [Server thread/INFO]: Void_ issued server command: /tpaccept
+[16:20:02] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Explosion.a(Explosion.java:138) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.createExplosion(World.java:1916) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.createExplosion(WorldServer.java:1053) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityTNTPrimed.explode(EntityTNTPrimed.java:116) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityTNTPrimed.t_(EntityTNTPrimed.java:87) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.g(World.java:1617) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1450) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:600) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:846) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 23 more
+[16:20:02] [Server thread/INFO]: maroon5 blew up
+[16:20:06] [Server thread/INFO]: maroon5 issued server command: /back
+[16:20:09] [Server thread/INFO]: <SavageEagler[0;37;1m> lol[m
+
+[16:20:13] [Server thread/INFO]: SavageEagler issued server command: /tpa maroon5
+[16:20:13] [Server thread/INFO]: Void_ issued server command: /tell maroon5 wait as i tell you the rules
+[16:20:25] [Server thread/INFO]: maroon5 issued server command: /ypyes
+[16:20:27] [Server thread/INFO]: maroon5 issued server command: /tpyes
+[16:20:31] [Server thread/INFO]: <maroon5[0;37;1m> play the games[m
+
+[16:20:37] [Server thread/INFO]: <Void_[0;37;1m> lucas me and will are doing a little game to earn his stuff back but only what he had[m
+
+[16:20:46] [Server thread/INFO]: Set Void_'s game mode to Survival Mode
+[16:20:52] [Server thread/INFO]: Void_ blew up
+[16:20:52] [Server thread/INFO]: maroon5 blew up
+[16:21:06] [Server thread/INFO]: <maroon5[0;37;1m> i DID pick the right one[m
+
+[16:21:07] [Server thread/INFO]: <Void_[0;37;1m> nevermind then[m
+
+[16:21:11] [Server thread/INFO]: <maroon5[0;37;1m> but it blew up[[m
+
+[16:21:20] [Server thread/INFO]: <Void_[0;37;1m> you only pick 1[m
+
+[16:21:27] [Server thread/INFO]: <Void_[0;37;1m> you did all 3[m
+
+[16:21:33] [Server thread/INFO]: <maroon5[0;37;1m> i know[m
+
+[16:21:45] [Server thread/INFO]: <Void_[0;37;1m> 2 were trapped[m
+
+[16:21:49] [Server thread/INFO]: SavageEagler issued server command: /tpa maroon5
+[16:21:56] [Server thread/INFO]: maroon5 issued server command: /tpyes
+[16:22:05] [Server thread/INFO]: <maroon5[0;37;1m> sank u bbg[m
+
+[16:22:13] [Server thread/INFO]: <SavageEagler[0;37;1m> weres the rest of his armor[m
+
+[16:22:25] [Server thread/INFO]: <Void_[0;37;1m> he did something with it not me[m
+
+[16:22:33] [Server thread/INFO]: maroon5 blew up
+[16:22:33] [Server thread/INFO]: Void_ blew up
+[16:22:48] [Server thread/INFO]: <SavageEagler[0;37;1m> lets go home[m
+
+[16:22:52] [Server thread/INFO]: SavageEagler issued server command: /home r
+[16:23:03] [Server thread/INFO]: <maroon5[0;37;1m> home 1[m
+
+[16:23:04] [Server thread/INFO]: maroon5 issued server command: /home 1
+[16:23:20] [Server thread/INFO]: <Void_[0;37;1m> so thats no more game show huh[m
+
+[16:24:22] [Server thread/INFO]: <maroon5[0;37;1m> thats what i does[m
+
+[16:24:25] [Server thread/INFO]: SavageEagler issued server command: /cast bind freeze
+[16:24:31] [Server thread/INFO]: <Void_[0;37;1m> what[m
+
+[16:24:35] [Server thread/INFO]: <maroon5[0;37;1m> how much does this do[m
+
+[16:24:38] [Server thread/INFO]: Void_ issued server command: /tpa maroon5
+[16:24:47] [Server thread/INFO]: <SavageEagler[0;37;1m> nothing[m
+
+[16:24:50] [Server thread/INFO]: <maroon5[0;37;1m> alr[m
+
+[16:25:01] [Server thread/INFO]: <SavageEagler[0;37;1m> put a sword in ur hand[m
+
+[16:25:15] [Server thread/INFO]: maroon5 issued server command: /wut
+[16:25:20] [Server thread/INFO]: <maroon5[0;37;1m> wut[m
+
+[16:25:21] [Server thread/INFO]: <SavageEagler[0;37;1m> i used disarm[m
+
+[16:25:27] [Server thread/INFO]: <maroon5[0;37;1m> thats cool[m
+
+[16:25:35] [Server thread/INFO]: <SavageEagler[0;37;1m> lol[m
+
+[16:25:40] [Server thread/INFO]: <maroon5[0;37;1m> try to pik it up[m
+
+[16:25:47] [Server thread/INFO]: Void_ issued server command: /tpa maroon5
+[16:26:16] [Server thread/INFO]: <maroon5[0;37;1m> only i can get it back[m
+
+[16:26:19] [Server thread/INFO]: <maroon5[0;37;1m> thats cool[m
+
+[16:26:22] [Server thread/INFO]: maroon5 issued server command: /cast list
+[16:26:25] [Server thread/INFO]: <SavageEagler[0;37;1m> if i use tnt after it will destroy it[m
+
+[16:26:26] [Thread-85/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[16:26:26] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:49126] logged in with entity id 92513 at ([world]386.0, 70.0, -180.0)
+[16:26:41] [Server thread/INFO]: <SavageEagler[0;37;1m> lets test[m
+
+[16:26:42] [Server thread/INFO]: maroon5 issued server command: /cast explosive arrow
+[16:26:47] [Server thread/INFO]: <DomoPlanet[0;37;1m> test what?[m
+
+[16:26:47] [Server thread/INFO]: SavageEagler issued server command: /tell maroon5 leave the team
+[16:26:55] [Server thread/INFO]: maroon5 issued server command: /team leave
+[16:26:58] [Server thread/INFO]: SavageEagler issued server command: /tell maroon5 we cant harm each other
+[16:27:09] [Server thread/INFO]: Given [TNT] * 64 to SavageEagler
+[16:27:26] [Server thread/INFO]: Void_ lost connection: Disconnected
+[16:27:27] [Server thread/INFO]: Void_ left the game.
+[16:27:34] [Server thread/INFO]: Given [Iron Ingot] * 64 to SavageEagler
+[16:27:56] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[16:27:56] [Server thread/INFO]: DomoPlanet left the game.
+[16:27:57] [Server thread/INFO]: <SavageEagler[0;37;1m> come here[m
+
+[16:28:09] [Server thread/INFO]: <SavageEagler[0;37;1m> alr get the sword out[m
+
+[16:28:31] [Server thread/INFO]: <maroon5[0;37;1m> its gone[m
+
+[16:28:35] [Server thread/INFO]: <SavageEagler[0;37;1m> it destroys it[m
+
+[16:28:42] [Server thread/INFO]: <SavageEagler[0;37;1m> alr i have an idea[m
+
+[16:28:55] [Server thread/INFO]: Given [Obsidian] * 64 to SavageEagler
+[16:28:58] [Thread-86/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[16:28:59] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:60730] logged in with entity id 94268 at ([world]386.0, 70.0, -180.0)
+[16:29:27] [Craft Scheduler Thread - 179/INFO]: [Metrics] Connection refused
+[16:29:50] [Server thread/INFO]: maroon5 issued server command: /home 1
+[16:29:51] [Server thread/INFO]: Given [Redstone] * 64 to SavageEagler
+[16:30:38] [Server thread/INFO]: Given [Lever] * 1 to SavageEagler
+[16:31:00] [Server thread/INFO]: Given [Water Bucket] * 1 to SavageEagler
+[16:31:20] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[16:31:20] [Server thread/INFO]: DomoPlanet left the game.
+[16:31:56] [Server thread/ERROR]: Could not pass event PlayerDeathEvent to MagicSpellBook v0.3
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactory.java:396) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.die(EntityPlayer.java:425) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:822) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:801) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:504) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.e(EntityLiving.java:949) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityHuman.e(EntityHuman.java:1451) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Block.fallOn(Block.java:650) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.Entity.a(Entity.java:845) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityLiving.a(EntityLiving.java:165) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.EntityPlayer.a(EntityPlayer.java:638) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:459) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying.a(SourceFile:126) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1095) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:1049) ~[?:?]
+	at me.onCommand.magicSpellBook.BPlayerListener.onPlayerDeath(BPlayerListener.java:139) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 27 more
+[16:31:56] [Server thread/INFO]: maroon5 fell from a high place
+[16:31:59] [Server thread/INFO]: maroon5 issued server command: /back
+[16:32:06] [Server thread/INFO]: maroon5 issued server command: /home
+[16:32:08] [Server thread/INFO]: maroon5 issued server command: /home
+[16:32:13] [Server thread/INFO]: maroon5 issued server command: /home 1
+[16:32:29] [Server thread/INFO]: maroon5 issued server command: /home 1
+[16:32:40] [Server thread/INFO]: maroon5 issued server command: /cast confusion
+[16:33:25] [Server thread/INFO]: maroon5 issued server command: /cast confusion
+[16:33:54] [Thread-87/INFO]: UUID of player DomoPlanet is 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
+[16:33:54] [Server thread/INFO]: DomoPlanet[/[0:0:0:0:0:0:0:1]:39338] logged in with entity id 95232 at ([world]386.0, 70.0, -180.0)
+[16:34:04] [Server thread/INFO]: <maroon5[0;37;1m> cannon[m
+
+[16:34:04] [Server thread/INFO]: Given [Lever] * 2 to SavageEagler
+[16:34:13] [Server thread/INFO]: <maroon5[0;37;1m> pointed at our house?[m
+
+[16:34:15] [Server thread/INFO]: <SavageEagler[0;37;1m> move[m
+
+[16:34:16] [Server thread/INFO]: <DomoPlanet[0;37;1m> im away will[m
+
+[16:34:18] [Server thread/INFO]: <DomoPlanet[0;37;1m> away forever[m
+
+[16:34:21] [Server thread/INFO]: DomoPlanet lost connection: Disconnected
+[16:34:21] [Server thread/INFO]: DomoPlanet left the game.
+[16:34:37] [Server thread/INFO]: maroon5 lost connection: Disconnected
+[16:34:37] [Server thread/INFO]: maroon5 left the game.
+[16:34:46] [Server thread/INFO]: SavageEagler lost connection: Disconnected
+[16:34:46] [Server thread/INFO]: SavageEagler left the game.
+[16:34:49] [Thread-2/INFO]: Stopping server

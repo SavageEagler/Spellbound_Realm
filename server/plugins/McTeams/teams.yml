@@ -20,7 +20,6 @@ players:
     teammanager: 'false'
     teamchat: 'false'
     chatspy: 'false'
-    team: '1'
   0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b:
     teammanager: 'false'
     teamchat: 'false'
@@ -67,6 +66,14 @@ players:
     teammanager: 'false'
     teamchat: 'false'
     chatspy: 'false'
+  038172bf-52b3-3ade-88a6-1acaa3140de7:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
+  18de9d73-ab2c-3eae-8e6c-cb9154d50c6f:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
 Admins:
   ff: 'false'
   password: Admin
@@ -78,4 +85,3 @@ Admins:
   memberlist:
   - 83949d3a-ab99-3644-a8c0-43977ec748c0
   - 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
-  - 321c7be9-79b4-3dd7-b22f-a9fefc3e081b

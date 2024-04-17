@@ -1145,11 +1145,11 @@ storm:
     spell-icon: gold_sword
     description: Strike lightning upon all nearby enemies.
     cast-item: bone
-    horizontal-radius: 10
-    vertical-radius: 5
+    horizontal-radius: 20
+    vertical-radius: 10
     point-blank: true
     fail-if-no-targets: true
-    target-players: false
+    target-players: true
     target-non-players: true
     target-caster: false
     target-invisible-players: false
