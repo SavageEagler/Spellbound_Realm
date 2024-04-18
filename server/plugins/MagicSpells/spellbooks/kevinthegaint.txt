@@ -1,10 +1,12 @@
 armor
 confusion
 cripple
+enderchest
 explosivearrow
 fireball
 firenova
 freeze
+gate
 help
 list
 poison

@@ -36,16 +36,18 @@ Player:
   EnderAssassin_:
     Mana: 5
   EnderAssassin:
-    Mana: 10
+    Mana: 15
   Void_:
     Mana: 95
   Boner_King:
     Mana: 30
   Ender_Asassin:
-    Mana: 15
+    Mana: 50
   EnderAsassin:
-    Mana: 30
+    Mana: 110
   THroatGoat:
     Mana: 30
   DeevYeer244:
+    Mana: 5
+  EnderAsassin_:
     Mana: 5
