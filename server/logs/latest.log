@@ -1,243 +1,247 @@
-[16:57:33] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[16:57:33] [Server thread/INFO]: Loading properties
-[16:57:33] [Server thread/INFO]: Default game type: SURVIVAL
-[16:57:33] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[16:57:34] [Server thread/INFO]: Debug logging is disabled
-[16:57:34] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[16:57:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:08:53] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[17:08:53] [Server thread/INFO]: Loading properties
+[17:08:53] [Server thread/INFO]: Default game type: SURVIVAL
+[17:08:54] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[17:08:54] [Server thread/INFO]: Debug logging is disabled
+[17:08:54] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[17:08:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[16:57:34] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:57:34] [Server thread/INFO]: Data value allowed items: 
-[16:57:34] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+[17:08:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:08:54] [Server thread/INFO]: Data value allowed items: 
+[17:08:54] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
 
-[16:57:34] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[17:08:54] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
 
-[16:57:34] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+[17:08:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
 
-[16:57:34] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[17:08:54] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 
-[16:57:34] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[17:08:54] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 
-[16:57:34] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+[17:08:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
 
-[16:57:34] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+[17:08:54] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
 
-[16:57:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+[17:08:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
 
-[16:57:34] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[17:08:54] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
 
-[16:57:34] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[17:08:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[16:57:34] [Server thread/INFO]: Generating keypair
-[16:57:34] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[16:57:34] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
-[16:57:34] [Server thread/INFO]: Using default channel type
-[16:57:34] [Server thread/ERROR]: Ambiguous plugin name `EaglerPluginInstaller' for files `plugins/EaglerPluginInstaller.jar' and `plugins/EaglerPluginInstaller-1.1.5.jar' in `plugins'
-[16:57:34] [Server thread/ERROR]: Ambiguous plugin name `AnvilColors' for files `plugins/AnvilColors.jar' and `plugins/Anvil_Colors.jar' in `plugins'
-[16:57:34] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[16:57:34] [Server thread/INFO]: [Colors] Properties loaded.
+[17:08:54] [Server thread/INFO]: Generating keypair
+[17:08:54] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[17:08:54] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[17:08:54] [Server thread/INFO]: Using default channel type
+[17:08:54] [Server thread/ERROR]: Ambiguous plugin name `EaglerPluginInstaller' for files `plugins/EaglerPluginInstaller.jar' and `plugins/EaglerPluginInstaller-1.1.5.jar' in `plugins'
+[17:08:54] [Server thread/ERROR]: Ambiguous plugin name `AnvilColors' for files `plugins/AnvilColors.jar' and `plugins/Anvil_Colors.jar' in `plugins'
+[17:08:54] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:08:54] [Server thread/INFO]: [Colors] Properties loaded.
 
-[16:57:34] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
-[16:57:34] [Server thread/INFO]: [[EaglerPluginInstaller]] Loading EaglerPluginInstaller v1.1.4
-[16:57:34] [Server thread/INFO]: [MyWarp] Loading MyWarp v2.6.1
-[16:57:34] [Server thread/INFO]: [RealisticBackpacks] Loading RealisticBackpacks v1.3
-[16:57:34] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[16:57:34] [Server thread/INFO]: [MagicSpellBook] Loading MagicSpellBook v0.3
-[16:57:34] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
-[16:57:34] [Server thread/INFO]: [Colors] Loading Colors v2.0.4
-[16:57:34] [Server thread/INFO]: [AnvilColors] Loading AnvilColors v1.3.1
-[16:57:34] [Server thread/INFO]: [[EaglerPluginUpdater]] Loading EaglerPluginUpdater v1.1.2
-[16:57:34] [Server thread/INFO]: [MagicSpells] Loading MagicSpells v2.15
-[16:57:34] [Server thread/INFO]: [McTeams] Loading McTeams v1.6.1
-[16:57:34] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
-[16:57:36] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
-[16:57:36] [Server thread/INFO]: [MobArena] Loading MobArena v0.94.4.98
-[16:57:36] [Server thread/INFO]: [CraftBook] Loading CraftBook v2372-beaf82e
-[16:57:36] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
-[16:57:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:57:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:57:36] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[16:57:36] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[16:57:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:57:36] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[16:57:36] [Server thread/INFO]: Preparing level "world"
-[16:57:36] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:57:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:57:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:57:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:57:36] [Server thread/INFO]: Random Lighting Updates: false
-[16:57:36] [Server thread/INFO]: Structure Info Saving: true
-[16:57:36] [Server thread/INFO]: Sending up to 10 chunks per packet
-[16:57:36] [Server thread/INFO]: Max Entity Collisions: 8
-[16:57:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:57:36] [Server thread/INFO]: Max TNT Explosions: 100
-[16:57:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:57:36] [Server thread/INFO]: Mob Spawn Range: 4
-[16:57:36] [Server thread/INFO]: Anti X-Ray: true
-[16:57:36] [Server thread/INFO]: 	Engine Mode: 1
-[16:57:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[16:57:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[16:57:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:57:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:57:36] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:57:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:57:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:57:36] [Server thread/INFO]: View Distance: 4
-[16:57:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:57:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[16:57:36] [Server thread/INFO]: Clear tick list: false
-[16:57:36] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:57:36] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:57:36] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[16:57:36] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[16:57:36] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[16:57:36] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[16:57:36] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[16:57:36] [Server thread/INFO]: Water over lava flow speed: 5
-[16:57:36] [Server thread/INFO]: Fix TNT cannons: false
-[16:57:36] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[16:57:36] [Server thread/INFO]: Keep spawn chunk loaded: true
-[16:57:36] [Server thread/INFO]: World async lighting: false
-[16:57:36] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[16:57:36] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[16:57:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[16:57:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:57:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:57:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:57:36] [Server thread/INFO]: Random Lighting Updates: false
-[16:57:36] [Server thread/INFO]: Structure Info Saving: true
-[16:57:36] [Server thread/INFO]: Sending up to 10 chunks per packet
-[16:57:36] [Server thread/INFO]: Max Entity Collisions: 8
-[16:57:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:57:36] [Server thread/INFO]: Max TNT Explosions: 100
-[16:57:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:57:36] [Server thread/INFO]: Mob Spawn Range: 4
-[16:57:36] [Server thread/INFO]: Anti X-Ray: true
-[16:57:36] [Server thread/INFO]: 	Engine Mode: 1
-[16:57:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[16:57:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[16:57:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:57:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:57:36] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:57:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:57:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:57:36] [Server thread/INFO]: View Distance: 4
-[16:57:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:57:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[16:57:36] [Server thread/INFO]: Clear tick list: false
-[16:57:36] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:57:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[16:57:36] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[16:57:36] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[16:57:36] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[16:57:36] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[16:57:36] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[16:57:36] [Server thread/INFO]: Water over lava flow speed: 5
-[16:57:36] [Server thread/INFO]: Fix TNT cannons: false
-[16:57:36] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[16:57:36] [Server thread/INFO]: Keep spawn chunk loaded: true
-[16:57:36] [Server thread/INFO]: World async lighting: false
-[16:57:36] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[16:57:36] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[16:57:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[16:57:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:57:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:57:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:57:36] [Server thread/INFO]: Random Lighting Updates: false
-[16:57:36] [Server thread/INFO]: Structure Info Saving: true
-[16:57:36] [Server thread/INFO]: Sending up to 10 chunks per packet
-[16:57:36] [Server thread/INFO]: Max Entity Collisions: 8
-[16:57:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:57:36] [Server thread/INFO]: Max TNT Explosions: 100
-[16:57:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:57:36] [Server thread/INFO]: Mob Spawn Range: 4
-[16:57:36] [Server thread/INFO]: Anti X-Ray: true
-[16:57:36] [Server thread/INFO]: 	Engine Mode: 1
-[16:57:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[16:57:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[16:57:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:57:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:57:36] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:57:36] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:57:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:57:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:57:36] [Server thread/INFO]: View Distance: 4
-[16:57:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:57:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[16:57:36] [Server thread/INFO]: Clear tick list: false
-[16:57:36] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:57:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[16:57:36] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
-[16:57:36] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
-[16:57:36] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
-[16:57:36] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
-[16:57:36] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
-[16:57:36] [Server thread/INFO]: Water over lava flow speed: 5
-[16:57:36] [Server thread/INFO]: Fix TNT cannons: false
-[16:57:36] [Server thread/INFO]: Allow undead horse types to be leashed: false
-[16:57:36] [Server thread/INFO]: Keep spawn chunk loaded: true
-[16:57:36] [Server thread/INFO]: World async lighting: false
-[16:57:36] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
-[16:57:36] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
-[16:57:36] [Server thread/INFO]: Preparing start region for level 0 (Seed: 24877956)
-[16:57:37] [Server thread/INFO]: Preparing spawn area: 60%
-[16:57:37] [Server thread/INFO]: Preparing start region for level 1 (Seed: 24877956)
-[16:57:38] [Server thread/INFO]: Preparing spawn area: 53%
-[16:57:39] [Server thread/INFO]: Preparing start region for level 2 (Seed: 24877956)
-[16:57:39] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
-[16:57:39] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[17:08:54] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[17:08:54] [Server thread/INFO]: [[EaglerPluginInstaller]] Loading EaglerPluginInstaller v1.1.4
+[17:08:54] [Server thread/INFO]: [MyWarp] Loading MyWarp v2.6.1
+[17:08:54] [Server thread/INFO]: [RealisticBackpacks] Loading RealisticBackpacks v1.3
+[17:08:54] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[17:08:54] [Server thread/INFO]: [MagicSpellBook] Loading MagicSpellBook v0.3
+[17:08:54] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[17:08:54] [Server thread/INFO]: [Colors] Loading Colors v2.0.4
+[17:08:54] [Server thread/INFO]: [AnvilColors] Loading AnvilColors v1.3.1
+[17:08:54] [Server thread/INFO]: [[EaglerPluginUpdater]] Loading EaglerPluginUpdater v1.1.2
+[17:08:54] [Server thread/INFO]: [MagicSpells] Loading MagicSpells v2.15
+[17:08:54] [Server thread/INFO]: [McTeams] Loading McTeams v1.6.1
+[17:08:54] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.1.0
+[17:08:56] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[17:08:56] [Server thread/INFO]: [MobArena] Loading MobArena v0.94.4.98
+[17:08:56] [Server thread/INFO]: [CraftBook] Loading CraftBook v2372-beaf82e
+[17:08:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[17:08:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:08:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:08:56] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[17:08:56] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[17:08:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:08:56] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:08:56] [Server thread/INFO]: Preparing level "world"
+[17:08:56] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:08:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:08:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:08:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:08:56] [Server thread/INFO]: Random Lighting Updates: false
+[17:08:56] [Server thread/INFO]: Structure Info Saving: true
+[17:08:56] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:08:56] [Server thread/INFO]: Max Entity Collisions: 8
+[17:08:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:08:56] [Server thread/INFO]: Max TNT Explosions: 100
+[17:08:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:08:56] [Server thread/INFO]: Mob Spawn Range: 4
+[17:08:56] [Server thread/INFO]: Anti X-Ray: true
+[17:08:56] [Server thread/INFO]: 	Engine Mode: 1
+[17:08:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:08:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:08:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:08:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:08:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:08:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:08:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:08:56] [Server thread/INFO]: View Distance: 4
+[17:08:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:08:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:08:56] [Server thread/INFO]: Clear tick list: false
+[17:08:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:08:56] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:08:56] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[17:08:56] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[17:08:56] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[17:08:56] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[17:08:56] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[17:08:56] [Server thread/INFO]: Water over lava flow speed: 5
+[17:08:56] [Server thread/INFO]: Fix TNT cannons: false
+[17:08:56] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[17:08:56] [Server thread/INFO]: Keep spawn chunk loaded: true
+[17:08:56] [Server thread/INFO]: World async lighting: false
+[17:08:56] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[17:08:56] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[17:08:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:08:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:08:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:08:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:08:56] [Server thread/INFO]: Random Lighting Updates: false
+[17:08:56] [Server thread/INFO]: Structure Info Saving: true
+[17:08:56] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:08:56] [Server thread/INFO]: Max Entity Collisions: 8
+[17:08:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:08:56] [Server thread/INFO]: Max TNT Explosions: 100
+[17:08:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:08:56] [Server thread/INFO]: Mob Spawn Range: 4
+[17:08:56] [Server thread/INFO]: Anti X-Ray: true
+[17:08:56] [Server thread/INFO]: 	Engine Mode: 1
+[17:08:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:08:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:08:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:08:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:08:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:08:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:08:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:08:56] [Server thread/INFO]: View Distance: 4
+[17:08:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:08:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:08:56] [Server thread/INFO]: Clear tick list: false
+[17:08:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:08:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:08:56] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[17:08:56] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[17:08:56] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[17:08:56] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[17:08:56] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[17:08:56] [Server thread/INFO]: Water over lava flow speed: 5
+[17:08:56] [Server thread/INFO]: Fix TNT cannons: false
+[17:08:56] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[17:08:56] [Server thread/INFO]: Keep spawn chunk loaded: true
+[17:08:56] [Server thread/INFO]: World async lighting: false
+[17:08:56] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[17:08:56] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[17:08:56] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:08:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:08:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:08:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:08:56] [Server thread/INFO]: Random Lighting Updates: false
+[17:08:56] [Server thread/INFO]: Structure Info Saving: true
+[17:08:56] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:08:56] [Server thread/INFO]: Max Entity Collisions: 8
+[17:08:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:08:56] [Server thread/INFO]: Max TNT Explosions: 100
+[17:08:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:08:56] [Server thread/INFO]: Mob Spawn Range: 4
+[17:08:56] [Server thread/INFO]: Anti X-Ray: true
+[17:08:56] [Server thread/INFO]: 	Engine Mode: 1
+[17:08:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:08:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:08:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:08:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:08:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:08:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:08:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:08:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:08:56] [Server thread/INFO]: View Distance: 4
+[17:08:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:08:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:08:56] [Server thread/INFO]: Clear tick list: false
+[17:08:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:08:56] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:08:56] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[17:08:56] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[17:08:56] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[17:08:56] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[17:08:56] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[17:08:56] [Server thread/INFO]: Water over lava flow speed: 5
+[17:08:56] [Server thread/INFO]: Fix TNT cannons: false
+[17:08:56] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[17:08:56] [Server thread/INFO]: Keep spawn chunk loaded: true
+[17:08:56] [Server thread/INFO]: World async lighting: false
+[17:08:56] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[17:08:56] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[17:08:56] [Server thread/INFO]: Preparing start region for level 0 (Seed: 24877956)
+[17:08:57] [Server thread/INFO]: Preparing spawn area: 25%
+[17:08:58] [Server thread/INFO]: Preparing spawn area: 97%
+[17:08:58] [Server thread/INFO]: Preparing start region for level 1 (Seed: 24877956)
+[17:08:59] [Server thread/INFO]: Preparing spawn area: 93%
+[17:08:59] [Server thread/INFO]: Preparing start region for level 2 (Seed: 24877956)
+[17:09:00] [Server thread/INFO]: Preparing spawn area: 16%
+[17:09:01] [Server thread/INFO]: Preparing spawn area: 40%
+[17:09:02] [Server thread/INFO]: Preparing spawn area: 64%
+[17:09:03] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
+[17:09:03] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
 
-[16:57:39] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
+[17:09:03] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
 
-[16:57:39] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[16:57:39] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
-[16:57:39] [Server thread/INFO]: Check 1 passed
+[17:09:03] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[17:09:03] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
+[17:09:03] [Server thread/INFO]: Check 1 passed
 
-[16:57:39] [Server thread/INFO]: Check 3 passed
+[17:09:05] [Server thread/INFO]: Check 3 passed
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:05] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:05] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
+[17:09:05] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
 
-[16:57:40] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
+[17:09:05] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
 
-[16:57:40] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
+[17:09:05] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
 
-[16:57:40] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
+[17:09:05] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
 
-[16:57:40] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
+[17:09:05] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:05] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:05] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: [MyWarp] Enabling MyWarp v2.6.1
-[16:57:40] [Server thread/ERROR]: [MyWarp] Failed to create default config.yml , using build-in defaults: 
+[17:09:05] [Server thread/INFO]: [MyWarp] Enabling MyWarp v2.6.1
+[17:09:05] [Server thread/ERROR]: [MyWarp] Failed to create default config.yml , using build-in defaults: 
 java.io.FileNotFoundException: plugins/MyWarp/config.yml (Is a directory)
 	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
 	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
@@ -258,163 +262,152 @@ java.io.FileNotFoundException: plugins/MyWarp/config.yml (Is a directory)
 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[16:57:40] [Server thread/INFO]: [MyWarp] No supported permissions plugin found, using Superperms fallback for group support
-[16:57:40] [Server thread/INFO]: [MyWarp] 4 warps loaded
-[16:57:40] [Server thread/INFO]: [MyWarp] Using localization: en_US
-[16:57:40] [Server thread/INFO]: [RealisticBackpacks] Enabling RealisticBackpacks v1.3
-[16:57:40] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
-[16:57:40] [Server thread/ERROR]: [RealisticBackpacks] This version of craftbukkit is not supported, please contact the developer stating this version: v1_8_R3
-[16:57:40] [Server thread/ERROR]: [RealisticBackpacks] RealisticBackpacks will now disable.
-[16:57:40] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
-[16:57:40] [Server thread/INFO]: [RealisticBackpacks] Realistic Backpacks has been disabled.
-[16:57:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[16:57:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[16:57:40] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[16:57:40] [Server thread/INFO]: [MagicSpellBook] Enabling MagicSpellBook v0.3
-[16:57:40] [Server thread/INFO]: Plugin Metrics loaded!
-[16:57:40] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
-[16:57:40] [Server thread/INFO]: [Colors] Enabling Colors v2.0.4
-[16:57:40] [Server thread/INFO]: [Colors] Not hooked into any permissions plugin. Using defaults.
+[17:09:05] [Server thread/INFO]: [MyWarp] No supported permissions plugin found, using Superperms fallback for group support
+[17:09:05] [Server thread/INFO]: [MyWarp] 4 warps loaded
+[17:09:05] [Server thread/INFO]: [MyWarp] Using localization: en_US
+[17:09:05] [Server thread/INFO]: [RealisticBackpacks] Enabling RealisticBackpacks v1.3
+[17:09:05] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
+[17:09:05] [Server thread/ERROR]: [RealisticBackpacks] This version of craftbukkit is not supported, please contact the developer stating this version: v1_8_R3
+[17:09:05] [Server thread/ERROR]: [RealisticBackpacks] RealisticBackpacks will now disable.
+[17:09:05] [Server thread/ERROR]: [RealisticBackpacks] * ! * ! * !* ! * ! * ! * ! * !* ! * ! * ! *
+[17:09:05] [Server thread/INFO]: [RealisticBackpacks] Realistic Backpacks has been disabled.
+[17:09:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[17:09:06] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:09:06] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[17:09:06] [Server thread/INFO]: [MagicSpellBook] Enabling MagicSpellBook v0.3
+[17:09:06] [Server thread/INFO]: Plugin Metrics loaded!
+[17:09:06] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[17:09:06] [Server thread/INFO]: [Colors] Enabling Colors v2.0.4
+[17:09:06] [Server thread/INFO]: [Colors] Not hooked into any permissions plugin. Using defaults.
 
-[16:57:40] [Server thread/INFO]: [Colors] (Hint) install Vault if your permissions plugin was not detected.
+[17:09:06] [Server thread/INFO]: [Colors] (Hint) install Vault if your permissions plugin was not detected.
 
-[16:57:40] [Server thread/INFO]: [AnvilColors] Enabling AnvilColors v1.3.1
-[16:57:40] [Server thread/INFO]: [[EaglerPluginUpdater]] Enabling EaglerPluginUpdater v1.1.2
-[16:57:40] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: [AnvilColors] Enabling AnvilColors v1.3.1
+[17:09:06] [Server thread/INFO]: [[EaglerPluginUpdater]] Enabling EaglerPluginUpdater v1.1.2
+[17:09:06] [Server thread/INFO]: [[EaglerPluginInstaller]] Disabling EaglerPluginInstaller v1.1.4
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m PluginInstaller V1.1.5 is now Disabled! D:[m
+[17:09:06] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m PluginInstaller V1.1.5 is now Disabled! D:[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
-[16:57:40] [Server thread/INFO]: Check 1 passed
+[17:09:06] [Server thread/INFO]: [[EaglerPluginInstaller]] Enabling EaglerPluginInstaller v1.1.4
+[17:09:06] [Server thread/INFO]: Check 1 passed
 
-[16:57:40] [Server thread/INFO]: Check 3 passed
+[17:09:06] [Server thread/INFO]: Check 3 passed
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
+[17:09:06] [Server thread/INFO]: [0;32;1m[EaglerPluginInstaller][0;36;1m EaglerPluginInstaller V1.1.5 is now Enabled! :D[m
 
-[16:57:40] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
+[17:09:06] [Server thread/INFO]: To use PluginInstaller, run the command "/install <pluginname>" ("install <pluginname>" in console) to install a plugin[m
 
-[16:57:40] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
+[17:09:06] [Server thread/INFO]: To get a list of installable plugins, use the command "/plist" or "plist" in console[m
 
-[16:57:40] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
+[17:09:06] [Server thread/INFO]: You can request to add a new plugin to the database by going to https://github.com/darverdevs/PluginInstallerRepo/tree/main[m
 
-[16:57:40] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
+[17:09:06] [Server thread/INFO]: and creating an issue or pull request of the plugin you want to add[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: [0;32;1m[EaglerPluginUpdater][0;36;1m EaglerPluginUpdater V1.1.2 is now Enabled! :D[m
+[17:09:06] [Server thread/INFO]: [0;32;1m[EaglerPluginUpdater][0;36;1m EaglerPluginUpdater V1.1.2 is now Enabled! :D[m
 
-[16:57:40] [Server thread/INFO]: You do not need to do anything, this plugin will automatically update your PluginUpdater on startup[m
+[17:09:06] [Server thread/INFO]: You do not need to do anything, this plugin will automatically update your PluginUpdater on startup[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: --------------------------------------------[m
+[17:09:06] [Server thread/INFO]: --------------------------------------------[m
 
-[16:57:40] [Server thread/INFO]: [MagicSpells] Enabling MagicSpells v2.15
-[16:57:41] [Server thread/WARN]: [MagicSpells] This MagicSpells version is not fully compatible with this server version.
-[16:57:41] [Server thread/WARN]: [MagicSpells] Some features have been disabled.
-[16:57:41] [Server thread/WARN]: [MagicSpells] See http://nisovin.com/magicspells/volatilefeatures for more information.
-[16:57:41] [Server thread/INFO]: [MagicSpells] Spells loaded: 87
-[16:57:41] [Server thread/INFO]: [McTeams] Enabling McTeams v1.6.1
-[16:57:41] [Server thread/INFO]: [McTeams] Could not find PlaceholderAPI plugin. Those features will be unavailable.
+[17:09:06] [Server thread/INFO]: [MagicSpells] Enabling MagicSpells v2.15
+[17:09:07] [Server thread/WARN]: [MagicSpells] This MagicSpells version is not fully compatible with this server version.
+[17:09:07] [Server thread/WARN]: [MagicSpells] Some features have been disabled.
+[17:09:07] [Server thread/WARN]: [MagicSpells] See http://nisovin.com/magicspells/volatilefeatures for more information.
+[17:09:07] [Server thread/INFO]: [MagicSpells] Spells loaded: 87
+[17:09:07] [Server thread/INFO]: [McTeams] Enabling McTeams v1.6.1
+[17:09:07] [Server thread/INFO]: [McTeams] Could not find PlaceholderAPI plugin. Those features will be unavailable.
 
-[16:57:41] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[16:57:41] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[16:57:41] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[16:57:41] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[16:57:41] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[16:57:41] [Server thread/INFO]: [MobArena] Enabling MobArena v0.94.4.98
-[16:57:41] [Server thread/INFO]: [MobArena] No boss abilities found. Extracting defaults...
-[16:57:41] [Server thread/ERROR]: [MobArena] Couldn't extract the default boss abilities!
-[16:57:41] [Server thread/WARN]: [MobArena] Vault was not found. Economy rewards will not work!
-[16:57:41] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'default'.
-[16:57:41] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'default'.
-[16:57:41] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'default'.
-[16:57:41] [Server thread/INFO]: [MobArena] Loaded arena 'default'.
-[16:57:41] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'PVP'.
-[16:57:41] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'PVP'.
-[16:57:41] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'PVP'.
-[16:57:41] [Server thread/INFO]: [MobArena] Loaded arena 'PVP'.
-[16:57:41] [Server thread/INFO]: [MobArena] v0.94.4.98 enabled.
-[16:57:41] [Server thread/INFO]: [CraftBook] Enabling CraftBook v2372-beaf82e
-[16:57:41] [Thread-7/WARN]: [Fatal Error] :6:3: The element type "hr" must be terminated by the matching end-tag "</hr>".
+[17:09:07] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[17:09:07] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[17:09:07] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[17:09:07] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[17:09:07] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[17:09:07] [Server thread/INFO]: [MobArena] Enabling MobArena v0.94.4.98
+[17:09:07] [Server thread/INFO]: [MobArena] No boss abilities found. Extracting defaults...
+[17:09:07] [Server thread/ERROR]: [MobArena] Couldn't extract the default boss abilities!
+[17:09:07] [Server thread/WARN]: [MobArena] Vault was not found. Economy rewards will not work!
+[17:09:07] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'default'.
+[17:09:07] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'default'.
+[17:09:07] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'default'.
+[17:09:07] [Server thread/INFO]: [MobArena] Loaded arena 'default'.
+[17:09:07] [Server thread/WARN]: [MobArena] Invalid boss ability 'arrows' for wave 'boss1' in arena 'PVP'.
+[17:09:07] [Server thread/WARN]: [MobArena] Invalid boss ability 'root-target' for wave 'boss1' in arena 'PVP'.
+[17:09:07] [Server thread/WARN]: [MobArena] Invalid boss ability 'throw-nearby' for wave 'boss1' in arena 'PVP'.
+[17:09:07] [Server thread/INFO]: [MobArena] Loaded arena 'PVP'.
+[17:09:07] [Server thread/INFO]: [MobArena] v0.94.4.98 enabled.
+[17:09:07] [Server thread/INFO]: [CraftBook] Enabling CraftBook v2372-beaf82e
+[17:09:08] [Thread-7/WARN]: [Fatal Error] :6:3: The element type "hr" must be terminated by the matching end-tag "</hr>".
 
-[16:57:41] [Thread-7/WARN]: [MobArena] The version checker failed.
-[16:57:41] [Thread-7/WARN]: [MobArena] This is harmless, but check for updates manually!
-[16:57:41] [Thread-8/WARN]: Exception in thread "Thread-8" 
-[16:57:41] [Thread-8/WARN]: java.lang.NullPointerException: Cannot invoke "String.split(String)" because "title" is null
+[17:09:08] [Thread-7/WARN]: [MobArena] The version checker failed.
+[17:09:08] [Thread-7/WARN]: [MobArena] This is harmless, but check for updates manually!
+[17:09:08] [Thread-8/WARN]: Exception in thread "Thread-8" 
+[17:09:08] [Thread-8/WARN]: java.lang.NullPointerException: Cannot invoke "String.split(String)" because "title" is null
 
-[16:57:41] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.versionCheck(Updater.java:410)
+[17:09:08] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.versionCheck(Updater.java:410)
 
-[16:57:41] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.access$400(Updater.java:49)
+[17:09:08] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater.access$400(Updater.java:49)
 
-[16:57:41] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater$UpdateRunnable.run(Updater.java:535)
+[17:09:08] [Thread-8/WARN]: 	at com.sk89q.craftbook.bukkit.Updater$UpdateRunnable.run(Updater.java:535)
 
-[16:57:41] [Thread-8/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[17:09:08] [Thread-8/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[16:57:41] [Server thread/INFO]: [CraftBook] null is the latest version available, and the updatability of it is: SUCCESS. You currently have version Unknown installed.
-[16:57:41] [Server thread/INFO]: 1 cauldron recipe(s) loaded
-[16:57:41] [Server thread/INFO]: [CraftBook] Registered a new furnace recipe!
-[16:57:41] [Server thread/INFO]: [CraftBook] Registered a new shaped recipe!
-[16:57:41] [Server thread/INFO]: [CraftBook] Registered a new shapeless recipe!
-[16:57:41] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
-[16:57:41] [Server thread/WARN]: [CraftBook] Chairs require ProtocolLib! They will not function without it!
-[16:57:41] [Server thread/INFO]: [CraftBook] Added CommandItem: LightningRod
-[16:57:41] [Server thread/INFO]: [CraftBook] Enumerating chunks for self-triggered components...
-[16:57:41] [Server thread/INFO]: [CraftBook] 1875 chunk(s) for 3 world(s) processed (14ms elapsed)
-[16:57:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:57:42] [Server thread/INFO]: Done (5.869s)! For help, type "help" or "?"
-[16:57:42] [Server thread/INFO]: Timings Reset
-[16:57:42] [Craft Scheduler Thread - 4/INFO]: [Metrics] Connection refused
-[16:57:42] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+[17:09:08] [Server thread/INFO]: [CraftBook] null is the latest version available, and the updatability of it is: SUCCESS. You currently have version Unknown installed.
+[17:09:08] [Server thread/INFO]: 1 cauldron recipe(s) loaded
+[17:09:08] [Server thread/INFO]: [CraftBook] Registered a new furnace recipe!
+[17:09:08] [Server thread/INFO]: [CraftBook] Registered a new shaped recipe!
+[17:09:08] [Server thread/INFO]: [CraftBook] Registered a new shapeless recipe!
+[17:09:08] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[17:09:08] [Server thread/WARN]: [CraftBook] Chairs require ProtocolLib! They will not function without it!
+[17:09:08] [Server thread/INFO]: [CraftBook] Added CommandItem: LightningRod
+[17:09:08] [Server thread/INFO]: [CraftBook] Enumerating chunks for self-triggered components...
+[17:09:08] [Server thread/INFO]: [CraftBook] 1875 chunk(s) for 3 world(s) processed (20ms elapsed)
+[17:09:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:09:08] [Server thread/INFO]: Done (11.867s)! For help, type "help" or "?"
+[17:09:08] [Server thread/INFO]: Timings Reset
+[17:09:08] [Craft Scheduler Thread - 4/INFO]: [Metrics] Connection refused
+[17:09:08] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
 
-[16:57:42] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+[17:09:08] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
 
-[16:57:42] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+[17:09:08] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
-[16:57:58] [Thread-9/INFO]: UUID of player Dab1080 is 85d2b04f-eca1-3908-8c60-da2a685d4bf2
-[16:57:58] [Server thread/INFO]: Dab1080[/[0:0:0:0:0:0:0:1]:41170] logged in with entity id 385 at ([world]386.0, 46.49983701365825, -180.0)
-[16:58:06] [Server thread/INFO]: Dab1080 lost connection: Disconnected
-[16:58:06] [Server thread/INFO]: Dab1080 left the game.
-[16:58:20] [Thread-10/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
-[16:58:20] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:49832] logged in with entity id 477 at ([world]386.0, 70.0, -180.0)
-[16:58:20] [Thread-11/WARN]: [Fatal Error] :6:3: The element type "hr" must be terminated by the matching end-tag "</hr>".
+[17:09:57] [Thread-9/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
+[17:09:57] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:36458] logged in with entity id 285 at ([world]386.0, 70.0, -180.0)
+[17:09:57] [Thread-10/WARN]: [Fatal Error] :6:3: The element type "hr" must be terminated by the matching end-tag "</hr>".
 
-[16:58:20] [Thread-11/WARN]: [MobArena] The version checker failed.
-[16:58:20] [Thread-11/WARN]: [MobArena] This is harmless, but check for updates manually!
-[16:58:31] [Server thread/INFO]: SavageEagler_ issued server command: /home dungeon
-[16:58:37] [Server thread/INFO]: SavageEagler_ issued server command: /gamemode 3
-[16:58:37] [Server thread/INFO]: [SavageEagler_: Set own game mode to Spectator Mode]
-[16:58:59] [Server thread/INFO]: SavageEagler_ issued server command: /gamemode 1
-[16:58:59] [Server thread/INFO]: [SavageEagler_: Set own game mode to Creative Mode]
-[16:59:21] [Server thread/INFO]: SavageEagler_ issued server command: /cast bridge
-[16:59:31] [Server thread/INFO]: SavageEagler_ issued server command: /cast build
-[16:59:36] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
-[16:59:36] [Server thread/INFO]: SavageEagler_ left the game.
-[17:00:04] [Thread-12/INFO]: UUID of player SavageEagler_ is e1e8d257-9e79-332f-bd58-453b258cc759
-[17:00:04] [Server thread/INFO]: SavageEagler_[/[0:0:0:0:0:0:0:1]:43668] logged in with entity id 796 at ([world]386.0, 70.0, -180.0)
-[17:00:04] [Thread-13/WARN]: [Fatal Error] :6:3: The element type "hr" must be terminated by the matching end-tag "</hr>".
-
-[17:00:04] [Thread-13/WARN]: [MobArena] The version checker failed.
-[17:00:04] [Thread-13/WARN]: [MobArena] This is harmless, but check for updates manually!
-[17:00:18] [Server thread/INFO]: SavageEagler_ issued server command: /home dungeon
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:09:57] [Thread-10/WARN]: [MobArena] The version checker failed.
+[17:09:57] [Thread-10/WARN]: [MobArena] This is harmless, but check for updates manually!
+[17:10:13] [Server thread/INFO]: SavageEagler_ issued server command: /gamemode 3
+[17:10:13] [Server thread/INFO]: [SavageEagler_: Set own game mode to Spectator Mode]
+[17:10:38] [Server thread/INFO]: SavageEagler_ issued server command: /gamemode 1
+[17:10:38] [Server thread/INFO]: [SavageEagler_: Set own game mode to Creative Mode]
+[17:10:44] [Server thread/WARN]: SavageEagler_ moved too quickly! -13.776588511063892,-0.7545024112429672,-0.5514098963287779 (-13.776588511063892, -0.7545024112429672, -0.5514098963287779)
+[17:11:01] [Server thread/INFO]: SavageEagler_ issued server command: /back
+[17:11:14] [Server thread/INFO]: SavageEagler_ issued server command: //set obsidian
+[17:11:33] [Server thread/INFO]: SavageEagler_ lost connection: Disconnected
+[17:11:33] [Server thread/INFO]: SavageEagler_ left the game.
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -427,7 +420,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -440,7 +433,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -453,7 +446,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -466,7 +459,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -479,7 +472,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -492,7 +485,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -505,7 +498,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -518,7 +511,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -531,7 +524,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -544,7 +537,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -557,7 +550,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -570,7 +563,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -583,7 +576,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -596,7 +589,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -609,7 +602,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -622,7 +615,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -635,7 +628,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -648,7 +641,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -661,7 +654,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -674,7 +667,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -687,7 +680,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -700,7 +693,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -713,7 +706,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -726,7 +719,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -739,7 +732,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -752,7 +745,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -765,7 +758,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -778,7 +771,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -791,7 +784,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -804,7 +797,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -817,7 +810,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -830,7 +823,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -843,7 +836,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -856,7 +849,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -869,7 +862,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -882,7 +875,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -895,7 +888,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -908,7 +901,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -921,7 +914,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -934,7 +927,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -947,7 +940,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -960,7 +953,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -973,7 +966,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -986,7 +979,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -999,7 +992,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1012,7 +1005,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1025,7 +1018,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1038,7 +1031,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1051,7 +1044,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1064,7 +1057,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1077,7 +1070,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1090,7 +1083,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1103,7 +1096,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1116,7 +1109,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1129,7 +1122,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1142,7 +1135,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1155,7 +1148,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1168,7 +1161,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1181,7 +1174,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1194,7 +1187,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1207,7 +1200,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1220,7 +1213,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1233,7 +1226,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1246,7 +1239,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1259,7 +1252,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1272,7 +1265,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1285,7 +1278,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1298,7 +1291,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1311,7 +1304,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1324,7 +1317,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1337,7 +1330,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1350,7 +1343,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1363,7 +1356,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1376,7 +1369,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1389,7 +1382,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1402,7 +1395,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1415,7 +1408,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1428,7 +1421,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1441,7 +1434,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1454,7 +1447,7 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:18] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
+[17:11:33] [Server thread/ERROR]: Couldn't save chunk; already in use by another instance of Minecraft?
 net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session lock for world located at ./world_the_end, aborting. Stop the server and delete the session.lock in this world to prevent further issues.
 	at net.minecraft.server.v1_8_R3.WorldNBTStorage.checkSession(WorldNBTStorage.java:80) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.World.checkSession(World.java:2976) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -1467,5 +1460,4 @@ net.minecraft.server.v1_8_R3.ExceptionWorldConflict: Failed to check session loc
 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:00:42] [Thread-2/INFO]: Stopping server
-[17:00:42] [Thread-2/INFO]: [CraftBook] Disabling CraftBook v2372-beaf82e
+[17:11:36] [Thread-2/INFO]: Stopping server
