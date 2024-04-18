@@ -83,6 +83,10 @@ players:
     teammanager: 'false'
     teamchat: 'false'
     chatspy: 'false'
+  8cd5230e-6520-3baf-8079-bf0714c7cbdb:
+    teammanager: 'false'
+    teamchat: 'false'
+    chatspy: 'false'
 Admins:
   ff: 'false'
   password: Admin
