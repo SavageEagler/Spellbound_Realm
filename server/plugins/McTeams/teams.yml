@@ -21,7 +21,6 @@ players:
     teammanager: 'false'
     teamchat: 'false'
     chatspy: 'false'
-    team: '1'
   0dc7e8d8-8d56-3abf-b36c-0cde61e99b7b:
     teammanager: 'false'
     teamchat: 'false'
@@ -105,5 +104,4 @@ Admins:
   - 83949d3a-ab99-3644-a8c0-43977ec748c0
   - 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
   - 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b
-  - 321c7be9-79b4-3dd7-b22f-a9fefc3e081b
   - 85d2b04f-eca1-3908-8c60-da2a685d4bf2
