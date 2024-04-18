@@ -8,6 +8,7 @@ explosivearrow:280,280|WAND
 fireball:280
 firenova:277:120|FireNova Ligma shit,280
 food
+forget
 freeze:280
 gate
 help

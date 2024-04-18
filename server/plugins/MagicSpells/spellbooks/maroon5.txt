@@ -3,10 +3,12 @@ bind
 blink
 confusion
 cripple:352,267:40,280
+enderchest
 explosivearrow
 fireball:352,267:40,280
 firenova:280
 forcetoss:280
+forget
 freeze:352,280
 help
 list

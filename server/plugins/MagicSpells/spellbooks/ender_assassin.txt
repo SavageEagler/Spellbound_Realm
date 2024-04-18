@@ -3,8 +3,8 @@ bind
 blink:331,280|TP,280
 confusion
 cripple
-explosivearrow
-fireball
+explosivearrow:262|BoomBoom,340|§eInventory
+fireball:50
 firenova
 food
 help
@@ -12,4 +12,4 @@ list
 poison
 reach:280,263
 repair
-shadowstep
+shadowstep:352

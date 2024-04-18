@@ -1,7 +1,10 @@
 bind
 blink:-1,280
+enderchest
+food
 help
 list
 poison:-1,280
 reach
+teach
 unbind
