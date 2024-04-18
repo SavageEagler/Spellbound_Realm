@@ -35,8 +35,8 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
-    cache-chunk-maps: false
     disable-teleportation-suffocation-check: false
+    cache-chunk-maps: false
     remove-invalid-mob-spawner-tile-entities: true
     player-blocking-damage-multiplier: 0.5
     optimize-explosions: false
