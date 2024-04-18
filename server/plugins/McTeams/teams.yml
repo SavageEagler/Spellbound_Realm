@@ -1,8 +1,9 @@
 players:
   6d9f24ad-89a5-31f6-ac89-cfd65aa7827b:
-    teammanager: 'false'
+    teammanager: 'true'
     teamchat: 'false'
     chatspy: 'false'
+    team: ShittyAlliance
   a8b75ddd-a143-324b-a193-53bc7b022c78:
     teammanager: 'false'
     teamchat: 'false'
@@ -93,3 +94,8 @@ Admins:
   memberlist:
   - 83949d3a-ab99-3644-a8c0-43977ec748c0
   - 8b6419f0-c21a-3140-a67d-1e8bbb3a235c
+ShittyAlliance:
+  ff: 'false'
+  password: poopoo
+  memberlist:
+  - 6d9f24ad-89a5-31f6-ac89-cfd65aa7827b

@@ -1,10 +1,11 @@
 armor
 bind
 blink
+confusion
 cripple:280
 explosivearrow:280,280|WAND
 fireball:280
-firenova:277:120|FireNova Ligma shit,277:118,280
+firenova:277:120|FireNova Ligma shit,280
 food
 freeze:280
 help
@@ -13,4 +14,5 @@ poison:280
 reach
 repair
 shadowstep
+teach
 unbind

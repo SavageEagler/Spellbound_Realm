@@ -1,3 +1,5 @@
+armor
+confusion
 cripple
 explosivearrow
 fireball
@@ -9,3 +11,4 @@ poison
 reach
 repair
 shadowstep
+teach
